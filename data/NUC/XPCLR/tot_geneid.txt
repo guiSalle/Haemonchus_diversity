@@ -1,0 +1,1740 @@
+top_1_Celeg_TT:1002283-1004283.fasta.blastn gene_id "HCOI00740300"
+top_1_Celeg_TT:1004283-1006283.fasta.blastn gene_id "HCOI00740300"
+top_1_Celeg_TT:10172037-10174037.fasta.blastn
+top_1_Celeg_TT:10172077-10174077.fasta.blastn
+top_1_Celeg_TT:10174037-10176037.fasta.blastn gene_id "HCOI02039300"
+top_1_Celeg_TT:10174077-10176077.fasta.blastn gene_id "HCOI02039300"
+top_1_Celeg_TT:1032703-1034703.fasta.blastn gene_id "HCOI01328400"
+top_1_Celeg_TT:1054644-1056644.fasta.blastn gene_id "HCOI00907900"
+top_1_Celeg_TT:10672381-10674381.fasta.blastn gene_id "HCOI01597700"
+top_1_Celeg_TT:10674381-10676381.fasta.blastn
+top_1_Celeg_TT:10836300-10838300.fasta.blastn gene_id "HCOI00207700"
+top_1_Celeg_TT:110644-112644.fasta.blastn
+top_1_Celeg_TT:112644-114644.fasta.blastn
+top_1_Celeg_TT:112703-114703.fasta.blastn
+top_1_Celeg_TT:113453-115453.fasta.blastn
+top_1_Celeg_TT:11496077-11498077.fasta.blastn
+top_1_Celeg_TT:11498077-11500077.fasta.blastn
+top_1_Celeg_TT:11538364-11540364.fasta.blastn
+top_1_Celeg_TT:11540364-11542364.fasta.blastn
+top_1_Celeg_TT:11625865-11627865.fasta.blastn gene_id "HCOI01710500"
+top_1_Celeg_TT:11717891-11719891.fasta.blastn gene_id "HCOI01710100"
+top_1_Celeg_TT:11886087-11888087.fasta.blastn
+top_1_Celeg_TT:11888087-11890087.fasta.blastn gene_id "HCOI02111800"
+top_1_Celeg_TT:12226381-12228381.fasta.blastn
+top_1_Celeg_TT:12253865-12255865.fasta.blastn
+top_1_Celeg_TT:12255865-12257865.fasta.blastn
+top_1_Celeg_TT:12717710-12719710.fasta.blastn
+top_1_Celeg_TT:12763891-12765891.fasta.blastn gene_id "HCOI02061100"
+top_1_Celeg_TT:12812300-12814300.fasta.blastn
+top_1_Celeg_TT:12814300-12816300.fasta.blastn
+top_1_Celeg_TT:12835865-12837865.fasta.blastn
+top_1_Celeg_TT:12837865-12839865.fasta.blastn
+top_1_Celeg_TT:12875891-12877891.fasta.blastn gene_id "HCOI01136800"
+top_1_Celeg_TT:13047891-13049891.fasta.blastn gene_id "HCOI01728400"
+top_1_Celeg_TT:1315961-1317961.fasta.blastn
+top_1_Celeg_TT:1317961-1319961.fasta.blastn
+top_1_Celeg_TT:13883865-13885865.fasta.blastn gene_id "HCOI00333200"
+top_1_Celeg_TT:13894381-13896381.fasta.blastn gene_id "HCOI00333100"
+top_1_Celeg_TT:13896381-13898381.fasta.blastn gene_id "HCOI00333100"
+top_1_Celeg_TT:13914381-13916381.fasta.blastn gene_id "HCOI00852200"
+top_1_Celeg_TT:13916381-13918381.fasta.blastn gene_id "HCOI00852200"
+top_1_Celeg_TT:14018381-14020381.fasta.blastn gene_id "HCOI02164600"
+top_1_Celeg_TT:14048381-14050381.fasta.blastn
+top_1_Celeg_TT:140644-142644.fasta.blastn
+top_1_Celeg_TT:1411184-1413184.fasta.blastn
+top_1_Celeg_TT:1413184-1415184.fasta.blastn
+top_1_Celeg_TT:1456283-1458283.fasta.blastn gene_id "HCOI01440600"
+top_1_Celeg_TT:14628933-14630933.fasta.blastn
+top_1_Celeg_TT:14630933-14632933.fasta.blastn
+top_1_Celeg_TT:14632933-14634933.fasta.blastn
+top_1_Celeg_TT:14656532-14658532.fasta.blastn
+top_1_Celeg_TT:1488644-1490644.fasta.blastn
+top_1_Celeg_TT:15780532-15782532.fasta.blastn
+top_1_Celeg_TT:15782532-15784532.fasta.blastn
+top_1_Celeg_TT:1580703-1582703.fasta.blastn gene_id "HCOI00573500"
+top_1_Celeg_TT:15997871-15999871.fasta.blastn gene_id "HCOI00432100"
+top_1_Celeg_TT:16015072-16017072.fasta.blastn gene_id "HCOI00289800"
+top_1_Celeg_TT:16021072-16023072.fasta.blastn gene_id "HCOI00289900"
+top_1_Celeg_TT:16146532-16148532.fasta.blastn gene_id "HCOI00543000"
+top_1_Celeg_TT:1634644-1636644.fasta.blastn
+top_1_Celeg_TT:1636644-1638644.fasta.blastn
+top_1_Celeg_TT:1702283-1704283.fasta.blastn gene_id "HCOI00439200"
+top_1_Celeg_TT:17756580-17758580.fasta.blastn
+top_1_Celeg_TT:17882532-17884532.fasta.blastn gene_id "HCOI00954100"
+top_1_Celeg_TT:17904532-17906532.fasta.blastn
+top_1_Celeg_TT:17915045-17917045.fasta.blastn gene_id "HCOI00500400"
+top_1_Celeg_TT:17917045-17919045.fasta.blastn gene_id "HCOI00500400"
+top_1_Celeg_TT:17918933-17920933.fasta.blastn gene_id "HCOI00500400"
+top_1_Celeg_TT:17919045-17921045.fasta.blastn gene_id "HCOI00500400"
+top_1_Celeg_TT:18626588-18628588.fasta.blastn gene_id "HCOI01048000"
+top_1_Celeg_TT:18627871-18629871.fasta.blastn gene_id "HCOI01048000"
+top_1_Celeg_TT:18628588-18630588.fasta.blastn gene_id "HCOI01048000"
+top_1_Celeg_TT:18629871-18631871.fasta.blastn gene_id "HCOI01048000"
+top_1_Celeg_TT:18631871-18633871.fasta.blastn gene_id "HCOI01048100"
+top_1_Celeg_TT:18703-20703.fasta.blastn gene_id "HCOI01207600"
+top_1_Celeg_TT:18720532-18722532.fasta.blastn
+top_1_Celeg_TT:18722532-18724532.fasta.blastn gene_id "HCOI01962100"
+top_1_Celeg_TT:18724532-18726532.fasta.blastn gene_id "HCOI01962100"
+top_1_Celeg_TT:18726532-18728532.fasta.blastn gene_id "HCOI01962100"
+top_1_Celeg_TT:18894829-18896829.fasta.blastn
+top_1_Celeg_TT:18896829-18898829.fasta.blastn
+top_1_Celeg_TT:19528829-19530829.fasta.blastn
+top_1_Celeg_TT:19534928-19536928.fasta.blastn
+top_1_Celeg_TT:19536928-19538928.fasta.blastn
+top_1_Celeg_TT:19696532-19698532.fasta.blastn
+top_1_Celeg_TT:22294572-22296572.fasta.blastn gene_id "HCOI00193400"
+top_1_Celeg_TT:22742554-22744554.fasta.blastn
+top_1_Celeg_TT:22744554-22746554.fasta.blastn
+top_1_Celeg_TT:23420554-23422554.fasta.blastn
+top_1_Celeg_TT:23968554-23970554.fasta.blastn gene_id "HCOI00065800"
+top_1_Celeg_TT:23970554-23972554.fasta.blastn gene_id "HCOI00065800"
+top_1_Celeg_TT:23990554-23992554.fasta.blastn
+top_1_Celeg_TT:23992554-23994554.fasta.blastn
+top_1_Celeg_TT:23994554-23996554.fasta.blastn
+top_1_Celeg_TT:24502774-24504774.fasta.blastn gene_id "HCOI00388200"
+top_1_Celeg_TT:24504774-24506774.fasta.blastn gene_id "HCOI00388200"
+top_1_Celeg_TT:24990661-24992661.fasta.blastn gene_id "HCOI01739200"
+top_1_Celeg_TT:24992661-24994661.fasta.blastn gene_id "HCOI01739200"
+top_1_Celeg_TT:24994661-24996661.fasta.blastn gene_id "HCOI01739200"
+top_1_Celeg_TT:26316778-26318778.fasta.blastn
+top_1_Celeg_TT:26450453-26452453.fasta.blastn
+top_1_Celeg_TT:2708283-2710283.fasta.blastn
+top_1_Celeg_TT:2712703-2714703.fasta.blastn gene_id "HCOI01393300"
+top_1_Celeg_TT:2714703-2716703.fasta.blastn
+top_1_Celeg_TT:27176453-27178453.fasta.blastn
+top_1_Celeg_TT:27178453-27180453.fasta.blastn
+top_1_Celeg_TT:27488774-27490774.fasta.blastn
+top_1_Celeg_TT:27490774-27492774.fasta.blastn
+top_1_Celeg_TT:2758283-2760283.fasta.blastn
+top_1_Celeg_TT:27640661-27642661.fasta.blastn gene_id "HCOI_8s_rRNA_20"
+top_1_Celeg_TT:2779961-2781961.fasta.blastn gene_id "HCOI00309400"
+top_1_Celeg_TT:28290774-28292774.fasta.blastn gene_id "HCOI01767600"
+top_1_Celeg_TT:28292774-28294774.fasta.blastn
+top_1_Celeg_TT:2837961-2839961.fasta.blastn
+top_1_Celeg_TT:28494453-28496453.fasta.blastn
+top_1_Celeg_TT:28612778-28614778.fasta.blastn gene_id "HCOI00327400"
+top_1_Celeg_TT:28770661-28772661.fasta.blastn gene_id "HCOI01587500"
+top_1_Celeg_TT:3033074-3035074.fasta.blastn gene_id "HCOI00461300"
+top_1_Celeg_TT:30609750-30611750.fasta.blastn gene_id "HCOI00551900"
+top_1_Celeg_TT:30646136-30648136.fasta.blastn gene_id "HCOI00551400"
+top_1_Celeg_TT:30648136-30650136.fasta.blastn gene_id "HCOI00551300"
+top_1_Celeg_TT:30650136-30652136.fasta.blastn gene_id "HCOI00551300"
+top_1_Celeg_TT:30774508-30776508.fasta.blastn
+top_1_Celeg_TT:30774540-30776540.fasta.blastn
+top_1_Celeg_TT:30774680-30776680.fasta.blastn
+top_1_Celeg_TT:30776445-30778445.fasta.blastn
+top_1_Celeg_TT:30776508-30778508.fasta.blastn
+top_1_Celeg_TT:30776540-30778540.fasta.blastn
+top_1_Celeg_TT:30776680-30778680.fasta.blastn
+top_1_Celeg_TT:30887827-30889827.fasta.blastn gene_id "HCOI01958100"
+top_1_Celeg_TT:31036136-31038136.fasta.blastn
+top_1_Celeg_TT:31038136-31040136.fasta.blastn gene_id "HCOI02091600"
+top_1_Celeg_TT:31040136-31042136.fasta.blastn gene_id "HCOI02091600"
+top_1_Celeg_TT:31678676-31680676.fasta.blastn gene_id "HCOI00856600"
+top_1_Celeg_TT:31680676-31682676.fasta.blastn gene_id "HCOI00856600"
+top_1_Celeg_TT:31716676-31718676.fasta.blastn
+top_1_Celeg_TT:31768136-31770136.fasta.blastn gene_id "HCOI00857100"
+top_1_Celeg_TT:31770136-31772136.fasta.blastn gene_id "HCOI00857100"
+top_1_Celeg_TT:31975184-31977184.fasta.blastn gene_id "HCOI00127400"
+top_1_Celeg_TT:31976651-31978651.fasta.blastn
+top_1_Celeg_TT:3233961-3235961.fasta.blastn gene_id "HCOI01139900"
+top_1_Celeg_TT:32546508-32548508.fasta.blastn gene_id "HCOI01157500"
+top_1_Celeg_TT:32548508-32550508.fasta.blastn gene_id "HCOI01157500"
+top_1_Celeg_TT:32779827-32781827.fasta.blastn gene_id "HCOI01957100"
+top_1_Celeg_TT:3307961-3309961.fasta.blastn
+top_1_Celeg_TT:3309961-3311961.fasta.blastn
+top_1_Celeg_TT:3311961-3313961.fasta.blastn gene_id "HCOI01140400"
+top_1_Celeg_TT:3313961-3315961.fasta.blastn
+top_1_Celeg_TT:3315961-3317961.fasta.blastn
+top_1_Celeg_TT:33494680-33496680.fasta.blastn
+top_1_Celeg_TT:33496680-33498680.fasta.blastn
+top_1_Celeg_TT:336644-338644.fasta.blastn
+top_1_Celeg_TT:34107366-34109366.fasta.blastn gene_id "HCOI01921300"
+top_1_Celeg_TT:34109366-34111366.fasta.blastn gene_id "HCOI01921400"
+top_1_Celeg_TT:34166136-34168136.fasta.blastn gene_id "HCOI01894300"
+top_1_Celeg_TT:34168136-34170136.fasta.blastn
+top_1_Celeg_TT:34818651-34820651.fasta.blastn
+top_1_Celeg_TT:34858651-34860651.fasta.blastn gene_id "HCOI01495800"
+top_1_Celeg_TT:34860651-34862651.fasta.blastn gene_id "HCOI01495800"
+top_1_Celeg_TT:359961-361961.fasta.blastn
+top_1_Celeg_TT:3613074-3615074.fasta.blastn
+top_1_Celeg_TT:361961-363961.fasta.blastn
+top_1_Celeg_TT:3633961-3635961.fasta.blastn
+top_1_Celeg_TT:3711961-3713961.fasta.blastn
+top_1_Celeg_TT:37498499-37500499.fasta.blastn gene_id "HCOI00760900"
+top_1_Celeg_TT:37500499-37502499.fasta.blastn gene_id "HCOI00760900"
+top_1_Celeg_TT:37552794-37554794.fasta.blastn
+top_1_Celeg_TT:37767413-37769413.fasta.blastn gene_id "HCOI01226900"
+top_1_Celeg_TT:37768802-37770802.fasta.blastn gene_id "HCOI01226900"
+top_1_Celeg_TT:38224739-38226739.fasta.blastn
+top_1_Celeg_TT:38226739-38228739.fasta.blastn
+top_1_Celeg_TT:39513768-39515768.fasta.blastn gene_id "HCOI02126700"
+top_1_Celeg_TT:39515768-39517768.fasta.blastn gene_id "HCOI02126700"
+top_1_Celeg_TT:39522109-39524109.fasta.blastn gene_id "HCOI02126700"
+top_1_Celeg_TT:39524109-39526109.fasta.blastn gene_id "HCOI02126700"
+top_1_Celeg_TT:3961-5961.fasta.blastn
+top_1_Celeg_TT:39821769-39823769.fasta.blastn gene_id "HCOI01018300"
+top_1_Celeg_TT:39823769-39825769.fasta.blastn gene_id "HCOI01018300"
+top_1_Celeg_TT:40195769-40197769.fasta.blastn gene_id "HCOI00617300"
+top_1_Celeg_TT:40199769-40201769.fasta.blastn gene_id "HCOI00617300"
+top_1_Celeg_TT:40235769-40237769.fasta.blastn
+top_1_Celeg_TT:40237769-40239769.fasta.blastn gene_id "HCOI00617700"
+top_1_Celeg_TT:40385483-40387483.fasta.blastn
+top_1_Celeg_TT:40806315-40808315.fasta.blastn gene_id "HCOI01278800"
+top_1_Celeg_TT:41161492-41163492.fasta.blastn gene_id "HCOI01619100"
+top_1_Celeg_TT:41161769-41163769.fasta.blastn gene_id "HCOI01619100"
+top_1_Celeg_TT:41163492-41165492.fasta.blastn gene_id "HCOI01619200"
+top_1_Celeg_TT:41163769-41165769.fasta.blastn gene_id "HCOI01619200"
+top_1_Celeg_TT:41165492-41167492.fasta.blastn gene_id "HCOI01619200"
+top_1_Celeg_TT:41171492-41173492.fasta.blastn gene_id "HCOI01400300"
+top_1_Celeg_TT:42041483-42043483.fasta.blastn gene_id "HCOI01978600"
+top_1_Celeg_TT:42043483-42045483.fasta.blastn gene_id "HCOI01978600"
+top_1_Celeg_TT:43238315-43240315.fasta.blastn gene_id "HCOI00410000"
+top_1_Celeg_TT:44032312-44034312.fasta.blastn gene_id "HCOI01416500"
+top_1_Celeg_TT:44214315-44216315.fasta.blastn
+top_1_Celeg_TT:44216315-44218315.fasta.blastn
+top_1_Celeg_TT:44592371-44594371.fasta.blastn
+top_1_Celeg_TT:44594371-44596371.fasta.blastn gene_id "HCOI02032600"
+top_1_Celeg_TT:44648371-44650371.fasta.blastn gene_id "HCOI01441000"
+top_1_Celeg_TT:45004371-45006371.fasta.blastn gene_id "HCOI00391000"
+top_1_Celeg_TT:4512870-4514870.fasta.blastn
+top_1_Celeg_TT:4530870-4532870.fasta.blastn
+top_1_Celeg_TT:456283-458283.fasta.blastn gene_id "HCOI00709000"
+top_1_Celeg_TT:45692371-45694371.fasta.blastn
+top_1_Celeg_TT:4629961-4631961.fasta.blastn
+top_1_Celeg_TT:4631961-4633961.fasta.blastn gene_id "HCOI01477600"
+top_1_Celeg_TT:4673961-4675961.fasta.blastn gene_id "HCOI01477300"
+top_1_Celeg_TT:484283-486283.fasta.blastn
+top_1_Celeg_TT:4917961-4919961.fasta.blastn
+top_1_Celeg_TT:4934919-4936919.fasta.blastn gene_id "HCOI_Ala_1_3"
+top_1_Celeg_TT:4935268-4937268.fasta.blastn gene_id "HCOI_Ala_1_3"
+top_1_Celeg_TT:4943961-4945961.fasta.blastn gene_id "HCOI01475600"
+top_1_Celeg_TT:5442778-5444778.fasta.blastn gene_id "HCOI02120500"
+top_1_Celeg_TT:5444778-5446778.fasta.blastn
+top_1_Celeg_TT:6120919-6122919.fasta.blastn gene_id "HCOI00540300"
+top_1_Celeg_TT:6122919-6124919.fasta.blastn gene_id "HCOI00540300"
+top_1_Celeg_TT:671961-673961.fasta.blastn
+top_1_Celeg_TT:6896919-6898919.fasta.blastn
+top_1_Celeg_TT:6900919-6902919.fasta.blastn
+top_1_Celeg_TT:7166919-7168919.fasta.blastn gene_id "HCOI01607300"
+top_1_Celeg_TT:7168919-7170919.fasta.blastn
+top_1_Celeg_TT:7780919-7782919.fasta.blastn gene_id "HCOI01143200"
+top_1_Celeg_TT:7785748-7787748.fasta.blastn gene_id "HCOI01143200"
+top_1_Celeg_TT:7787748-7789748.fasta.blastn gene_id "HCOI01143200"
+top_1_Celeg_TT:7794778-7796778.fasta.blastn
+top_1_Celeg_TT:7796778-7798778.fasta.blastn gene_id "HCOI01143100"
+top_1_Celeg_TT:7936778-7938778.fasta.blastn
+top_1_Celeg_TT:8567212-8569212.fasta.blastn gene_id "HCOI00725800"
+top_1_Celeg_TT:8569212-8571212.fasta.blastn gene_id "HCOI00725800"
+top_1_Celeg_TT:8721268-8723268.fasta.blastn gene_id "HCOI00015800"
+top_1_Celeg_TT:8728919-8730919.fasta.blastn gene_id "HCOI00015700"
+top_1_Celeg_TT:882703-884703.fasta.blastn gene_id "HCOI01293900"
+top_1_Celeg_TT:915453-917453.fasta.blastn gene_id "HCOI01289000"
+top_1_Celeg_TT:9191209-9193209.fasta.blastn
+top_1_Celeg_TT:9193209-9195209.fasta.blastn
+top_1_Celeg_TT:9195209-9197209.fasta.blastn
+top_1_Celeg_TT:9198870-9200870.fasta.blastn
+top_1_Celeg_TT:9198876-9200876.fasta.blastn
+top_1_Celeg_TT:9200870-9202870.fasta.blastn gene_id "HCOI00187600"
+top_1_Celeg_TT:9200876-9202876.fasta.blastn gene_id "HCOI00187600"
+top_1_Celeg_TT:9206876-9208876.fasta.blastn gene_id "HCOI00187500"
+top_1_Celeg_TT:9208876-9210876.fasta.blastn gene_id "HCOI00187500"
+top_1_Celeg_TT:9216876-9218876.fasta.blastn gene_id "HCOI00187400"
+top_1_Celeg_TT:9218876-9220876.fasta.blastn gene_id "HCOI00187400"
+top_1_Celeg_TT:9220876-9222876.fasta.blastn gene_id "HCOI00187400"
+top_1_Celeg_TT:9224870-9226870.fasta.blastn gene_id "HCOI00187400"
+top_1_Celeg_TT:9371657-9373657.fasta.blastn
+top_1_Celeg_TT:9384870-9386870.fasta.blastn gene_id "HCOI01633400"
+top_1_Celeg_TT:9386870-9388870.fasta.blastn gene_id "HCOI01633400"
+top_1_Celeg_TT:9388870-9390870.fasta.blastn gene_id "HCOI01633400"
+top_1_Celeg_TT:9507657-9509657.fasta.blastn gene_id "HCOI00284600"
+top_1_Celeg_TT:9509657-9511657.fasta.blastn gene_id "HCOI00284600"
+top_1_Celeg_TT:9511657-9513657.fasta.blastn gene_id "HCOI00284700"
+top_1_Celeg_TT:9515657-9517657.fasta.blastn gene_id "HCOI00284700"
+top_1_Celeg_TT:9522077-9524077.fasta.blastn gene_id "HCOI00284800"
+top_1_Celeg_TT:9524077-9526077.fasta.blastn gene_id "HCOI00284800"
+top_1_Celeg_TT:9571710-9573710.fasta.blastn
+top_1_Celeg_TT:9596037-9598037.fasta.blastn
+top_1_Celeg_TT:9596077-9598077.fasta.blastn
+top_1_Celeg_TT:9596364-9598364.fasta.blastn gene_id "HCOI00489500"
+top_1_Celeg_TT:9655724-9657724.fasta.blastn
+top_1_Celeg_TT:9655891-9657891.fasta.blastn
+top_1_Celeg_TT:9657724-9659724.fasta.blastn gene_id "HCOI00526100"
+top_1_Celeg_TT:9700381-9702381.fasta.blastn gene_id "HCOI00525900"
+top_1_Celeg_TT:9702381-9704381.fasta.blastn gene_id "HCOI00525900"
+top_1_Celeg_TT:9714381-9716381.fasta.blastn
+top_1_Celeg_TT:9749891-9751891.fasta.blastn gene_id "HCOI02171200"
+top_1_Celeg_TT:9789891-9791891.fasta.blastn gene_id "HCOI02171400"
+top_1_Celeg_TT:9793657-9795657.fasta.blastn gene_id "HCOI02171400"
+top_1_Celeg_TT:9800087-9802087.fasta.blastn gene_id "HCOI02171400"
+top_1_Celeg_TT:9800364-9802364.fasta.blastn gene_id "HCOI02171400"
+top_1_Celeg_TT:9802087-9804087.fasta.blastn gene_id "HCOI02171400"
+top_1_Celeg_TT:9804870-9806870.fasta.blastn gene_id "HCOI02171400"
+top_1_Celeg_TT:9804876-9806876.fasta.blastn gene_id "HCOI02171400"
+top_1_Celeg_TT:9807657-9809657.fasta.blastn gene_id "HCOI02171400"
+top_1_Celeg_TT:9808778-9810778.fasta.blastn gene_id "HCOI02171400"
+top_1_Celeg_TT:9809657-9811657.fasta.blastn gene_id "HCOI02171400"
+top_1_Celeg_TT:9810778-9812778.fasta.blastn gene_id "HCOI02171400"
+top_1_Celeg_TT:9811657-9813657.fasta.blastn
+top_1_Celeg_TT:9812778-9814778.fasta.blastn
+top_1_Celeg_TT:9816919-9818919.fasta.blastn
+top_1_Celeg_TT:9841748-9843748.fasta.blastn gene_id "HCOI02171500"
+top_1_Celeg_TT:9842876-9844876.fasta.blastn gene_id "HCOI02171500"
+top_1_Celeg_TT:9843209-9845209.fasta.blastn gene_id "HCOI02171500"
+top_1_Celeg_TT:9843748-9845748.fasta.blastn gene_id "HCOI02171500"
+top_1_Celeg_TT:9844876-9846876.fasta.blastn
+top_1_Celeg_TT:9845209-9847209.fasta.blastn
+top_1_Celeg_TT:9845748-9847748.fasta.blastn
+top_2_Celeg_TT:10166197-10168197.fasta.blastn gene_id "HCOI02047000"
+top_2_Celeg_TT:1062699-1064699.fasta.blastn gene_id "HCOI01589700"
+top_2_Celeg_TT:1064699-1066699.fasta.blastn gene_id "HCOI02161800"
+top_2_Celeg_TT:1094699-1096699.fasta.blastn gene_id "HCOI01823200"
+top_2_Celeg_TT:1100699-1102699.fasta.blastn
+top_2_Celeg_TT:1102699-1104699.fasta.blastn
+top_2_Celeg_TT:11039673-11041673.fasta.blastn
+top_2_Celeg_TT:11041673-11043673.fasta.blastn
+top_2_Celeg_TT:1104699-1106699.fasta.blastn
+top_2_Celeg_TT:11059673-11061673.fasta.blastn
+top_2_Celeg_TT:11210959-11212959.fasta.blastn
+top_2_Celeg_TT:11212959-11214959.fasta.blastn
+top_2_Celeg_TT:11235595-11237595.fasta.blastn gene_id "HCOI02110100"
+top_2_Celeg_TT:11235769-11237769.fasta.blastn gene_id "HCOI02110100"
+top_2_Celeg_TT:11313027-11315027.fasta.blastn gene_id "HCOI01361300"
+top_2_Celeg_TT:11315027-11317027.fasta.blastn gene_id "HCOI01361300"
+top_2_Celeg_TT:11320427-11322427.fasta.blastn gene_id "HCOI01361500"
+top_2_Celeg_TT:11322427-11324427.fasta.blastn gene_id "HCOI01361500"
+top_2_Celeg_TT:11341673-11343673.fasta.blastn gene_id "HCOI01361700"
+top_2_Celeg_TT:11343673-11345673.fasta.blastn
+top_2_Celeg_TT:11345555-11347555.fasta.blastn gene_id "HCOI01361800"
+top_2_Celeg_TT:11345673-11347673.fasta.blastn gene_id "HCOI01361800"
+top_2_Celeg_TT:11345857-11347857.fasta.blastn gene_id "HCOI01361800"
+top_2_Celeg_TT:11347555-11349555.fasta.blastn gene_id "HCOI01361800"
+top_2_Celeg_TT:11347673-11349673.fasta.blastn gene_id "HCOI01361800"
+top_2_Celeg_TT:11347857-11349857.fasta.blastn gene_id "HCOI01361800"
+top_2_Celeg_TT:1136403-1138403.fasta.blastn
+top_2_Celeg_TT:11493673-11495673.fasta.blastn
+top_2_Celeg_TT:11495673-11497673.fasta.blastn gene_id "HCOI00491100"
+top_2_Celeg_TT:11497673-11499673.fasta.blastn gene_id "HCOI00491100"
+top_2_Celeg_TT:11547027-11549027.fasta.blastn
+top_2_Celeg_TT:11851027-11853027.fasta.blastn gene_id "HCOI00197200"
+top_2_Celeg_TT:11853027-11855027.fasta.blastn gene_id "HCOI00197200"
+top_2_Celeg_TT:11855027-11857027.fasta.blastn gene_id "HCOI00197200"
+top_2_Celeg_TT:12234624-12236624.fasta.blastn
+top_2_Celeg_TT:12235769-12237769.fasta.blastn
+top_2_Celeg_TT:12236624-12238624.fasta.blastn
+top_2_Celeg_TT:12237769-12239769.fasta.blastn
+top_2_Celeg_TT:12238624-12240624.fasta.blastn
+top_2_Celeg_TT:12240624-12242624.fasta.blastn
+top_2_Celeg_TT:1233355-1235355.fasta.blastn
+top_2_Celeg_TT:12351673-12353673.fasta.blastn
+top_2_Celeg_TT:12353673-12355673.fasta.blastn
+top_2_Celeg_TT:1249156-1251156.fasta.blastn
+top_2_Celeg_TT:1251145-1253145.fasta.blastn
+top_2_Celeg_TT:1251156-1253156.fasta.blastn
+top_2_Celeg_TT:12721027-12723027.fasta.blastn
+top_2_Celeg_TT:12723027-12725027.fasta.blastn
+top_2_Celeg_TT:12725027-12727027.fasta.blastn gene_id "HCOI00744100"
+top_2_Celeg_TT:12841595-12843595.fasta.blastn gene_id "HCOI00493200"
+top_2_Celeg_TT:12843595-12845595.fasta.blastn gene_id "HCOI00493200"
+top_2_Celeg_TT:12907027-12909027.fasta.blastn
+top_2_Celeg_TT:12938959-12940959.fasta.blastn
+top_2_Celeg_TT:12940959-12942959.fasta.blastn gene_id "HCOI01170500"
+top_2_Celeg_TT:13081027-13083027.fasta.blastn gene_id "HCOI01306900"
+top_2_Celeg_TT:13097769-13099769.fasta.blastn
+top_2_Celeg_TT:13099769-13101769.fasta.blastn
+top_2_Celeg_TT:13117769-13119769.fasta.blastn
+top_2_Celeg_TT:1325145-1327145.fasta.blastn gene_id "HCOI00384000"
+top_2_Celeg_TT:1325156-1327156.fasta.blastn gene_id "HCOI00384000"
+top_2_Celeg_TT:13329027-13331027.fasta.blastn gene_id "HCOI01560800"
+top_2_Celeg_TT:13431027-13433027.fasta.blastn gene_id "HCOI00575100"
+top_2_Celeg_TT:13439027-13441027.fasta.blastn
+top_2_Celeg_TT:13441027-13443027.fasta.blastn gene_id "HCOI00575000"
+top_2_Celeg_TT:13443027-13445027.fasta.blastn gene_id "HCOI00575000"
+top_2_Celeg_TT:13457027-13459027.fasta.blastn
+top_2_Celeg_TT:13459027-13461027.fasta.blastn
+top_2_Celeg_TT:13471027-13473027.fasta.blastn
+top_2_Celeg_TT:13478695-13480695.fasta.blastn
+top_2_Celeg_TT:13480695-13482695.fasta.blastn
+top_2_Celeg_TT:13482695-13484695.fasta.blastn
+top_2_Celeg_TT:13483857-13485857.fasta.blastn
+top_2_Celeg_TT:13484695-13486695.fasta.blastn
+top_2_Celeg_TT:13625027-13627027.fasta.blastn
+top_2_Celeg_TT:13627027-13629027.fasta.blastn
+top_2_Celeg_TT:1365550-1367550.fasta.blastn gene_id "HCOI_Ala_1_21"
+top_2_Celeg_TT:1383471-1385471.fasta.blastn gene_id "HCOI00724900"
+top_2_Celeg_TT:1385471-1387471.fasta.blastn gene_id "HCOI00724900"
+top_2_Celeg_TT:14115027-14117027.fasta.blastn gene_id "HCOI00254600"
+top_2_Celeg_TT:14117027-14119027.fasta.blastn gene_id "HCOI00254600"
+top_2_Celeg_TT:14334197-14336197.fasta.blastn
+top_2_Celeg_TT:144988-146988.fasta.blastn
+top_2_Celeg_TT:14517769-14519769.fasta.blastn
+top_2_Celeg_TT:14518163-14520163.fasta.blastn
+top_2_Celeg_TT:14519769-14521769.fasta.blastn
+top_2_Celeg_TT:14520163-14522163.fasta.blastn
+top_2_Celeg_TT:14522163-14524163.fasta.blastn
+top_2_Celeg_TT:14524163-14526163.fasta.blastn
+top_2_Celeg_TT:14643791-14645791.fasta.blastn
+top_2_Celeg_TT:14644223-14646223.fasta.blastn
+top_2_Celeg_TT:14659027-14661027.fasta.blastn gene_id "HCOI01868400"
+top_2_Celeg_TT:14675673-14677673.fasta.blastn gene_id "HCOI01868500"
+top_2_Celeg_TT:14677673-14679673.fasta.blastn gene_id "HCOI01868500"
+top_2_Celeg_TT:14679673-14681673.fasta.blastn gene_id "HCOI01868500"
+top_2_Celeg_TT:14689027-14691027.fasta.blastn
+top_2_Celeg_TT:14691027-14693027.fasta.blastn gene_id "HCOI01868600"
+top_2_Celeg_TT:14751880-14753880.fasta.blastn gene_id "HCOI01868900"
+top_2_Celeg_TT:14829027-14831027.fasta.blastn
+top_2_Celeg_TT:14831027-14833027.fasta.blastn
+top_2_Celeg_TT:14833027-14835027.fasta.blastn
+top_2_Celeg_TT:1489156-1491156.fasta.blastn gene_id "HCOI01629100"
+top_2_Celeg_TT:14893857-14895857.fasta.blastn
+top_2_Celeg_TT:14895857-14897857.fasta.blastn gene_id "HCOI01625200"
+top_2_Celeg_TT:1491156-1493156.fasta.blastn gene_id "HCOI01629100"
+top_2_Celeg_TT:14929027-14931027.fasta.blastn
+top_2_Celeg_TT:15136050-15138050.fasta.blastn gene_id "HCOI02049200"
+top_2_Celeg_TT:15138050-15140050.fasta.blastn gene_id "HCOI02049200"
+top_2_Celeg_TT:15142050-15144050.fasta.blastn gene_id "HCOI02049200"
+top_2_Celeg_TT:15144050-15146050.fasta.blastn
+top_2_Celeg_TT:15176050-15178050.fasta.blastn
+top_2_Celeg_TT:1522125-1524125.fasta.blastn gene_id "HCOI00266800"
+top_2_Celeg_TT:1537156-1539156.fasta.blastn gene_id "HCOI01629300"
+top_2_Celeg_TT:1549550-1551550.fasta.blastn gene_id "HCOI01629400"
+top_2_Celeg_TT:1550125-1552125.fasta.blastn gene_id "HCOI01629400"
+top_2_Celeg_TT:15536050-15538050.fasta.blastn gene_id "HCOI01653700"
+top_2_Celeg_TT:15538050-15540050.fasta.blastn gene_id "HCOI01653700"
+top_2_Celeg_TT:15575880-15577880.fasta.blastn gene_id "HCOI01653200"
+top_2_Celeg_TT:15595882-15597882.fasta.blastn
+top_2_Celeg_TT:15597882-15599882.fasta.blastn gene_id "HCOI00141000"
+top_2_Celeg_TT:15609774-15611774.fasta.blastn gene_id "HCOI01817100"
+top_2_Celeg_TT:15611774-15613774.fasta.blastn gene_id "HCOI01817100"
+top_2_Celeg_TT:15613774-15615774.fasta.blastn gene_id "HCOI01817100"
+top_2_Celeg_TT:1611471-1613471.fasta.blastn gene_id "HCOI01866400"
+top_2_Celeg_TT:16204050-16206050.fasta.blastn
+top_2_Celeg_TT:16923880-16925880.fasta.blastn gene_id "HCOI01595700"
+top_2_Celeg_TT:16991017-16993017.fasta.blastn gene_id "HCOI01596000"
+top_2_Celeg_TT:17059771-17061771.fasta.blastn
+top_2_Celeg_TT:17059811-17061811.fasta.blastn
+top_2_Celeg_TT:17083017-17085017.fasta.blastn gene_id "HCOI01152800"
+top_2_Celeg_TT:17085017-17087017.fasta.blastn gene_id "HCOI01152800"
+top_2_Celeg_TT:17226146-17228146.fasta.blastn
+top_2_Celeg_TT:17228146-17230146.fasta.blastn
+top_2_Celeg_TT:17524050-17526050.fasta.blastn gene_id "HCOI00547100"
+top_2_Celeg_TT:17645929-17647929.fasta.blastn
+top_2_Celeg_TT:17710050-17712050.fasta.blastn gene_id "HCOI02051700"
+top_2_Celeg_TT:17788050-17790050.fasta.blastn gene_id "HCOI00287600"
+top_2_Celeg_TT:17987929-17989929.fasta.blastn
+top_2_Celeg_TT:18024050-18026050.fasta.blastn gene_id "HCOI00453400"
+top_2_Celeg_TT:18038050-18040050.fasta.blastn
+top_2_Celeg_TT:18040050-18042050.fasta.blastn
+top_2_Celeg_TT:18159012-18161012.fasta.blastn gene_id "HCOI01572300"
+top_2_Celeg_TT:18275811-18277811.fasta.blastn gene_id "HCOI01571600"
+top_2_Celeg_TT:18358050-18360050.fasta.blastn gene_id "HCOI01222200"
+top_2_Celeg_TT:18360050-18362050.fasta.blastn gene_id "HCOI01222200"
+top_2_Celeg_TT:18718050-18720050.fasta.blastn gene_id "HCOI01519500"
+top_2_Celeg_TT:19298050-19300050.fasta.blastn
+top_2_Celeg_TT:19303774-19305774.fasta.blastn
+top_2_Celeg_TT:19305774-19307774.fasta.blastn
+top_2_Celeg_TT:19405771-19407771.fasta.blastn
+top_2_Celeg_TT:19405811-19407811.fasta.blastn
+top_2_Celeg_TT:19455811-19457811.fasta.blastn
+top_2_Celeg_TT:19533744-19535744.fasta.blastn
+top_2_Celeg_TT:19535744-19537744.fasta.blastn gene_id "HCOI02078600"
+top_2_Celeg_TT:19537744-19539744.fasta.blastn gene_id "HCOI02078600"
+top_2_Celeg_TT:19636050-19638050.fasta.blastn
+top_2_Celeg_TT:19638050-19640050.fasta.blastn
+top_2_Celeg_TT:19741744-19743744.fasta.blastn
+top_2_Celeg_TT:19743744-19745744.fasta.blastn
+top_2_Celeg_TT:19883128-19885128.fasta.blastn
+top_2_Celeg_TT:19901744-19903744.fasta.blastn gene_id "HCOI00308300"
+top_2_Celeg_TT:19903744-19905744.fasta.blastn gene_id "HCOI00308300"
+top_2_Celeg_TT:19969128-19971128.fasta.blastn gene_id "HCOI00348900"
+top_2_Celeg_TT:20355886-20357886.fasta.blastn
+top_2_Celeg_TT:20385835-20387835.fasta.blastn
+top_2_Celeg_TT:20387835-20389835.fasta.blastn gene_id "HCOI02103600"
+top_2_Celeg_TT:20397973-20399973.fasta.blastn gene_id "HCOI02103700"
+top_2_Celeg_TT:20439128-20441128.fasta.blastn
+top_2_Celeg_TT:20463128-20465128.fasta.blastn gene_id "HCOI02104000"
+top_2_Celeg_TT:20469835-20471835.fasta.blastn
+top_2_Celeg_TT:20471835-20473835.fasta.blastn
+top_2_Celeg_TT:20791128-20793128.fasta.blastn
+top_2_Celeg_TT:20793128-20795128.fasta.blastn
+top_2_Celeg_TT:20817128-20819128.fasta.blastn
+top_2_Celeg_TT:2151471-2153471.fasta.blastn
+top_2_Celeg_TT:21795973-21797973.fasta.blastn
+top_2_Celeg_TT:21807988-21809988.fasta.blastn gene_id "HCOI00398300"
+top_2_Celeg_TT:21865511-21867511.fasta.blastn
+top_2_Celeg_TT:21873890-21875890.fasta.blastn gene_id "HCOI01507400"
+top_2_Celeg_TT:21875886-21877886.fasta.blastn gene_id "HCOI01507400"
+top_2_Celeg_TT:21875890-21877890.fasta.blastn gene_id "HCOI01507400"
+top_2_Celeg_TT:21951511-21953511.fasta.blastn
+top_2_Celeg_TT:21951973-21953973.fasta.blastn
+top_2_Celeg_TT:21953511-21955511.fasta.blastn gene_id "HCOI01307400"
+top_2_Celeg_TT:21953973-21955973.fasta.blastn gene_id "HCOI01307400"
+top_2_Celeg_TT:21955511-21957511.fasta.blastn gene_id "HCOI01307400"
+top_2_Celeg_TT:21955973-21957973.fasta.blastn gene_id "HCOI01307400"
+top_2_Celeg_TT:22211128-22213128.fasta.blastn gene_id "HCOI00252300"
+top_2_Celeg_TT:22213128-22215128.fasta.blastn gene_id "HCOI00252300"
+top_2_Celeg_TT:22243128-22245128.fasta.blastn gene_id "HCOI01650200"
+top_2_Celeg_TT:22243383-22245383.fasta.blastn gene_id "HCOI01650200"
+top_2_Celeg_TT:22245128-22247128.fasta.blastn gene_id "HCOI01650200"
+top_2_Celeg_TT:22247125-22249125.fasta.blastn gene_id "HCOI01650200"
+top_2_Celeg_TT:22255886-22257886.fasta.blastn gene_id "HCOI01650100"
+top_2_Celeg_TT:22313128-22315128.fasta.blastn gene_id "HCOI01385400"
+top_2_Celeg_TT:22315988-22317988.fasta.blastn
+top_2_Celeg_TT:22359128-22361128.fasta.blastn gene_id "HCOI01385300"
+top_2_Celeg_TT:22361128-22363128.fasta.blastn gene_id "HCOI01385300"
+top_2_Celeg_TT:22377381-22379381.fasta.blastn gene_id "HCOI01385300"
+top_2_Celeg_TT:22393790-22395790.fasta.blastn
+top_2_Celeg_TT:22395790-22397790.fasta.blastn
+top_2_Celeg_TT:22409790-22411790.fasta.blastn
+top_2_Celeg_TT:2244854-2246854.fasta.blastn gene_id "HCOI00225500"
+top_2_Celeg_TT:2246854-2248854.fasta.blastn gene_id "HCOI00225600"
+top_2_Celeg_TT:2248854-2250854.fasta.blastn gene_id "HCOI00225600"
+top_2_Celeg_TT:22611511-22613511.fasta.blastn
+top_2_Celeg_TT:23339973-23341973.fasta.blastn
+top_2_Celeg_TT:23467128-23469128.fasta.blastn gene_id "HCOI00006100"
+top_2_Celeg_TT:23468424-23470424.fasta.blastn gene_id "HCOI00006100"
+top_2_Celeg_TT:23469128-23471128.fasta.blastn gene_id "HCOI00006100"
+top_2_Celeg_TT:2382699-2384699.fasta.blastn gene_id "HCOI01173800"
+top_2_Celeg_TT:23841128-23843128.fasta.blastn
+top_2_Celeg_TT:23843128-23845128.fasta.blastn
+top_2_Celeg_TT:24013128-24015128.fasta.blastn gene_id "HCOI01268000"
+top_2_Celeg_TT:24015128-24017128.fasta.blastn
+top_2_Celeg_TT:24205387-24207387.fasta.blastn gene_id "HCOI00234900"
+top_2_Celeg_TT:24221128-24223128.fasta.blastn gene_id "HCOI00234900"
+top_2_Celeg_TT:24223128-24225128.fasta.blastn gene_id "HCOI00234900"
+top_2_Celeg_TT:24335988-24337988.fasta.blastn
+top_2_Celeg_TT:24502445-24504445.fasta.blastn gene_id "HCOI01637800"
+top_2_Celeg_TT:24504445-24506445.fasta.blastn gene_id "HCOI01637800"
+top_2_Celeg_TT:24506445-24508445.fasta.blastn
+top_2_Celeg_TT:24537890-24539890.fasta.blastn
+top_2_Celeg_TT:24634445-24636445.fasta.blastn
+top_2_Celeg_TT:24636445-24638445.fasta.blastn
+top_2_Celeg_TT:24664828-24666828.fasta.blastn
+top_2_Celeg_TT:24794479-24796479.fasta.blastn gene_id "HCOI01924400"
+top_2_Celeg_TT:24796479-24798479.fasta.blastn gene_id "HCOI00867600"
+top_2_Celeg_TT:24822479-24824479.fasta.blastn gene_id "HCOI01924500"
+top_2_Celeg_TT:24833381-24835381.fasta.blastn gene_id "HCOI01924500"
+top_2_Celeg_TT:24834828-24836828.fasta.blastn gene_id "HCOI01924500"
+top_2_Celeg_TT:24836828-24838828.fasta.blastn gene_id "HCOI01924500"
+top_2_Celeg_TT:24837381-24839381.fasta.blastn gene_id "HCOI01924500"
+top_2_Celeg_TT:24837973-24839973.fasta.blastn gene_id "HCOI01924500"
+top_2_Celeg_TT:24901383-24903383.fasta.blastn
+top_2_Celeg_TT:24903383-24905383.fasta.blastn gene_id "HCOI01647600"
+top_2_Celeg_TT:24905383-24907383.fasta.blastn gene_id "HCOI01647600"
+top_2_Celeg_TT:25102846-25104846.fasta.blastn gene_id "HCOI00090700"
+top_2_Celeg_TT:25252445-25254445.fasta.blastn
+top_2_Celeg_TT:25254445-25256445.fasta.blastn
+top_2_Celeg_TT:25290139-25292139.fasta.blastn gene_id "HCOI00942000"
+top_2_Celeg_TT:25364139-25366139.fasta.blastn
+top_2_Celeg_TT:25408806-25410806.fasta.blastn gene_id "HCOI00557800"
+top_2_Celeg_TT:25424479-25426479.fasta.blastn
+top_2_Celeg_TT:25458828-25460828.fasta.blastn gene_id "HCOI00575200"
+top_2_Celeg_TT:25537181-25539181.fasta.blastn
+top_2_Celeg_TT:25542846-25544846.fasta.blastn
+top_2_Celeg_TT:25856445-25858445.fasta.blastn gene_id "HCOI00670400"
+top_2_Celeg_TT:25858445-25860445.fasta.blastn gene_id "HCOI00670400"
+top_2_Celeg_TT:25870413-25872413.fasta.blastn gene_id "HCOI00670600"
+top_2_Celeg_TT:25870828-25872828.fasta.blastn gene_id "HCOI00670600"
+top_2_Celeg_TT:25896445-25898445.fasta.blastn
+top_2_Celeg_TT:26084479-26086479.fasta.blastn
+top_2_Celeg_TT:26086479-26088479.fasta.blastn
+top_2_Celeg_TT:26324806-26326806.fasta.blastn gene_id "HCOI01390100"
+top_2_Celeg_TT:26345181-26347181.fasta.blastn
+top_2_Celeg_TT:26347518-26349518.fasta.blastn
+top_2_Celeg_TT:26606445-26608445.fasta.blastn gene_id "HCOI00779200"
+top_2_Celeg_TT:26622806-26624806.fasta.blastn gene_id "HCOI00779200"
+top_2_Celeg_TT:26624806-26626806.fasta.blastn gene_id "HCOI00779200"
+top_2_Celeg_TT:26642806-26644806.fasta.blastn
+top_2_Celeg_TT:26644806-26646806.fasta.blastn
+top_2_Celeg_TT:26708139-26710139.fasta.blastn
+top_2_Celeg_TT:27320479-27322479.fasta.blastn gene_id "HCOI01054000"
+top_2_Celeg_TT:27346806-27348806.fasta.blastn gene_id "HCOI01054100"
+top_2_Celeg_TT:27348806-27350806.fasta.blastn gene_id "HCOI01054100"
+top_2_Celeg_TT:2745471-2747471.fasta.blastn
+top_2_Celeg_TT:27904445-27906445.fasta.blastn
+top_2_Celeg_TT:27920828-27922828.fasta.blastn
+top_2_Celeg_TT:27924828-27926828.fasta.blastn gene_id "HCOI01447100"
+top_2_Celeg_TT:28048846-28050846.fasta.blastn
+top_2_Celeg_TT:28050846-28052846.fasta.blastn gene_id "HCOI01184600"
+top_2_Celeg_TT:28236445-28238445.fasta.blastn
+top_2_Celeg_TT:28238445-28240445.fasta.blastn
+top_2_Celeg_TT:28282445-28284445.fasta.blastn
+top_2_Celeg_TT:28284445-28286445.fasta.blastn
+top_2_Celeg_TT:282963-284963.fasta.blastn
+top_2_Celeg_TT:28410445-28412445.fasta.blastn gene_id "HCOI00201000"
+top_2_Celeg_TT:284963-286963.fasta.blastn
+top_2_Celeg_TT:28520445-28522445.fasta.blastn
+top_2_Celeg_TT:285943-287943.fasta.blastn
+top_2_Celeg_TT:28602445-28604445.fasta.blastn gene_id "HCOI00982600"
+top_2_Celeg_TT:2869156-2871156.fasta.blastn gene_id "HCOI00321000"
+top_2_Celeg_TT:286963-288963.fasta.blastn gene_id "HCOI00177200"
+top_2_Celeg_TT:2871156-2873156.fasta.blastn gene_id "HCOI00204800"
+top_2_Celeg_TT:2881156-2883156.fasta.blastn gene_id "HCOI00321100"
+top_2_Celeg_TT:28902139-28904139.fasta.blastn gene_id "HCOI00588300"
+top_2_Celeg_TT:28940479-28942479.fasta.blastn gene_id "HCOI00224900"
+top_2_Celeg_TT:28942479-28944479.fasta.blastn gene_id "HCOI00224900"
+top_2_Celeg_TT:2941943-2943943.fasta.blastn gene_id "HCOI00205100"
+top_2_Celeg_TT:30241000-30243000.fasta.blastn
+top_2_Celeg_TT:30243000-30245000.fasta.blastn
+top_2_Celeg_TT:30277000-30279000.fasta.blastn
+top_2_Celeg_TT:31278234-31280234.fasta.blastn gene_id "HCOI00131500"
+top_2_Celeg_TT:31279497-31281497.fasta.blastn gene_id "HCOI00131500"
+top_2_Celeg_TT:31280138-31282138.fasta.blastn gene_id "HCOI00131500"
+top_2_Celeg_TT:31280234-31282234.fasta.blastn gene_id "HCOI00131500"
+top_2_Celeg_TT:31280303-31282303.fasta.blastn gene_id "HCOI00131500"
+top_2_Celeg_TT:31415796-31417796.fasta.blastn
+top_2_Celeg_TT:31421989-31423989.fasta.blastn
+top_2_Celeg_TT:31423989-31425989.fasta.blastn
+top_2_Celeg_TT:31890921-31892921.fasta.blastn gene_id "HCOI01858600"
+top_2_Celeg_TT:31892921-31894921.fasta.blastn
+top_2_Celeg_TT:31981497-31983497.fasta.blastn
+top_2_Celeg_TT:31983497-31985497.fasta.blastn
+top_2_Celeg_TT:31985497-31987497.fasta.blastn
+top_2_Celeg_TT:32041497-32043497.fasta.blastn
+top_2_Celeg_TT:32043497-32045497.fasta.blastn
+top_2_Celeg_TT:3239471-3241471.fasta.blastn gene_id "HCOI00062600"
+top_2_Celeg_TT:3241471-3243471.fasta.blastn gene_id "HCOI00062600"
+top_2_Celeg_TT:32766800-32768800.fasta.blastn gene_id "HCOI00009600"
+top_2_Celeg_TT:32887402-32889402.fasta.blastn
+top_2_Celeg_TT:32901497-32903497.fasta.blastn
+top_2_Celeg_TT:32926921-32928921.fasta.blastn
+top_2_Celeg_TT:32927989-32929989.fasta.blastn
+top_2_Celeg_TT:32928921-32930921.fasta.blastn
+top_2_Celeg_TT:32982234-32984234.fasta.blastn
+top_2_Celeg_TT:32982787-32984787.fasta.blastn
+top_2_Celeg_TT:32984787-32986787.fasta.blastn
+top_2_Celeg_TT:33034138-33036138.fasta.blastn
+top_2_Celeg_TT:33570234-33572234.fasta.blastn
+top_2_Celeg_TT:33737402-33739402.fasta.blastn
+top_2_Celeg_TT:33739402-33741402.fasta.blastn
+top_2_Celeg_TT:33763402-33765402.fasta.blastn gene_id "HCOI01975400"
+top_2_Celeg_TT:33765402-33767402.fasta.blastn gene_id "HCOI01975400"
+top_2_Celeg_TT:34208787-34210787.fasta.blastn gene_id "HCOI01389700"
+top_2_Celeg_TT:34332614-34334614.fasta.blastn
+top_2_Celeg_TT:34332787-34334787.fasta.blastn
+top_2_Celeg_TT:34334787-34336787.fasta.blastn
+top_2_Celeg_TT:34526752-34528752.fasta.blastn
+top_2_Celeg_TT:34696234-34698234.fasta.blastn
+top_2_Celeg_TT:348064-350064.fasta.blastn
+top_2_Celeg_TT:34852614-34854614.fasta.blastn
+top_2_Celeg_TT:350064-352064.fasta.blastn
+top_2_Celeg_TT:35046752-35048752.fasta.blastn gene_id "HCOI01892800"
+top_2_Celeg_TT:352699-354699.fasta.blastn gene_id "HCOI00424200"
+top_2_Celeg_TT:35645005-35647005.fasta.blastn
+top_2_Celeg_TT:36151005-36153005.fasta.blastn gene_id "HCOI01219500"
+top_2_Celeg_TT:36153005-36155005.fasta.blastn
+top_2_Celeg_TT:36155005-36157005.fasta.blastn
+top_2_Celeg_TT:36313053-36315053.fasta.blastn
+top_2_Celeg_TT:36315053-36317053.fasta.blastn
+top_2_Celeg_TT:36367053-36369053.fasta.blastn gene_id "HCOI01220900"
+top_2_Celeg_TT:36594140-36596140.fasta.blastn
+top_2_Celeg_TT:36596140-36598140.fasta.blastn gene_id "HCOI02124600"
+top_2_Celeg_TT:36660140-36662140.fasta.blastn
+top_2_Celeg_TT:36662140-36664140.fasta.blastn
+top_2_Celeg_TT:36683053-36685053.fasta.blastn
+top_2_Celeg_TT:36685053-36687053.fasta.blastn gene_id "HCOI02123700"
+top_2_Celeg_TT:36725539-36727539.fasta.blastn gene_id "HCOI02123400"
+top_2_Celeg_TT:36727539-36729539.fasta.blastn
+top_2_Celeg_TT:3699471-3701471.fasta.blastn
+top_2_Celeg_TT:37185074-37187074.fasta.blastn
+top_2_Celeg_TT:37275074-37277074.fasta.blastn
+top_2_Celeg_TT:37277074-37279074.fasta.blastn
+top_2_Celeg_TT:3803943-3805943.fasta.blastn gene_id "HCOI00708600"
+top_2_Celeg_TT:3807943-3809943.fasta.blastn gene_id "HCOI00708600"
+top_2_Celeg_TT:38893752-38895752.fasta.blastn
+top_2_Celeg_TT:38895752-38897752.fasta.blastn
+top_2_Celeg_TT:39079383-39081383.fasta.blastn gene_id "HCOI00104200"
+top_2_Celeg_TT:39081383-39083383.fasta.blastn gene_id "HCOI00104200"
+top_2_Celeg_TT:3909471-3911471.fasta.blastn
+top_2_Celeg_TT:3911471-3913471.fasta.blastn
+top_2_Celeg_TT:39273528-39275528.fasta.blastn gene_id "HCOI00105000"
+top_2_Celeg_TT:39275528-39277528.fasta.blastn
+top_2_Celeg_TT:3929471-3931471.fasta.blastn gene_id "HCOI00349300"
+top_2_Celeg_TT:3931471-3933471.fasta.blastn
+top_2_Celeg_TT:3933471-3935471.fasta.blastn gene_id "HCOI01250000"
+top_2_Celeg_TT:39829052-39831052.fasta.blastn gene_id "HCOI02029100"
+top_2_Celeg_TT:39831052-39833052.fasta.blastn
+top_2_Celeg_TT:4002699-4004699.fasta.blastn
+top_2_Celeg_TT:4002791-4004791.fasta.blastn
+top_2_Celeg_TT:4004699-4006699.fasta.blastn
+top_2_Celeg_TT:4004791-4006791.fasta.blastn
+top_2_Celeg_TT:40495053-40497053.fasta.blastn
+top_2_Celeg_TT:40497053-40499053.fasta.blastn
+top_2_Celeg_TT:4053471-4055471.fasta.blastn
+top_2_Celeg_TT:4055471-4057471.fasta.blastn
+top_2_Celeg_TT:4057471-4059471.fasta.blastn
+top_2_Celeg_TT:4059471-4061471.fasta.blastn
+top_2_Celeg_TT:4073471-4075471.fasta.blastn
+top_2_Celeg_TT:4079471-4081471.fasta.blastn
+top_2_Celeg_TT:4081471-4083471.fasta.blastn
+top_2_Celeg_TT:4083471-4085471.fasta.blastn
+top_2_Celeg_TT:4085471-4087471.fasta.blastn
+top_2_Celeg_TT:4087471-4089471.fasta.blastn
+top_2_Celeg_TT:4104699-4106699.fasta.blastn
+top_2_Celeg_TT:4106699-4108699.fasta.blastn
+top_2_Celeg_TT:4111471-4113471.fasta.blastn
+top_2_Celeg_TT:41225053-41227053.fasta.blastn
+top_2_Celeg_TT:41227053-41229053.fasta.blastn
+top_2_Celeg_TT:41592019-41594019.fasta.blastn gene_id "HCOI00351400"
+top_2_Celeg_TT:41594019-41596019.fasta.blastn gene_id "HCOI00351400"
+top_2_Celeg_TT:4166854-4168854.fasta.blastn
+top_2_Celeg_TT:4168854-4170854.fasta.blastn
+top_2_Celeg_TT:4213471-4215471.fasta.blastn gene_id "HCOI01942800"
+top_2_Celeg_TT:4215471-4217471.fasta.blastn gene_id "HCOI01942800"
+top_2_Celeg_TT:4217471-4219471.fasta.blastn gene_id "HCOI01942700"
+top_2_Celeg_TT:42495052-42497052.fasta.blastn gene_id "HCOI00170800"
+top_2_Celeg_TT:42495076-42497076.fasta.blastn gene_id "HCOI00170800"
+top_2_Celeg_TT:42497052-42499052.fasta.blastn gene_id "HCOI00170800"
+top_2_Celeg_TT:42497076-42499076.fasta.blastn gene_id "HCOI00170800"
+top_2_Celeg_TT:42499052-42501052.fasta.blastn gene_id "HCOI00170800"
+top_2_Celeg_TT:42499076-42501076.fasta.blastn gene_id "HCOI00170800"
+top_2_Celeg_TT:42501052-42503052.fasta.blastn gene_id "HCOI00170800"
+top_2_Celeg_TT:42501076-42503076.fasta.blastn gene_id "HCOI00170800"
+top_2_Celeg_TT:42585053-42587053.fasta.blastn gene_id "HCOI02050900"
+top_2_Celeg_TT:42587053-42589053.fasta.blastn
+top_2_Celeg_TT:42723053-42725053.fasta.blastn
+top_2_Celeg_TT:42725053-42727053.fasta.blastn
+top_2_Celeg_TT:43191076-43193076.fasta.blastn gene_id "HCOI00833600"
+top_2_Celeg_TT:43193076-43195076.fasta.blastn gene_id "HCOI00833600"
+top_2_Celeg_TT:43415053-43417053.fasta.blastn
+top_2_Celeg_TT:43417053-43419053.fasta.blastn gene_id "HCOI00547600"
+top_2_Celeg_TT:43419052-43421052.fasta.blastn gene_id "HCOI00547600"
+top_2_Celeg_TT:43419053-43421053.fasta.blastn gene_id "HCOI00547600"
+top_2_Celeg_TT:43421052-43423052.fasta.blastn gene_id "HCOI00547800"
+top_2_Celeg_TT:43421053-43423053.fasta.blastn gene_id "HCOI00547800"
+top_2_Celeg_TT:43423052-43425052.fasta.blastn gene_id "HCOI00547800"
+top_2_Celeg_TT:43706594-43708594.fasta.blastn
+top_2_Celeg_TT:43758223-43760223.fasta.blastn
+top_2_Celeg_TT:43760223-43762223.fasta.blastn
+top_2_Celeg_TT:43770202-43772202.fasta.blastn
+top_2_Celeg_TT:43782567-43784567.fasta.blastn gene_id "HCOI01694900"
+top_2_Celeg_TT:44715044-44717044.fasta.blastn gene_id "HCOI01760600"
+top_2_Celeg_TT:44717044-44719044.fasta.blastn gene_id "HCOI01760600"
+top_2_Celeg_TT:44762086-44764086.fasta.blastn
+top_2_Celeg_TT:4488988-4490988.fasta.blastn gene_id "HCOI01270400"
+top_2_Celeg_TT:4490988-4492988.fasta.blastn gene_id "HCOI01270400"
+top_2_Celeg_TT:45170083-45172083.fasta.blastn gene_id "HCOI01908800"
+top_2_Celeg_TT:45499044-45501044.fasta.blastn
+top_2_Celeg_TT:45501044-45503044.fasta.blastn
+top_2_Celeg_TT:45808748-45810748.fasta.blastn gene_id "HCOI00432800"
+top_2_Celeg_TT:45810748-45812748.fasta.blastn
+top_2_Celeg_TT:4583471-4585471.fasta.blastn
+top_2_Celeg_TT:46571522-46573522.fasta.blastn
+top_2_Celeg_TT:46573522-46575522.fasta.blastn
+top_2_Celeg_TT:46575522-46577522.fasta.blastn
+top_2_Celeg_TT:4683116-4685116.fasta.blastn gene_id "HCOI00745200"
+top_2_Celeg_TT:4687116-4689116.fasta.blastn
+top_2_Celeg_TT:4689116-4691116.fasta.blastn
+top_2_Celeg_TT:5294629-5296629.fasta.blastn gene_id "HCOI00525600"
+top_2_Celeg_TT:5296629-5298629.fasta.blastn gene_id "HCOI00525600"
+top_2_Celeg_TT:5405116-5407116.fasta.blastn
+top_2_Celeg_TT:5409116-5411116.fasta.blastn
+top_2_Celeg_TT:5411116-5413116.fasta.blastn
+top_2_Celeg_TT:5463116-5465116.fasta.blastn
+top_2_Celeg_TT:5465116-5467116.fasta.blastn
+top_2_Celeg_TT:5473116-5475116.fasta.blastn
+top_2_Celeg_TT:5475116-5477116.fasta.blastn
+top_2_Celeg_TT:576963-578963.fasta.blastn gene_id "HCOI01390700"
+top_2_Celeg_TT:5868629-5870629.fasta.blastn
+top_2_Celeg_TT:6059116-6061116.fasta.blastn gene_id "HCOI02113800"
+top_2_Celeg_TT:6105116-6107116.fasta.blastn gene_id "HCOI02113400"
+top_2_Celeg_TT:6109116-6111116.fasta.blastn gene_id "HCOI02113400"
+top_2_Celeg_TT:6111116-6113116.fasta.blastn
+top_2_Celeg_TT:6212924-6214924.fasta.blastn
+top_2_Celeg_TT:6214924-6216924.fasta.blastn gene_id "HCOI01422700"
+top_2_Celeg_TT:6222537-6224537.fasta.blastn
+top_2_Celeg_TT:6230537-6232537.fasta.blastn
+top_2_Celeg_TT:6673746-6675746.fasta.blastn gene_id "HCOI02141800"
+top_2_Celeg_TT:694064-696064.fasta.blastn
+top_2_Celeg_TT:694699-696699.fasta.blastn
+top_2_Celeg_TT:694962-696962.fasta.blastn
+top_2_Celeg_TT:696699-698699.fasta.blastn
+top_2_Celeg_TT:698699-700699.fasta.blastn
+top_2_Celeg_TT:7044903-7046903.fasta.blastn
+top_2_Celeg_TT:718699-720699.fasta.blastn
+top_2_Celeg_TT:718791-720791.fasta.blastn
+top_2_Celeg_TT:720699-722699.fasta.blastn
+top_2_Celeg_TT:720791-722791.fasta.blastn
+top_2_Celeg_TT:722791-724791.fasta.blastn
+top_2_Celeg_TT:724791-726791.fasta.blastn
+top_2_Celeg_TT:7281116-7283116.fasta.blastn
+top_2_Celeg_TT:7283116-7285116.fasta.blastn gene_id "HCOI01578700"
+top_2_Celeg_TT:7290852-7292852.fasta.blastn
+top_2_Celeg_TT:7292852-7294852.fasta.blastn gene_id "HCOI01578800"
+top_2_Celeg_TT:7295116-7297116.fasta.blastn gene_id "HCOI01578800"
+top_2_Celeg_TT:7297116-7299116.fasta.blastn
+top_2_Celeg_TT:7299116-7301116.fasta.blastn gene_id "HCOI01578900"
+top_2_Celeg_TT:7301116-7303116.fasta.blastn gene_id "HCOI01578900"
+top_2_Celeg_TT:7303116-7305116.fasta.blastn gene_id "HCOI01578900"
+top_2_Celeg_TT:7307116-7309116.fasta.blastn gene_id "HCOI01579000"
+top_2_Celeg_TT:7309116-7311116.fasta.blastn gene_id "HCOI01579000"
+top_2_Celeg_TT:7311116-7313116.fasta.blastn gene_id "HCOI00697500"
+top_2_Celeg_TT:7325116-7327116.fasta.blastn
+top_2_Celeg_TT:7327116-7329116.fasta.blastn
+top_2_Celeg_TT:7329116-7331116.fasta.blastn
+top_2_Celeg_TT:7389116-7391116.fasta.blastn
+top_2_Celeg_TT:7391116-7393116.fasta.blastn gene_id "HCOI01579400"
+top_2_Celeg_TT:7393116-7395116.fasta.blastn gene_id "HCOI01579400"
+top_2_Celeg_TT:7743116-7745116.fasta.blastn gene_id "HCOI02128100"
+top_2_Celeg_TT:7745116-7747116.fasta.blastn gene_id "HCOI02128100"
+top_2_Celeg_TT:7747116-7749116.fasta.blastn gene_id "HCOI02128100"
+top_2_Celeg_TT:7749116-7751116.fasta.blastn gene_id "HCOI02128100"
+top_2_Celeg_TT:7751116-7753116.fasta.blastn
+top_2_Celeg_TT:7753116-7755116.fasta.blastn
+top_2_Celeg_TT:7755116-7757116.fasta.blastn
+top_2_Celeg_TT:7790647-7792647.fasta.blastn gene_id "HCOI01157200"
+top_2_Celeg_TT:7792647-7794647.fasta.blastn gene_id "HCOI01157200"
+top_2_Celeg_TT:7927116-7929116.fasta.blastn gene_id "HCOI00637500"
+top_2_Celeg_TT:7962591-7964591.fasta.blastn
+top_2_Celeg_TT:7988647-7990647.fasta.blastn
+top_2_Celeg_TT:7990647-7992647.fasta.blastn gene_id "HCOI01542900"
+top_2_Celeg_TT:8003116-8005116.fasta.blastn gene_id "HCOI00946100"
+top_2_Celeg_TT:8097116-8099116.fasta.blastn gene_id "HCOI00678300"
+top_2_Celeg_TT:8523116-8525116.fasta.blastn
+top_2_Celeg_TT:8525116-8527116.fasta.blastn
+top_2_Celeg_TT:8576629-8578629.fasta.blastn gene_id "HCOI00140100"
+top_2_Celeg_TT:881156-883156.fasta.blastn gene_id "HCOI00213700"
+top_2_Celeg_TT:9045465-9047465.fasta.blastn gene_id "HCOI01195800"
+top_2_Celeg_TT:9047465-9049465.fasta.blastn gene_id "HCOI01195800"
+top_2_Celeg_TT:9243116-9245116.fasta.blastn
+top_2_Celeg_TT:9538480-9540480.fasta.blastn gene_id "HCOI00460600"
+top_2_Celeg_TT:9585027-9587027.fasta.blastn
+top_2_Celeg_TT:9598163-9600163.fasta.blastn
+top_2_Celeg_TT:9600163-9602163.fasta.blastn
+top_3_Celeg_TT:1017539-1019539.fasta.blastn gene_id "HCOI00449100"
+top_3_Celeg_TT:10406632-10408632.fasta.blastn gene_id "HCOI00922400"
+top_3_Celeg_TT:1080205-1082205.fasta.blastn
+top_3_Celeg_TT:1082205-1084205.fasta.blastn
+top_3_Celeg_TT:10947395-10949395.fasta.blastn gene_id "HCOI00139100"
+top_3_Celeg_TT:10969354-10971354.fasta.blastn gene_id "HCOI01907000"
+top_3_Celeg_TT:10971354-10973354.fasta.blastn
+top_3_Celeg_TT:10973354-10975354.fasta.blastn
+top_3_Celeg_TT:11013390-11015390.fasta.blastn gene_id "HCOI01906500"
+top_3_Celeg_TT:11063390-11065390.fasta.blastn gene_id "HCOI01906100"
+top_3_Celeg_TT:11074902-11076902.fasta.blastn
+top_3_Celeg_TT:11092902-11094902.fasta.blastn
+top_3_Celeg_TT:11094902-11096902.fasta.blastn
+top_3_Celeg_TT:11096902-11098902.fasta.blastn gene_id "HCOI01906000"
+top_3_Celeg_TT:11817651-11819651.fasta.blastn
+top_3_Celeg_TT:1214823-1216823.fasta.blastn
+top_3_Celeg_TT:12162731-12164731.fasta.blastn gene_id "HCOI01479000"
+top_3_Celeg_TT:12164902-12166902.fasta.blastn
+top_3_Celeg_TT:12166902-12168902.fasta.blastn gene_id "HCOI01478900"
+top_3_Celeg_TT:1216823-1218823.fasta.blastn gene_id "HCOI01113600"
+top_3_Celeg_TT:12183457-12185457.fasta.blastn gene_id "HCOI01478700"
+top_3_Celeg_TT:1235850-1237850.fasta.blastn
+top_3_Celeg_TT:12535424-12537424.fasta.blastn
+top_3_Celeg_TT:12537424-12539424.fasta.blastn
+top_3_Celeg_TT:12539424-12541424.fasta.blastn
+top_3_Celeg_TT:12934632-12936632.fasta.blastn gene_id "HCOI01033000"
+top_3_Celeg_TT:1332844-1334844.fasta.blastn gene_id "HCOI00516700"
+top_3_Celeg_TT:1334844-1336844.fasta.blastn gene_id "HCOI00516700"
+top_3_Celeg_TT:13755395-13757395.fasta.blastn
+top_3_Celeg_TT:14611513-14613513.fasta.blastn gene_id "HCOI00545200"
+top_3_Celeg_TT:14613513-14615513.fasta.blastn gene_id "HCOI00545200"
+top_3_Celeg_TT:14615513-14617513.fasta.blastn gene_id "HCOI00545200"
+top_3_Celeg_TT:1466828-1468828.fasta.blastn
+top_3_Celeg_TT:14677354-14679354.fasta.blastn gene_id "HCOI01663900"
+top_3_Celeg_TT:14679513-14681513.fasta.blastn
+top_3_Celeg_TT:14681513-14683513.fasta.blastn
+top_3_Celeg_TT:1468828-1470828.fasta.blastn
+top_3_Celeg_TT:1470828-1472828.fasta.blastn gene_id "HCOI02140800"
+top_3_Celeg_TT:1486823-1488823.fasta.blastn gene_id "HCOI02140600"
+top_3_Celeg_TT:150823-152823.fasta.blastn gene_id "HCOI01298100"
+top_3_Celeg_TT:152823-154823.fasta.blastn
+top_3_Celeg_TT:15427537-15429537.fasta.blastn
+top_3_Celeg_TT:1590823-1592823.fasta.blastn gene_id "HCOI00841500"
+top_3_Celeg_TT:1592823-1594823.fasta.blastn gene_id "HCOI00841500"
+top_3_Celeg_TT:16394524-16396524.fasta.blastn
+top_3_Celeg_TT:18920597-18922597.fasta.blastn gene_id "HCOI01807000"
+top_3_Celeg_TT:19029537-19031537.fasta.blastn
+top_3_Celeg_TT:19689338-19691338.fasta.blastn
+top_3_Celeg_TT:19824563-19826563.fasta.blastn gene_id "HCOI01265900"
+top_3_Celeg_TT:20115051-20117051.fasta.blastn
+top_3_Celeg_TT:20117051-20119051.fasta.blastn
+top_3_Celeg_TT:20320563-20322563.fasta.blastn
+top_3_Celeg_TT:20324833-20326833.fasta.blastn gene_id "HCOI00541100"
+top_3_Celeg_TT:20324844-20326844.fasta.blastn gene_id "HCOI00541100"
+top_3_Celeg_TT:20326833-20328833.fasta.blastn gene_id "HCOI00541100"
+top_3_Celeg_TT:20326844-20328844.fasta.blastn gene_id "HCOI00541100"
+top_3_Celeg_TT:20488633-20490633.fasta.blastn
+top_3_Celeg_TT:2134823-2136823.fasta.blastn gene_id "HCOI00411300"
+top_3_Celeg_TT:21704633-21706633.fasta.blastn gene_id "HCOI00561900"
+top_3_Celeg_TT:21758633-21760633.fasta.blastn gene_id "HCOI00505900"
+top_3_Celeg_TT:21760633-21762633.fasta.blastn gene_id "HCOI00505900"
+top_3_Celeg_TT:21970563-21972563.fasta.blastn
+top_3_Celeg_TT:23109059-23111059.fasta.blastn gene_id "HCOI01299700"
+top_3_Celeg_TT:23166710-23168710.fasta.blastn gene_id "HCOI00179000"
+top_3_Celeg_TT:23168710-23170710.fasta.blastn gene_id "HCOI00179000"
+top_3_Celeg_TT:2321539-2323539.fasta.blastn
+top_3_Celeg_TT:2323539-2325539.fasta.blastn
+top_3_Celeg_TT:23524710-23526710.fasta.blastn
+top_3_Celeg_TT:23616620-23618620.fasta.blastn
+top_3_Celeg_TT:23617338-23619338.fasta.blastn
+top_3_Celeg_TT:23619338-23621338.fasta.blastn gene_id "HCOI00661100"
+top_3_Celeg_TT:23621056-23623056.fasta.blastn gene_id "HCOI00661100"
+top_3_Celeg_TT:23621338-23623338.fasta.blastn gene_id "HCOI00661100"
+top_3_Celeg_TT:24008569-24010569.fasta.blastn gene_id "HCOI01795800"
+top_3_Celeg_TT:24008581-24010581.fasta.blastn gene_id "HCOI01795800"
+top_3_Celeg_TT:24008710-24010710.fasta.blastn gene_id "HCOI01795800"
+top_3_Celeg_TT:24017051-24019051.fasta.blastn
+top_3_Celeg_TT:24019051-24021051.fasta.blastn gene_id "HCOI01795900"
+top_3_Celeg_TT:24502436-24504436.fasta.blastn
+top_3_Celeg_TT:24588633-24590633.fasta.blastn gene_id "HCOI01031400"
+top_3_Celeg_TT:25280427-25282427.fasta.blastn gene_id "HCOI00556300"
+top_3_Celeg_TT:25282427-25284427.fasta.blastn gene_id "HCOI00556300"
+top_3_Celeg_TT:25413297-25415297.fasta.blastn gene_id "HCOI00756200"
+top_3_Celeg_TT:25415297-25417297.fasta.blastn gene_id "HCOI00756200"
+top_3_Celeg_TT:25918521-25920521.fasta.blastn
+top_3_Celeg_TT:25922521-25924521.fasta.blastn gene_id "HCOI00160700"
+top_3_Celeg_TT:25924521-25926521.fasta.blastn gene_id "HCOI00160700"
+top_3_Celeg_TT:25960427-25962427.fasta.blastn gene_id "HCOI00160600"
+top_3_Celeg_TT:25962427-25964427.fasta.blastn gene_id "HCOI00160600"
+top_3_Celeg_TT:25982427-25984427.fasta.blastn
+top_3_Celeg_TT:26042427-26044427.fasta.blastn
+top_3_Celeg_TT:26054427-26056427.fasta.blastn
+top_3_Celeg_TT:26188427-26190427.fasta.blastn
+top_3_Celeg_TT:262477-264477.fasta.blastn
+top_3_Celeg_TT:263962-265962.fasta.blastn
+top_3_Celeg_TT:264477-266477.fasta.blastn
+top_3_Celeg_TT:265850-267850.fasta.blastn
+top_3_Celeg_TT:27549680-27551680.fasta.blastn gene_id "HCOI_Ser_1_197"
+top_3_Celeg_TT:27553680-27555680.fasta.blastn
+top_3_Celeg_TT:27555680-27557680.fasta.blastn
+top_3_Celeg_TT:27888427-27890427.fasta.blastn
+top_3_Celeg_TT:28370427-28372427.fasta.blastn gene_id "HCOI00061900"
+top_3_Celeg_TT:28372427-28374427.fasta.blastn
+top_3_Celeg_TT:28374427-28376427.fasta.blastn
+top_3_Celeg_TT:29103251-29105251.fasta.blastn
+top_3_Celeg_TT:2910522-2912522.fasta.blastn
+top_3_Celeg_TT:29532291-29534291.fasta.blastn
+top_3_Celeg_TT:29538291-29540291.fasta.blastn gene_id "HCOI02112300"
+top_3_Celeg_TT:29836427-29838427.fasta.blastn
+top_3_Celeg_TT:29838427-29840427.fasta.blastn
+top_3_Celeg_TT:30334503-30336503.fasta.blastn
+top_3_Celeg_TT:30336503-30338503.fasta.blastn
+top_3_Celeg_TT:30346503-30348503.fasta.blastn
+top_3_Celeg_TT:30576481-30578481.fasta.blastn
+top_3_Celeg_TT:30578481-30580481.fasta.blastn
+top_3_Celeg_TT:30659129-30661129.fasta.blastn
+top_3_Celeg_TT:30671129-30673129.fasta.blastn
+top_3_Celeg_TT:30673129-30675129.fasta.blastn gene_id "HCOI01980300"
+top_3_Celeg_TT:30866188-30868188.fasta.blastn
+top_3_Celeg_TT:30868188-30870188.fasta.blastn
+top_3_Celeg_TT:31598503-31600503.fasta.blastn
+top_3_Celeg_TT:31739364-31741364.fasta.blastn gene_id "HCOI01860700"
+top_3_Celeg_TT:31743364-31745364.fasta.blastn gene_id "HCOI01860700"
+top_3_Celeg_TT:31745364-31747364.fasta.blastn gene_id "HCOI01860700"
+top_3_Celeg_TT:3194823-3196823.fasta.blastn
+top_3_Celeg_TT:3196823-3198823.fasta.blastn
+top_3_Celeg_TT:32705129-32707129.fasta.blastn
+top_3_Celeg_TT:32707087-32709087.fasta.blastn
+top_3_Celeg_TT:32708522-32710522.fasta.blastn
+top_3_Celeg_TT:33016522-33018522.fasta.blastn
+top_3_Celeg_TT:33078481-33080481.fasta.blastn
+top_3_Celeg_TT:33105020-33107020.fasta.blastn gene_id "HCOI00143300"
+top_3_Celeg_TT:33107020-33109020.fasta.blastn gene_id "HCOI00143400"
+top_3_Celeg_TT:33107129-33109129.fasta.blastn gene_id "HCOI00143400"
+top_3_Celeg_TT:33107364-33109364.fasta.blastn gene_id "HCOI00143400"
+top_3_Celeg_TT:33109020-33111020.fasta.blastn gene_id "HCOI00143400"
+top_3_Celeg_TT:33109129-33111129.fasta.blastn gene_id "HCOI00143400"
+top_3_Celeg_TT:33109364-33111364.fasta.blastn gene_id "HCOI00143400"
+top_3_Celeg_TT:33210481-33212481.fasta.blastn
+top_3_Celeg_TT:33211087-33213087.fasta.blastn
+top_3_Celeg_TT:33218208-33220208.fasta.blastn
+top_3_Celeg_TT:33218522-33220522.fasta.blastn
+top_3_Celeg_TT:33220522-33222522.fasta.blastn
+top_3_Celeg_TT:33222846-33224846.fasta.blastn
+top_3_Celeg_TT:332823-334823.fasta.blastn
+top_3_Celeg_TT:33314522-33316522.fasta.blastn
+top_3_Celeg_TT:33316522-33318522.fasta.blastn
+top_3_Celeg_TT:33362916-33364916.fasta.blastn
+top_3_Celeg_TT:33366507-33368507.fasta.blastn
+top_3_Celeg_TT:33368507-33370507.fasta.blastn
+top_3_Celeg_TT:333850-335850.fasta.blastn
+top_3_Celeg_TT:33479020-33481020.fasta.blastn
+top_3_Celeg_TT:33523364-33525364.fasta.blastn gene_id "HCOI01045600"
+top_3_Celeg_TT:33525364-33527364.fasta.blastn gene_id "HCOI01045600"
+top_3_Celeg_TT:33527364-33529364.fasta.blastn gene_id "HCOI01354500"
+top_3_Celeg_TT:33560503-33562503.fasta.blastn gene_id "HCOI01451500"
+top_3_Celeg_TT:335850-337850.fasta.blastn
+top_3_Celeg_TT:3381850-3383850.fasta.blastn gene_id "HCOI00843300"
+top_3_Celeg_TT:3382697-3384697.fasta.blastn gene_id "HCOI00843300"
+top_3_Celeg_TT:3383850-3385850.fasta.blastn gene_id "HCOI00843300"
+top_3_Celeg_TT:3384838-3386838.fasta.blastn gene_id "HCOI00843300"
+top_3_Celeg_TT:3386838-3388838.fasta.blastn gene_id "HCOI00843300"
+top_3_Celeg_TT:3464823-3466823.fasta.blastn gene_id "HCOI00878200"
+top_3_Celeg_TT:35130068-35132068.fasta.blastn
+top_3_Celeg_TT:35542681-35544681.fasta.blastn
+top_3_Celeg_TT:35544681-35546681.fasta.blastn gene_id "HCOI00053900"
+top_3_Celeg_TT:3594697-3596697.fasta.blastn gene_id "HCOI01602100"
+top_3_Celeg_TT:36925271-36927271.fasta.blastn
+top_3_Celeg_TT:37294802-37296802.fasta.blastn gene_id "HCOI01217400"
+top_3_Celeg_TT:377962-379962.fasta.blastn
+top_3_Celeg_TT:379962-381962.fasta.blastn
+top_3_Celeg_TT:38439269-38441269.fasta.blastn
+top_3_Celeg_TT:38814668-38816668.fasta.blastn gene_id "HCOI01470200"
+top_3_Celeg_TT:38816668-38818668.fasta.blastn gene_id "HCOI01470200"
+top_3_Celeg_TT:38818266-38820266.fasta.blastn
+top_3_Celeg_TT:38946669-38948669.fasta.blastn gene_id "HCOI00329400"
+top_3_Celeg_TT:390823-392823.fasta.blastn
+top_3_Celeg_TT:39513949-39515949.fasta.blastn
+top_3_Celeg_TT:39513965-39515965.fasta.blastn
+top_3_Celeg_TT:39515949-39517949.fasta.blastn
+top_3_Celeg_TT:39515965-39517965.fasta.blastn
+top_3_Celeg_TT:39940032-39942032.fasta.blastn
+top_3_Celeg_TT:40011963-40013963.fasta.blastn
+top_3_Celeg_TT:40013963-40015963.fasta.blastn gene_id "HCOI00908700"
+top_3_Celeg_TT:40019963-40021963.fasta.blastn
+top_3_Celeg_TT:40021963-40023963.fasta.blastn
+top_3_Celeg_TT:40055577-40057577.fasta.blastn gene_id "HCOI00909100"
+top_3_Celeg_TT:40057577-40059577.fasta.blastn gene_id "HCOI00909200"
+top_3_Celeg_TT:40203789-40205789.fasta.blastn gene_id "HCOI01198900"
+top_3_Celeg_TT:40248959-40250959.fasta.blastn gene_id "HCOI00243300"
+top_3_Celeg_TT:40684032-40686032.fasta.blastn
+top_3_Celeg_TT:40692032-40694032.fasta.blastn gene_id "HCOI01440900"
+top_3_Celeg_TT:40888959-40890959.fasta.blastn gene_id "HCOI01241600"
+top_3_Celeg_TT:41561963-41563963.fasta.blastn gene_id "HCOI02097800"
+top_3_Celeg_TT:41563963-41565963.fasta.blastn
+top_3_Celeg_TT:41896032-41898032.fasta.blastn gene_id "HCOI01421800"
+top_3_Celeg_TT:41900032-41902032.fasta.blastn
+top_3_Celeg_TT:42042032-42044032.fasta.blastn
+top_3_Celeg_TT:42044032-42046032.fasta.blastn
+top_3_Celeg_TT:42046032-42048032.fasta.blastn
+top_3_Celeg_TT:420477-422477.fasta.blastn
+top_3_Celeg_TT:420633-422633.fasta.blastn
+top_3_Celeg_TT:42197963-42199963.fasta.blastn gene_id "HCOI01754900"
+top_3_Celeg_TT:42199963-42201963.fasta.blastn
+top_3_Celeg_TT:42201963-42203963.fasta.blastn
+top_3_Celeg_TT:422633-424633.fasta.blastn gene_id "HCOI01349600"
+top_3_Celeg_TT:4234828-4236828.fasta.blastn gene_id "HCOI00541600"
+top_3_Celeg_TT:42406032-42408032.fasta.blastn
+top_3_Celeg_TT:456823-458823.fasta.blastn gene_id "HCOI02068600"
+top_3_Celeg_TT:458823-460823.fasta.blastn gene_id "HCOI02068600"
+top_3_Celeg_TT:5028149-5030149.fasta.blastn gene_id "HCOI00549100"
+top_3_Celeg_TT:5030149-5032149.fasta.blastn gene_id "HCOI00549100"
+top_3_Celeg_TT:5166149-5168149.fasta.blastn gene_id "HCOI01538600"
+top_3_Celeg_TT:558828-560828.fasta.blastn
+top_3_Celeg_TT:5645217-5647217.fasta.blastn gene_id "HCOI01573000"
+top_3_Celeg_TT:5675217-5677217.fasta.blastn gene_id "HCOI01573700"
+top_3_Celeg_TT:5801217-5803217.fasta.blastn
+top_3_Celeg_TT:5825217-5827217.fasta.blastn
+top_3_Celeg_TT:5827217-5829217.fasta.blastn
+top_3_Celeg_TT:5829217-5831217.fasta.blastn
+top_3_Celeg_TT:5883217-5885217.fasta.blastn
+top_3_Celeg_TT:5908149-5910149.fasta.blastn
+top_3_Celeg_TT:6322547-6324547.fasta.blastn
+top_3_Celeg_TT:637962-639962.fasta.blastn
+top_3_Celeg_TT:6781217-6783217.fasta.blastn gene_id "HCOI01543800"
+top_3_Celeg_TT:685962-687962.fasta.blastn gene_id "HCOI00380100"
+top_3_Celeg_TT:6920798-6922798.fasta.blastn
+top_3_Celeg_TT:6953217-6955217.fasta.blastn gene_id "HCOI02090000"
+top_3_Celeg_TT:6955217-6957217.fasta.blastn gene_id "HCOI02090000"
+top_3_Celeg_TT:6957217-6959217.fasta.blastn gene_id "HCOI02089900"
+top_3_Celeg_TT:6970798-6972798.fasta.blastn gene_id "HCOI00555600"
+top_3_Celeg_TT:7546105-7548105.fasta.blastn
+top_3_Celeg_TT:7615217-7617217.fasta.blastn
+top_3_Celeg_TT:7617217-7619217.fasta.blastn
+top_3_Celeg_TT:7619217-7621217.fasta.blastn
+top_3_Celeg_TT:794823-796823.fasta.blastn
+top_3_Celeg_TT:796823-798823.fasta.blastn
+top_3_Celeg_TT:8060134-8062134.fasta.blastn gene_id "HCOI02032100"
+top_3_Celeg_TT:8684702-8686702.fasta.blastn
+top_3_Celeg_TT:8686702-8688702.fasta.blastn
+top_3_Celeg_TT:9326702-9328702.fasta.blastn
+top_3_Celeg_TT:9474648-9476648.fasta.blastn gene_id "HCOI00261900"
+top_3_Celeg_TT:9508648-9510648.fasta.blastn gene_id "HCOI00778000"
+top_3_Celeg_TT:9833217-9835217.fasta.blastn
+top_3_Celeg_TT:9835217-9837217.fasta.blastn
+top_3_Celeg_TT:990823-992823.fasta.blastn gene_id "HCOI00449000"
+top_3_Celeg_TT:9955217-9957217.fasta.blastn gene_id "HCOI01305100"
+top_3_Celeg_TT:9957217-9959217.fasta.blastn gene_id "HCOI01305100"
+top_3_Celeg_TT:9959217-9961217.fasta.blastn gene_id "HCOI01305200"
+top_4_Celeg_TT:10342314-10344314.fasta.blastn gene_id "HCOI00933700"
+top_4_Celeg_TT:1037943-1039943.fasta.blastn
+top_4_Celeg_TT:10616746-10618746.fasta.blastn gene_id "HCOI00528600"
+top_4_Celeg_TT:10639871-10641871.fasta.blastn gene_id "HCOI01729200"
+top_4_Celeg_TT:1064833-1066833.fasta.blastn gene_id "HCOI01897900"
+top_4_Celeg_TT:1099943-1101943.fasta.blastn gene_id "HCOI01196500"
+top_4_Celeg_TT:11161465-11163465.fasta.blastn
+top_4_Celeg_TT:11163465-11165465.fasta.blastn
+top_4_Celeg_TT:11165465-11167465.fasta.blastn
+top_4_Celeg_TT:11428746-11430746.fasta.blastn gene_id "HCOI00654300"
+top_4_Celeg_TT:1144991-1146991.fasta.blastn gene_id "HCOI00363400"
+top_4_Celeg_TT:1187898-1189898.fasta.blastn
+top_4_Celeg_TT:11913871-11915871.fasta.blastn gene_id "HCOI00403600"
+top_4_Celeg_TT:11915871-11917871.fasta.blastn gene_id "HCOI00403600"
+top_4_Celeg_TT:1193898-1195898.fasta.blastn
+top_4_Celeg_TT:11949144-11951144.fasta.blastn gene_id "HCOI00403200"
+top_4_Celeg_TT:1195898-1197898.fasta.blastn
+top_4_Celeg_TT:12163227-12165227.fasta.blastn gene_id "HCOI01205200"
+top_4_Celeg_TT:12164807-12166807.fasta.blastn gene_id "HCOI01205200"
+top_4_Celeg_TT:12165227-12167227.fasta.blastn gene_id "HCOI01205200"
+top_4_Celeg_TT:12254320-12256320.fasta.blastn gene_id "HCOI01206200"
+top_4_Celeg_TT:12554251-12556251.fasta.blastn
+top_4_Celeg_TT:1298833-1300833.fasta.blastn gene_id "HCOI01282800"
+top_4_Celeg_TT:1300833-1302833.fasta.blastn
+top_4_Celeg_TT:14377465-14379465.fasta.blastn
+top_4_Celeg_TT:14417727-14419727.fasta.blastn
+top_4_Celeg_TT:1442833-1444833.fasta.blastn gene_id "HCOI01923400"
+top_4_Celeg_TT:14567727-14569727.fasta.blastn
+top_4_Celeg_TT:14569727-14571727.fasta.blastn
+top_4_Celeg_TT:15164683-15166683.fasta.blastn gene_id "HCOI00639500"
+top_4_Celeg_TT:1543898-1545898.fasta.blastn gene_id "HCOI00757200"
+top_4_Celeg_TT:1545898-1547898.fasta.blastn gene_id "HCOI00757200"
+top_4_Celeg_TT:1697943-1699943.fasta.blastn
+top_4_Celeg_TT:17152683-17154683.fasta.blastn gene_id "HCOI01516400"
+top_4_Celeg_TT:17188349-17190349.fasta.blastn gene_id "HCOI00148700"
+top_4_Celeg_TT:17235093-17237093.fasta.blastn gene_id "HCOI00149000"
+top_4_Celeg_TT:17235221-17237221.fasta.blastn gene_id "HCOI00149000"
+top_4_Celeg_TT:17237093-17239093.fasta.blastn gene_id "HCOI00149000"
+top_4_Celeg_TT:17539221-17541221.fasta.blastn
+top_4_Celeg_TT:18006683-18008683.fasta.blastn gene_id "HCOI_Pseudo_1_91"
+top_4_Celeg_TT:18008683-18010683.fasta.blastn
+top_4_Celeg_TT:18036683-18038683.fasta.blastn
+top_4_Celeg_TT:18193089-18195089.fasta.blastn
+top_4_Celeg_TT:18526410-18528410.fasta.blastn
+top_4_Celeg_TT:18528410-18530410.fasta.blastn gene_id "HCOI00920100"
+top_4_Celeg_TT:18530410-18532410.fasta.blastn
+top_4_Celeg_TT:18559089-18561089.fasta.blastn
+top_4_Celeg_TT:18559092-18561092.fasta.blastn
+top_4_Celeg_TT:18561089-18563089.fasta.blastn
+top_4_Celeg_TT:18561092-18563092.fasta.blastn
+top_4_Celeg_TT:19186410-19188410.fasta.blastn
+top_4_Celeg_TT:19462683-19464683.fasta.blastn gene_id "HCOI00330500"
+top_4_Celeg_TT:19633700-19635700.fasta.blastn gene_id "HCOI00022600"
+top_4_Celeg_TT:19650876-19652876.fasta.blastn
+top_4_Celeg_TT:2014833-2016833.fasta.blastn
+top_4_Celeg_TT:2016833-2018833.fasta.blastn
+top_4_Celeg_TT:2018833-2020833.fasta.blastn
+top_4_Celeg_TT:20477172-20479172.fasta.blastn gene_id "HCOI00880200"
+top_4_Celeg_TT:20479172-20481172.fasta.blastn gene_id "HCOI00880200"
+top_4_Celeg_TT:20481172-20483172.fasta.blastn
+top_4_Celeg_TT:20704635-20706635.fasta.blastn
+top_4_Celeg_TT:20981172-20983172.fasta.blastn gene_id "HCOI00308000"
+top_4_Celeg_TT:21825952-21827952.fasta.blastn gene_id "HCOI00218200"
+top_4_Celeg_TT:21826599-21828599.fasta.blastn gene_id "HCOI00218200"
+top_4_Celeg_TT:21828599-21830599.fasta.blastn
+top_4_Celeg_TT:21880599-21882599.fasta.blastn gene_id "HCOI01309600"
+top_4_Celeg_TT:22162635-22164635.fasta.blastn
+top_4_Celeg_TT:22251172-22253172.fasta.blastn gene_id "HCOI01517300"
+top_4_Celeg_TT:22617952-22619952.fasta.blastn
+top_4_Celeg_TT:22633952-22635952.fasta.blastn
+top_4_Celeg_TT:22643952-22645952.fasta.blastn
+top_4_Celeg_TT:22661700-22663700.fasta.blastn
+top_4_Celeg_TT:22663700-22665700.fasta.blastn
+top_4_Celeg_TT:22735172-22737172.fasta.blastn
+top_4_Celeg_TT:23011172-23013172.fasta.blastn gene_id "HCOI00480100"
+top_4_Celeg_TT:23015172-23017172.fasta.blastn gene_id "HCOI00480100"
+top_4_Celeg_TT:23017172-23019172.fasta.blastn gene_id "HCOI00480100"
+top_4_Celeg_TT:23019172-23021172.fasta.blastn
+top_4_Celeg_TT:23031172-23033172.fasta.blastn
+top_4_Celeg_TT:23057700-23059700.fasta.blastn
+top_4_Celeg_TT:23093684-23095684.fasta.blastn
+top_4_Celeg_TT:23289952-23291952.fasta.blastn
+top_4_Celeg_TT:23291952-23293952.fasta.blastn
+top_4_Celeg_TT:23337684-23339684.fasta.blastn gene_id "HCOI01261000"
+top_4_Celeg_TT:23344101-23346101.fasta.blastn gene_id "HCOI01261100"
+top_4_Celeg_TT:23363684-23365684.fasta.blastn gene_id "HCOI00060600"
+top_4_Celeg_TT:23715952-23717952.fasta.blastn
+top_4_Celeg_TT:23743700-23745700.fasta.blastn
+top_4_Celeg_TT:23884101-23886101.fasta.blastn gene_id "HCOI01664400"
+top_4_Celeg_TT:23884599-23886599.fasta.blastn gene_id "HCOI01664400"
+top_4_Celeg_TT:23884876-23886876.fasta.blastn gene_id "HCOI01664400"
+top_4_Celeg_TT:23886101-23888101.fasta.blastn gene_id "HCOI01664400"
+top_4_Celeg_TT:23886599-23888599.fasta.blastn gene_id "HCOI01664400"
+top_4_Celeg_TT:24091684-24093684.fasta.blastn
+top_4_Celeg_TT:24094101-24096101.fasta.blastn
+top_4_Celeg_TT:24103700-24105700.fasta.blastn
+top_4_Celeg_TT:24199684-24201684.fasta.blastn
+top_4_Celeg_TT:24201684-24203684.fasta.blastn
+top_4_Celeg_TT:24203684-24205684.fasta.blastn
+top_4_Celeg_TT:24472518-24474518.fasta.blastn gene_id "HCOI00211900"
+top_4_Celeg_TT:24497684-24499684.fasta.blastn
+top_4_Celeg_TT:24505952-24507952.fasta.blastn
+top_4_Celeg_TT:24507952-24509952.fasta.blastn
+top_4_Celeg_TT:24575700-24577700.fasta.blastn
+top_4_Celeg_TT:24777742-24779742.fasta.blastn
+top_4_Celeg_TT:24778599-24780599.fasta.blastn
+top_4_Celeg_TT:25109292-25111292.fasta.blastn
+top_4_Celeg_TT:25215289-25217289.fasta.blastn
+top_4_Celeg_TT:25217289-25219289.fasta.blastn
+top_4_Celeg_TT:25219289-25221289.fasta.blastn gene_id "HCOI01837900"
+top_4_Celeg_TT:25219292-25221292.fasta.blastn gene_id "HCOI01837900"
+top_4_Celeg_TT:25583289-25585289.fasta.blastn
+top_4_Celeg_TT:26228988-26230988.fasta.blastn gene_id "HCOI01224800"
+top_4_Celeg_TT:26689289-26691289.fasta.blastn
+top_4_Celeg_TT:26690285-26692285.fasta.blastn
+top_4_Celeg_TT:26691289-26693289.fasta.blastn
+top_4_Celeg_TT:26692285-26694285.fasta.blastn
+top_4_Celeg_TT:26693289-26695289.fasta.blastn
+top_4_Celeg_TT:27055036-27057036.fasta.blastn gene_id "HCOI02062400"
+top_4_Celeg_TT:27059036-27061036.fasta.blastn gene_id "HCOI02062400"
+top_4_Celeg_TT:27274988-27276988.fasta.blastn gene_id "HCOI00960600"
+top_4_Celeg_TT:27394988-27396988.fasta.blastn gene_id "HCOI00572500"
+top_4_Celeg_TT:27469036-27471036.fasta.blastn
+top_4_Celeg_TT:27476820-27478820.fasta.blastn
+top_4_Celeg_TT:27627036-27629036.fasta.blastn gene_id "HCOI01578200"
+top_4_Celeg_TT:27629036-27631036.fasta.blastn gene_id "HCOI01578200"
+top_4_Celeg_TT:27682988-27684988.fasta.blastn gene_id "HCOI02075900"
+top_4_Celeg_TT:27698820-27700820.fasta.blastn gene_id "HCOI00611900"
+top_4_Celeg_TT:27700820-27702820.fasta.blastn gene_id "HCOI00611900"
+top_4_Celeg_TT:28288149-28290149.fasta.blastn gene_id "HCOI02002500"
+top_4_Celeg_TT:28592945-28594945.fasta.blastn gene_id "HCOI00861500"
+top_4_Celeg_TT:28594945-28596945.fasta.blastn gene_id "HCOI00861500"
+top_4_Celeg_TT:28596945-28598945.fasta.blastn gene_id "HCOI00861500"
+top_4_Celeg_TT:28814988-28816988.fasta.blastn gene_id "HCOI01721500"
+top_4_Celeg_TT:28816988-28818988.fasta.blastn gene_id "HCOI01721500"
+top_4_Celeg_TT:28819090-28821090.fasta.blastn gene_id "HCOI01721500"
+top_4_Celeg_TT:28821090-28823090.fasta.blastn gene_id "HCOI01721500"
+top_4_Celeg_TT:28837090-28839090.fasta.blastn
+top_4_Celeg_TT:28844945-28846945.fasta.blastn gene_id "HCOI01721700"
+top_4_Celeg_TT:28846945-28848945.fasta.blastn gene_id "HCOI01721700"
+top_4_Celeg_TT:28980149-28982149.fasta.blastn gene_id "HCOI00216800"
+top_4_Celeg_TT:2924937-2926937.fasta.blastn
+top_4_Celeg_TT:2926937-2928937.fasta.blastn gene_id "HCOI02073300"
+top_4_Celeg_TT:29922820-29924820.fasta.blastn
+top_4_Celeg_TT:29930149-29932149.fasta.blastn
+top_4_Celeg_TT:29973090-29975090.fasta.blastn gene_id "HCOI00451200"
+top_4_Celeg_TT:3027873-3029873.fasta.blastn gene_id "HCOI01753100"
+top_4_Celeg_TT:31110023-31112023.fasta.blastn
+top_4_Celeg_TT:31254477-31256477.fasta.blastn
+top_4_Celeg_TT:31275626-31277626.fasta.blastn gene_id "HCOI00032200"
+top_4_Celeg_TT:31279613-31281613.fasta.blastn gene_id "HCOI00032200"
+top_4_Celeg_TT:31281613-31283613.fasta.blastn gene_id "HCOI_Pseudo_1_71"
+top_4_Celeg_TT:31333924-31335924.fasta.blastn
+top_4_Celeg_TT:31335584-31337584.fasta.blastn
+top_4_Celeg_TT:31335626-31337626.fasta.blastn
+top_4_Celeg_TT:31335924-31337924.fasta.blastn
+top_4_Celeg_TT:31337584-31339584.fasta.blastn
+top_4_Celeg_TT:31337626-31339626.fasta.blastn
+top_4_Celeg_TT:31347910-31349910.fasta.blastn
+top_4_Celeg_TT:31463584-31465584.fasta.blastn gene_id "HCOI00691500"
+top_4_Celeg_TT:31475910-31477910.fasta.blastn gene_id "HCOI00691600"
+top_4_Celeg_TT:31477910-31479910.fasta.blastn gene_id "HCOI01179800"
+top_4_Celeg_TT:31525584-31527584.fasta.blastn
+top_4_Celeg_TT:31607910-31609910.fasta.blastn
+top_4_Celeg_TT:31778008-31780008.fasta.blastn gene_id "HCOI01286100"
+top_4_Celeg_TT:31780008-31782008.fasta.blastn gene_id "HCOI01286100"
+top_4_Celeg_TT:31782008-31784008.fasta.blastn gene_id "HCOI01286100"
+top_4_Celeg_TT:31782477-31784477.fasta.blastn gene_id "HCOI01286100"
+top_4_Celeg_TT:31873924-31875924.fasta.blastn
+top_4_Celeg_TT:331836-333836.fasta.blastn
+top_4_Celeg_TT:331898-333898.fasta.blastn
+top_4_Celeg_TT:33210023-33212023.fasta.blastn
+top_4_Celeg_TT:34517613-34519613.fasta.blastn gene_id "HCOI01165300"
+top_4_Celeg_TT:34549584-34551584.fasta.blastn gene_id "HCOI01403800"
+top_4_Celeg_TT:34551584-34553584.fasta.blastn gene_id "HCOI01403800"
+top_4_Celeg_TT:34551910-34553910.fasta.blastn gene_id "HCOI01403800"
+top_4_Celeg_TT:34553584-34555584.fasta.blastn gene_id "HCOI01403800"
+top_4_Celeg_TT:34553910-34555910.fasta.blastn gene_id "HCOI01403800"
+top_4_Celeg_TT:34615708-34617708.fasta.blastn
+top_4_Celeg_TT:34617708-34619708.fasta.blastn
+top_4_Celeg_TT:34619708-34621708.fasta.blastn
+top_4_Celeg_TT:34701282-34703282.fasta.blastn gene_id "HCOI00490000"
+top_4_Celeg_TT:34703282-34705282.fasta.blastn gene_id "HCOI00490000"
+top_4_Celeg_TT:34774634-34776634.fasta.blastn
+top_4_Celeg_TT:34780625-34782625.fasta.blastn gene_id "HCOI00648200"
+top_4_Celeg_TT:34781502-34783502.fasta.blastn gene_id "HCOI00648200"
+top_4_Celeg_TT:35160625-35162625.fasta.blastn
+top_4_Celeg_TT:35198625-35200625.fasta.blastn gene_id "HCOI02127100"
+top_4_Celeg_TT:35747639-35749639.fasta.blastn
+top_4_Celeg_TT:36358634-36360634.fasta.blastn gene_id "HCOI00142400"
+top_4_Celeg_TT:36479502-36481502.fasta.blastn
+top_4_Celeg_TT:37116943-37118943.fasta.blastn gene_id "HCOI01927500"
+top_4_Celeg_TT:37553931-37555931.fasta.blastn
+top_4_Celeg_TT:38197931-38199931.fasta.blastn
+top_4_Celeg_TT:382991-384991.fasta.blastn gene_id "HCOI01403300"
+top_4_Celeg_TT:38759708-38761708.fasta.blastn gene_id "HCOI01528000"
+top_4_Celeg_TT:39682228-39684228.fasta.blastn
+top_4_Celeg_TT:39684362-39686362.fasta.blastn
+top_4_Celeg_TT:39684622-39686622.fasta.blastn
+top_4_Celeg_TT:39688658-39690658.fasta.blastn
+top_4_Celeg_TT:39696228-39698228.fasta.blastn
+top_4_Celeg_TT:39724621-39726621.fasta.blastn gene_id "HCOI01405400"
+top_4_Celeg_TT:39726626-39728626.fasta.blastn gene_id "HCOI01405400"
+top_4_Celeg_TT:39726781-39728781.fasta.blastn gene_id "HCOI01405400"
+top_4_Celeg_TT:39727049-39729049.fasta.blastn gene_id "HCOI01405400"
+top_4_Celeg_TT:39742622-39744622.fasta.blastn
+top_4_Celeg_TT:39756622-39758622.fasta.blastn
+top_4_Celeg_TT:39772362-39774362.fasta.blastn gene_id "HCOI01405500"
+top_4_Celeg_TT:39774228-39776228.fasta.blastn gene_id "HCOI01405600"
+top_4_Celeg_TT:39786622-39788622.fasta.blastn
+top_4_Celeg_TT:39788598-39790598.fasta.blastn gene_id "HCOI01405800"
+top_4_Celeg_TT:39790598-39792598.fasta.blastn gene_id "HCOI01405800"
+top_4_Celeg_TT:3979836-3981836.fasta.blastn gene_id "HCOI00576900"
+top_4_Celeg_TT:39806598-39808598.fasta.blastn
+top_4_Celeg_TT:39813430-39815430.fasta.blastn
+top_4_Celeg_TT:39815430-39817430.fasta.blastn
+top_4_Celeg_TT:400998-402998.fasta.blastn
+top_4_Celeg_TT:40318621-40320621.fasta.blastn
+top_4_Celeg_TT:40318626-40320626.fasta.blastn
+top_4_Celeg_TT:40350626-40352626.fasta.blastn
+top_4_Celeg_TT:40558228-40560228.fasta.blastn
+top_4_Celeg_TT:40834621-40836621.fasta.blastn
+top_4_Celeg_TT:40996781-40998781.fasta.blastn
+top_4_Celeg_TT:40999131-41001131.fasta.blastn gene_id "HCOI00272900"
+top_4_Celeg_TT:41039131-41041131.fasta.blastn gene_id "HCOI00273400"
+top_4_Celeg_TT:4112833-4114833.fasta.blastn
+top_4_Celeg_TT:41206598-41208598.fasta.blastn gene_id "HCOI00744500"
+top_4_Celeg_TT:41332598-41334598.fasta.blastn gene_id "HCOI00602900"
+top_4_Celeg_TT:41744598-41746598.fasta.blastn
+top_4_Celeg_TT:42134598-42136598.fasta.blastn gene_id "HCOI00278300"
+top_4_Celeg_TT:42136598-42138598.fasta.blastn gene_id "HCOI00278300"
+top_4_Celeg_TT:43212511-43214511.fasta.blastn
+top_4_Celeg_TT:43226598-43228598.fasta.blastn
+top_4_Celeg_TT:43304511-43306511.fasta.blastn
+top_4_Celeg_TT:43306467-43308467.fasta.blastn
+top_4_Celeg_TT:43340511-43342511.fasta.blastn
+top_4_Celeg_TT:433949-435949.fasta.blastn
+top_4_Celeg_TT:435949-437949.fasta.blastn
+top_4_Celeg_TT:44300598-44302598.fasta.blastn gene_id "HCOI00907100"
+top_4_Celeg_TT:44310362-44312362.fasta.blastn gene_id "HCOI01007500"
+top_4_Celeg_TT:44408362-44410362.fasta.blastn
+top_4_Celeg_TT:44440598-44442598.fasta.blastn gene_id "HCOI01769300"
+top_4_Celeg_TT:44442598-44444598.fasta.blastn
+top_4_Celeg_TT:44501763-44503763.fasta.blastn
+top_4_Celeg_TT:44502007-44504007.fasta.blastn
+top_4_Celeg_TT:44502020-44504020.fasta.blastn
+top_4_Celeg_TT:44502867-44504867.fasta.blastn
+top_4_Celeg_TT:44503763-44505763.fasta.blastn
+top_4_Celeg_TT:44504020-44506020.fasta.blastn
+top_4_Celeg_TT:44610714-44612714.fasta.blastn
+top_4_Celeg_TT:44612714-44614714.fasta.blastn
+top_4_Celeg_TT:45054527-45056527.fasta.blastn gene_id "HCOI00630900"
+top_4_Celeg_TT:45260940-45262940.fasta.blastn gene_id "HCOI00384500"
+top_4_Celeg_TT:4531515-4533515.fasta.blastn
+top_4_Celeg_TT:4533515-4535515.fasta.blastn
+top_4_Celeg_TT:45389802-45391802.fasta.blastn gene_id "HCOI02025300"
+top_4_Celeg_TT:45391802-45393802.fasta.blastn gene_id "HCOI01398300"
+top_4_Celeg_TT:45393802-45395802.fasta.blastn gene_id "HCOI01398200"
+top_4_Celeg_TT:45395802-45397802.fasta.blastn gene_id "HCOI01398000"
+top_4_Celeg_TT:45688940-45690940.fasta.blastn
+top_4_Celeg_TT:45694940-45696940.fasta.blastn gene_id "HCOI00502900"
+top_4_Celeg_TT:45716940-45718940.fasta.blastn
+top_4_Celeg_TT:45718940-45720940.fasta.blastn
+top_4_Celeg_TT:45720940-45722940.fasta.blastn
+top_4_Celeg_TT:45742940-45744940.fasta.blastn
+top_4_Celeg_TT:45744940-45746940.fasta.blastn
+top_4_Celeg_TT:45786940-45788940.fasta.blastn
+top_4_Celeg_TT:45788940-45790940.fasta.blastn
+top_4_Celeg_TT:45817905-45819905.fasta.blastn gene_id "HCOI01093700"
+top_4_Celeg_TT:45821905-45823905.fasta.blastn
+top_4_Celeg_TT:45822223-45824223.fasta.blastn
+top_4_Celeg_TT:45868223-45870223.fasta.blastn gene_id "HCOI00560500"
+top_4_Celeg_TT:46064940-46066940.fasta.blastn
+top_4_Celeg_TT:46066940-46068940.fasta.blastn
+top_4_Celeg_TT:46117763-46119763.fasta.blastn
+top_4_Celeg_TT:46119763-46121763.fasta.blastn
+top_4_Celeg_TT:462857-464857.fasta.blastn
+top_4_Celeg_TT:47520223-47522223.fasta.blastn gene_id "HCOI00572200"
+top_4_Celeg_TT:47522223-47524223.fasta.blastn gene_id "HCOI00572200"
+top_4_Celeg_TT:47549763-47551763.fasta.blastn
+top_4_Celeg_TT:47553763-47555763.fasta.blastn gene_id "HCOI00572100"
+top_4_Celeg_TT:4761377-4763377.fasta.blastn gene_id "HCOI00364200"
+top_4_Celeg_TT:484833-486833.fasta.blastn gene_id "HCOI01075400"
+top_4_Celeg_TT:48517787-48519787.fasta.blastn
+top_4_Celeg_TT:49041763-49043763.fasta.blastn gene_id "HCOI01467900"
+top_4_Celeg_TT:49195764-49197764.fasta.blastn
+top_4_Celeg_TT:49229764-49231764.fasta.blastn gene_id "HCOI01828600"
+top_4_Celeg_TT:49436043-49438043.fasta.blastn
+top_4_Celeg_TT:49438043-49440043.fasta.blastn
+top_4_Celeg_TT:49439205-49441205.fasta.blastn
+top_4_Celeg_TT:49456940-49458940.fasta.blastn
+top_4_Celeg_TT:49546584-49548584.fasta.blastn
+top_4_Celeg_TT:49752940-49754940.fasta.blastn
+top_4_Celeg_TT:49754940-49756940.fasta.blastn
+top_4_Celeg_TT:49855076-49857076.fasta.blastn
+top_4_Celeg_TT:50173076-50175076.fasta.blastn
+top_4_Celeg_TT:50573076-50575076.fasta.blastn
+top_4_Celeg_TT:50883076-50885076.fasta.blastn gene_id "HCOI01188800"
+top_4_Celeg_TT:50887076-50889076.fasta.blastn gene_id "HCOI01188800"
+top_4_Celeg_TT:51171367-51173367.fasta.blastn gene_id "HCOI00063800"
+top_4_Celeg_TT:51177751-51179751.fasta.blastn gene_id "HCOI01810600"
+top_4_Celeg_TT:51265751-51267751.fasta.blastn
+top_4_Celeg_TT:51267751-51269751.fasta.blastn
+top_4_Celeg_TT:5135515-5137515.fasta.blastn gene_id "HCOI00995200"
+top_4_Celeg_TT:5474343-5476343.fasta.blastn gene_id "HCOI01015800"
+top_4_Celeg_TT:5476343-5478343.fasta.blastn gene_id "HCOI01724800"
+top_4_Celeg_TT:5478343-5480343.fasta.blastn gene_id "HCOI01724900"
+top_4_Celeg_TT:5585047-5587047.fasta.blastn gene_id "HCOI00196400"
+top_4_Celeg_TT:579071-581071.fasta.blastn
+top_4_Celeg_TT:6224287-6226287.fasta.blastn
+top_4_Celeg_TT:6224820-6226820.fasta.blastn
+top_4_Celeg_TT:62833-64833.fasta.blastn
+top_4_Celeg_TT:6395318-6397318.fasta.blastn
+top_4_Celeg_TT:655949-657949.fasta.blastn
+top_4_Celeg_TT:6754820-6756820.fasta.blastn gene_id "HCOI00329200"
+top_4_Celeg_TT:6755515-6757515.fasta.blastn gene_id "HCOI00329200"
+top_4_Celeg_TT:701898-703898.fasta.blastn
+top_4_Celeg_TT:724878-726878.fasta.blastn gene_id "HCOI00054800"
+top_4_Celeg_TT:726878-728878.fasta.blastn gene_id "HCOI01238500"
+top_4_Celeg_TT:7655382-7657382.fasta.blastn gene_id "HCOI00245600"
+top_4_Celeg_TT:7779515-7781515.fasta.blastn
+top_4_Celeg_TT:789836-791836.fasta.blastn
+top_4_Celeg_TT:789898-791898.fasta.blastn
+top_4_Celeg_TT:85071-87071.fasta.blastn
+top_4_Celeg_TT:87071-89071.fasta.blastn
+top_4_Celeg_TT:896998-898998.fasta.blastn
+top_4_Celeg_TT:960998-962998.fasta.blastn
+top_4_Celeg_TT:961943-963943.fasta.blastn gene_id "HCOI00711600"
+top_4_Celeg_TT:9780727-9782727.fasta.blastn gene_id "HCOI01803800"
+top_4_Celeg_TT:9925047-9927047.fasta.blastn
+top_5_Celeg_TT_axel:1035507-1037507.fasta.blastn gene_id "HCOI00133200"
+top_5_Celeg_TT_axel:1037507-1039507.fasta.blastn gene_id "HCOI00133200"
+top_5_Celeg_TT_axel:10509850-10511850.fasta.blastn
+top_5_Celeg_TT_axel:1069006-1071006.fasta.blastn gene_id "HCOI01318200"
+top_5_Celeg_TT_axel:1071006-1073006.fasta.blastn gene_id "HCOI01318200"
+top_5_Celeg_TT_axel:1137507-1139507.fasta.blastn gene_id "HCOI02039700"
+top_5_Celeg_TT_axel:1139507-1141507.fasta.blastn gene_id "HCOI02039700"
+top_5_Celeg_TT_axel:1211195-1213195.fasta.blastn gene_id "HCOI02040000"
+top_5_Celeg_TT_axel:13157850-13159850.fasta.blastn gene_id "HCOI01159000"
+top_5_Celeg_TT_axel:13167850-13169850.fasta.blastn gene_id "HCOI01159100"
+top_5_Celeg_TT_axel:13171850-13173850.fasta.blastn gene_id "HCOI01159100"
+top_5_Celeg_TT_axel:13173850-13175850.fasta.blastn
+top_5_Celeg_TT_axel:13175850-13177850.fasta.blastn
+top_5_Celeg_TT_axel:131779-133779.fasta.blastn
+top_5_Celeg_TT_axel:13399865-13401865.fasta.blastn
+top_5_Celeg_TT_axel:13457865-13459865.fasta.blastn
+top_5_Celeg_TT_axel:13485865-13487865.fasta.blastn gene_id "HCOI01965000"
+top_5_Celeg_TT_axel:13543862-13545862.fasta.blastn gene_id "HCOI01965200"
+top_5_Celeg_TT_axel:13545862-13547862.fasta.blastn
+top_5_Celeg_TT_axel:13547850-13549850.fasta.blastn
+top_5_Celeg_TT_axel:13547862-13549862.fasta.blastn
+top_5_Celeg_TT_axel:13549850-13551850.fasta.blastn
+top_5_Celeg_TT_axel:13549862-13551862.fasta.blastn
+top_5_Celeg_TT_axel:13655865-13657865.fasta.blastn
+top_5_Celeg_TT_axel:13657865-13659865.fasta.blastn
+top_5_Celeg_TT_axel:13659865-13661865.fasta.blastn
+top_5_Celeg_TT_axel:13759850-13761850.fasta.blastn
+top_5_Celeg_TT_axel:13761850-13763850.fasta.blastn
+top_5_Celeg_TT_axel:13971865-13973865.fasta.blastn
+top_5_Celeg_TT_axel:13972527-13974527.fasta.blastn gene_id "HCOI00261300"
+top_5_Celeg_TT_axel:14006535-14008535.fasta.blastn gene_id "HCOI01426700"
+top_5_Celeg_TT_axel:14008535-14010535.fasta.blastn
+top_5_Celeg_TT_axel:14127862-14129862.fasta.blastn gene_id "HCOI00284300"
+top_5_Celeg_TT_axel:14129862-14131862.fasta.blastn gene_id "HCOI00284300"
+top_5_Celeg_TT_axel:14157850-14159850.fasta.blastn
+top_5_Celeg_TT_axel:14161862-14163862.fasta.blastn
+top_5_Celeg_TT_axel:14443850-14445850.fasta.blastn
+top_5_Celeg_TT_axel:14536938-14538938.fasta.blastn gene_id "HCOI00644900"
+top_5_Celeg_TT_axel:14956854-14958854.fasta.blastn
+top_5_Celeg_TT_axel:14957188-14959188.fasta.blastn
+top_5_Celeg_TT_axel:14957228-14959228.fasta.blastn
+top_5_Celeg_TT_axel:14958854-14960854.fasta.blastn
+top_5_Celeg_TT_axel:14959188-14961188.fasta.blastn
+top_5_Celeg_TT_axel:14959228-14961228.fasta.blastn
+top_5_Celeg_TT_axel:14961188-14963188.fasta.blastn
+top_5_Celeg_TT_axel:14963188-14965188.fasta.blastn gene_id "HCOI01541900"
+top_5_Celeg_TT_axel:1516972-1518972.fasta.blastn gene_id "HCOI01148300"
+top_5_Celeg_TT_axel:1532534-1534534.fasta.blastn gene_id "HCOI01148500"
+top_5_Celeg_TT_axel:1534534-1536534.fasta.blastn gene_id "HCOI01148600"
+top_5_Celeg_TT_axel:153507-155507.fasta.blastn
+top_5_Celeg_TT_axel:15372938-15374938.fasta.blastn
+top_5_Celeg_TT_axel:15374938-15376938.fasta.blastn
+top_5_Celeg_TT_axel:15430938-15432938.fasta.blastn
+top_5_Celeg_TT_axel:15503228-15505228.fasta.blastn
+top_5_Celeg_TT_axel:15505228-15507228.fasta.blastn gene_id "HCOI01605900"
+top_5_Celeg_TT_axel:15506854-15508854.fasta.blastn gene_id "HCOI01605900"
+top_5_Celeg_TT_axel:15507003-15509003.fasta.blastn gene_id "HCOI01605900"
+top_5_Celeg_TT_axel:15507031-15509031.fasta.blastn gene_id "HCOI01605900"
+top_5_Celeg_TT_axel:15507228-15509228.fasta.blastn gene_id "HCOI01605900"
+top_5_Celeg_TT_axel:15508854-15510854.fasta.blastn gene_id "HCOI00567400"
+top_5_Celeg_TT_axel:15509003-15511003.fasta.blastn gene_id "HCOI00567400"
+top_5_Celeg_TT_axel:15510899-15512899.fasta.blastn gene_id "HCOI00567400"
+top_5_Celeg_TT_axel:15511003-15513003.fasta.blastn gene_id "HCOI00567400"
+top_5_Celeg_TT_axel:15512899-15514899.fasta.blastn gene_id "HCOI00567400"
+top_5_Celeg_TT_axel:15513003-15515003.fasta.blastn gene_id "HCOI00567400"
+top_5_Celeg_TT_axel:15519228-15521228.fasta.blastn
+top_5_Celeg_TT_axel:155507-157507.fasta.blastn
+top_5_Celeg_TT_axel:1556534-1558534.fasta.blastn gene_id "HCOI02081600"
+top_5_Celeg_TT_axel:1558534-1560534.fasta.blastn gene_id "HCOI02081600"
+top_5_Celeg_TT_axel:157507-159507.fasta.blastn
+top_5_Celeg_TT_axel:15786286-15788286.fasta.blastn
+top_5_Celeg_TT_axel:16211228-16213228.fasta.blastn
+top_5_Celeg_TT_axel:16213228-16215228.fasta.blastn
+top_5_Celeg_TT_axel:16214854-16216854.fasta.blastn
+top_5_Celeg_TT_axel:16215228-16217228.fasta.blastn
+top_5_Celeg_TT_axel:16216854-16218854.fasta.blastn
+top_5_Celeg_TT_axel:16217228-16219228.fasta.blastn
+top_5_Celeg_TT_axel:16585228-16587228.fasta.blastn
+top_5_Celeg_TT_axel:16852486-16854486.fasta.blastn
+top_5_Celeg_TT_axel:16854486-16856486.fasta.blastn
+top_5_Celeg_TT_axel:16878486-16880486.fasta.blastn
+top_5_Celeg_TT_axel:16880486-16882486.fasta.blastn
+top_5_Celeg_TT_axel:17687031-17689031.fasta.blastn gene_id "HCOI01768500"
+top_5_Celeg_TT_axel:17689031-17691031.fasta.blastn
+top_5_Celeg_TT_axel:18009003-18011003.fasta.blastn
+top_5_Celeg_TT_axel:18009228-18011228.fasta.blastn
+top_5_Celeg_TT_axel:18128486-18130486.fasta.blastn
+top_5_Celeg_TT_axel:18130486-18132486.fasta.blastn
+top_5_Celeg_TT_axel:18180486-18182486.fasta.blastn
+top_5_Celeg_TT_axel:18526646-18528646.fasta.blastn gene_id "HCOI_Ser_1_250"
+top_5_Celeg_TT_axel:1862534-1864534.fasta.blastn
+top_5_Celeg_TT_axel:19061031-19063031.fasta.blastn gene_id "HCOI01990700"
+top_5_Celeg_TT_axel:19460646-19462646.fasta.blastn
+top_5_Celeg_TT_axel:19462646-19464646.fasta.blastn gene_id "HCOI01140800"
+top_5_Celeg_TT_axel:19789695-19791695.fasta.blastn gene_id "HCOI01359400"
+top_5_Celeg_TT_axel:1999195-2001195.fasta.blastn gene_id "HCOI00218400"
+top_5_Celeg_TT_axel:2001195-2003195.fasta.blastn gene_id "HCOI00218400"
+top_5_Celeg_TT_axel:20484740-20486740.fasta.blastn gene_id "HCOI01315000"
+top_5_Celeg_TT_axel:20582476-20584476.fasta.blastn
+top_5_Celeg_TT_axel:20804482-20806482.fasta.blastn gene_id "HCOI00220200"
+top_5_Celeg_TT_axel:20808482-20810482.fasta.blastn gene_id "HCOI00220200"
+top_5_Celeg_TT_axel:20810482-20812482.fasta.blastn gene_id "HCOI00220200"
+top_5_Celeg_TT_axel:20880516-20882516.fasta.blastn
+top_5_Celeg_TT_axel:21699695-21701695.fasta.blastn
+top_5_Celeg_TT_axel:21738476-21740476.fasta.blastn gene_id "HCOI01227500"
+top_5_Celeg_TT_axel:21740476-21742476.fasta.blastn gene_id "HCOI01227500"
+top_5_Celeg_TT_axel:22250590-22252590.fasta.blastn gene_id "HCOI00512300"
+top_5_Celeg_TT_axel:22250611-22252611.fasta.blastn gene_id "HCOI00512300"
+top_5_Celeg_TT_axel:22252590-22254590.fasta.blastn gene_id "HCOI00512300"
+top_5_Celeg_TT_axel:22254590-22256590.fasta.blastn gene_id "HCOI00512300"
+top_5_Celeg_TT_axel:22358516-22360516.fasta.blastn
+top_5_Celeg_TT_axel:22360516-22362516.fasta.blastn gene_id "HCOI00320200"
+top_5_Celeg_TT_axel:22438736-22440736.fasta.blastn
+top_5_Celeg_TT_axel:22440736-22442736.fasta.blastn
+top_5_Celeg_TT_axel:22442736-22444736.fasta.blastn
+top_5_Celeg_TT_axel:22444736-22446736.fasta.blastn gene_id "HCOI00705100"
+top_5_Celeg_TT_axel:22466846-22468846.fasta.blastn
+top_5_Celeg_TT_axel:22562553-22564553.fasta.blastn
+top_5_Celeg_TT_axel:22564553-22566553.fasta.blastn
+top_5_Celeg_TT_axel:22594553-22596553.fasta.blastn gene_id "HCOI00261300"
+top_5_Celeg_TT_axel:22954476-22956476.fasta.blastn
+top_5_Celeg_TT_axel:22956476-22958476.fasta.blastn gene_id "HCOI00809700"
+top_5_Celeg_TT_axel:22960476-22962476.fasta.blastn gene_id "HCOI00809700"
+top_5_Celeg_TT_axel:22962476-22964476.fasta.blastn gene_id "HCOI00809700"
+top_5_Celeg_TT_axel:22964476-22966476.fasta.blastn gene_id "HCOI00809700"
+top_5_Celeg_TT_axel:23018736-23020736.fasta.blastn gene_id "HCOI00355800"
+top_5_Celeg_TT_axel:23022736-23024736.fasta.blastn gene_id "HCOI00355800"
+top_5_Celeg_TT_axel:23108476-23110476.fasta.blastn
+top_5_Celeg_TT_axel:23562516-23564516.fasta.blastn
+top_5_Celeg_TT_axel:23564516-23566516.fasta.blastn gene_id "HCOI01378500"
+top_5_Celeg_TT_axel:23633695-23635695.fasta.blastn gene_id "HCOI00446400"
+top_5_Celeg_TT_axel:23635695-23637695.fasta.blastn gene_id "HCOI00446400"
+top_5_Celeg_TT_axel:23763454-23765454.fasta.blastn
+top_5_Celeg_TT_axel:23765454-23767454.fasta.blastn
+top_5_Celeg_TT_axel:23799454-23801454.fasta.blastn
+top_5_Celeg_TT_axel:23801454-23803454.fasta.blastn gene_id "HCOI00605500"
+top_5_Celeg_TT_axel:23836846-23838846.fasta.blastn
+top_5_Celeg_TT_axel:23838846-23840846.fasta.blastn gene_id "HCOI01867200"
+top_5_Celeg_TT_axel:23839454-23841454.fasta.blastn gene_id "HCOI00003900"
+top_5_Celeg_TT_axel:23840740-23842740.fasta.blastn
+top_5_Celeg_TT_axel:23840846-23842846.fasta.blastn
+top_5_Celeg_TT_axel:23841454-23843454.fasta.blastn
+top_5_Celeg_TT_axel:23842736-23844736.fasta.blastn
+top_5_Celeg_TT_axel:23866553-23868553.fasta.blastn gene_id "HCOI00426300"
+top_5_Celeg_TT_axel:24316802-24318802.fasta.blastn
+top_5_Celeg_TT_axel:24318802-24320802.fasta.blastn
+top_5_Celeg_TT_axel:24533454-24535454.fasta.blastn
+top_5_Celeg_TT_axel:24535454-24537454.fasta.blastn gene_id "HCOI00047300"
+top_5_Celeg_TT_axel:2477779-2479779.fasta.blastn gene_id "HCOI00315700"
+top_5_Celeg_TT_axel:2479779-2481779.fasta.blastn
+top_5_Celeg_TT_axel:24852482-24854482.fasta.blastn
+top_5_Celeg_TT_axel:24852856-24854856.fasta.blastn
+top_5_Celeg_TT_axel:24891454-24893454.fasta.blastn gene_id "HCOI01301800"
+top_5_Celeg_TT_axel:24893454-24895454.fasta.blastn
+top_5_Celeg_TT_axel:24894611-24896611.fasta.blastn gene_id "HCOI02003600"
+top_5_Celeg_TT_axel:24894846-24896846.fasta.blastn gene_id "HCOI01301800"
+top_5_Celeg_TT_axel:24895454-24897454.fasta.blastn gene_id "HCOI01301800"
+top_5_Celeg_TT_axel:24896846-24898846.fasta.blastn
+top_5_Celeg_TT_axel:24897454-24899454.fasta.blastn
+top_5_Celeg_TT_axel:24920516-24922516.fasta.blastn
+top_5_Celeg_TT_axel:25069668-25071668.fasta.blastn gene_id "HCOI01875700"
+top_5_Celeg_TT_axel:25107940-25109940.fasta.blastn gene_id "HCOI01875600"
+top_5_Celeg_TT_axel:25109940-25111940.fasta.blastn gene_id "HCOI01875600"
+top_5_Celeg_TT_axel:25217900-25219900.fasta.blastn
+top_5_Celeg_TT_axel:25275933-25277933.fasta.blastn
+top_5_Celeg_TT_axel:25417933-25419933.fasta.blastn
+top_5_Celeg_TT_axel:25419933-25421933.fasta.blastn
+top_5_Celeg_TT_axel:25421940-25423940.fasta.blastn
+top_5_Celeg_TT_axel:25423940-25425940.fasta.blastn
+top_5_Celeg_TT_axel:25425940-25427940.fasta.blastn
+top_5_Celeg_TT_axel:25427772-25429772.fasta.blastn
+top_5_Celeg_TT_axel:25459772-25461772.fasta.blastn
+top_5_Celeg_TT_axel:25461772-25463772.fasta.blastn
+top_5_Celeg_TT_axel:261507-263507.fasta.blastn gene_id "HCOI01341600"
+top_5_Celeg_TT_axel:26689537-26691537.fasta.blastn gene_id "HCOI00943500"
+top_5_Celeg_TT_axel:26689940-26691940.fasta.blastn gene_id "HCOI00943500"
+top_5_Celeg_TT_axel:26691537-26693537.fasta.blastn gene_id "HCOI00943500"
+top_5_Celeg_TT_axel:26717890-26719890.fasta.blastn gene_id "HCOI01425900"
+top_5_Celeg_TT_axel:2674534-2676534.fasta.blastn gene_id "HCOI02053600"
+top_5_Celeg_TT_axel:26801933-26803933.fasta.blastn gene_id "HCOI01426500"
+top_5_Celeg_TT_axel:26803933-26805933.fasta.blastn gene_id "HCOI01426500"
+top_5_Celeg_TT_axel:26853933-26855933.fasta.blastn gene_id "HCOI00939200"
+top_5_Celeg_TT_axel:26855933-26857933.fasta.blastn gene_id "HCOI00939200"
+top_5_Celeg_TT_axel:26861933-26863933.fasta.blastn gene_id "HCOI02184800"
+top_5_Celeg_TT_axel:26863933-26865933.fasta.blastn gene_id "HCOI02184800"
+top_5_Celeg_TT_axel:27052134-27054134.fasta.blastn
+top_5_Celeg_TT_axel:27065828-27067828.fasta.blastn gene_id "HCOI00040200"
+top_5_Celeg_TT_axel:27065940-27067940.fasta.blastn gene_id "HCOI00040200"
+top_5_Celeg_TT_axel:27175691-27177691.fasta.blastn
+top_5_Celeg_TT_axel:27327933-27329933.fasta.blastn
+top_5_Celeg_TT_axel:27376075-27378075.fasta.blastn gene_id "HCOI00902600"
+top_5_Celeg_TT_axel:27378075-27380075.fasta.blastn gene_id "HCOI00902600"
+top_5_Celeg_TT_axel:27380075-27382075.fasta.blastn gene_id "HCOI00902600"
+top_5_Celeg_TT_axel:27391890-27393890.fasta.blastn
+top_5_Celeg_TT_axel:27393890-27395890.fasta.blastn
+top_5_Celeg_TT_axel:27441857-27443857.fasta.blastn gene_id "HCOI01902600"
+top_5_Celeg_TT_axel:27443857-27445857.fasta.blastn
+top_5_Celeg_TT_axel:27447857-27449857.fasta.blastn
+top_5_Celeg_TT_axel:27465668-27467668.fasta.blastn gene_id "HCOI00417200"
+top_5_Celeg_TT_axel:27467539-27469539.fasta.blastn gene_id "HCOI00417200"
+top_5_Celeg_TT_axel:27467668-27469668.fasta.blastn gene_id "HCOI00417200"
+top_5_Celeg_TT_axel:27519976-27521976.fasta.blastn gene_id "HCOI01686900"
+top_5_Celeg_TT_axel:27529775-27531775.fasta.blastn gene_id "HCOI01686800"
+top_5_Celeg_TT_axel:27579775-27581775.fasta.blastn
+top_5_Celeg_TT_axel:27581775-27583775.fasta.blastn
+top_5_Celeg_TT_axel:27603539-27605539.fasta.blastn
+top_5_Celeg_TT_axel:27605539-27607539.fasta.blastn
+top_5_Celeg_TT_axel:276534-278534.fasta.blastn gene_id "HCOI01341900"
+top_5_Celeg_TT_axel:276599-278599.fasta.blastn gene_id "HCOI01341900"
+top_5_Celeg_TT_axel:278534-280534.fasta.blastn gene_id "HCOI01342000"
+top_5_Celeg_TT_axel:278599-280599.fasta.blastn gene_id "HCOI01342000"
+top_5_Celeg_TT_axel:28025828-28027828.fasta.blastn gene_id "HCOI00681500"
+top_5_Celeg_TT_axel:28051657-28053657.fasta.blastn
+top_5_Celeg_TT_axel:28053657-28055657.fasta.blastn
+top_5_Celeg_TT_axel:28055828-28057828.fasta.blastn
+top_5_Celeg_TT_axel:28055940-28057940.fasta.blastn
+top_5_Celeg_TT_axel:28665976-28667976.fasta.blastn gene_id "HCOI00580300"
+top_5_Celeg_TT_axel:28667976-28669976.fasta.blastn gene_id "HCOI00580200"
+top_5_Celeg_TT_axel:28669668-28671668.fasta.blastn
+top_5_Celeg_TT_axel:28671668-28673668.fasta.blastn
+top_5_Celeg_TT_axel:29023668-29025668.fasta.blastn gene_id "HCOI02014000"
+top_5_Celeg_TT_axel:29025668-29027668.fasta.blastn gene_id "HCOI02014000"
+top_5_Celeg_TT_axel:29113900-29115900.fasta.blastn gene_id "HCOI01180800"
+top_5_Celeg_TT_axel:29119691-29121691.fasta.blastn
+top_5_Celeg_TT_axel:29120114-29122114.fasta.blastn
+top_5_Celeg_TT_axel:29355668-29357668.fasta.blastn
+top_5_Celeg_TT_axel:29899241-29901241.fasta.blastn
+top_5_Celeg_TT_axel:29901241-29903241.fasta.blastn
+top_5_Celeg_TT_axel:30247602-30249602.fasta.blastn
+top_5_Celeg_TT_axel:30249602-30251602.fasta.blastn
+top_5_Celeg_TT_axel:30251602-30253602.fasta.blastn
+top_5_Celeg_TT_axel:30255602-30257602.fasta.blastn gene_id "HCOI00407400"
+top_5_Celeg_TT_axel:30257602-30259602.fasta.blastn gene_id "HCOI00407400"
+top_5_Celeg_TT_axel:30752926-30754926.fasta.blastn gene_id "HCOI02056100"
+top_5_Celeg_TT_axel:30753422-30755422.fasta.blastn gene_id "HCOI02056100"
+top_5_Celeg_TT_axel:30755422-30757422.fasta.blastn gene_id "HCOI02056000"
+top_5_Celeg_TT_axel:30763054-30765054.fasta.blastn gene_id "HCOI02056000"
+top_5_Celeg_TT_axel:30765054-30767054.fasta.blastn gene_id "HCOI02056000"
+top_5_Celeg_TT_axel:30777422-30779422.fasta.blastn
+top_5_Celeg_TT_axel:30961602-30963602.fasta.blastn
+top_5_Celeg_TT_axel:30965602-30967602.fasta.blastn
+top_5_Celeg_TT_axel:30967602-30969602.fasta.blastn
+top_5_Celeg_TT_axel:31245048-31247048.fasta.blastn gene_id "HCOI01768500"
+top_5_Celeg_TT_axel:31247048-31249048.fasta.blastn gene_id "HCOI01768500"
+top_5_Celeg_TT_axel:31301048-31303048.fasta.blastn
+top_5_Celeg_TT_axel:31303048-31305048.fasta.blastn
+top_5_Celeg_TT_axel:31305048-31307048.fasta.blastn
+top_5_Celeg_TT_axel:32333602-32335602.fasta.blastn gene_id "HCOI00810800"
+top_5_Celeg_TT_axel:32335602-32337602.fasta.blastn gene_id "HCOI00810800"
+top_5_Celeg_TT_axel:325724-327724.fasta.blastn
+top_5_Celeg_TT_axel:33251048-33253048.fasta.blastn
+top_5_Celeg_TT_axel:33459241-33461241.fasta.blastn
+top_5_Celeg_TT_axel:33461241-33463241.fasta.blastn
+top_5_Celeg_TT_axel:33687054-33689054.fasta.blastn gene_id "HCOI02170600"
+top_5_Celeg_TT_axel:34307602-34309602.fasta.blastn
+top_5_Celeg_TT_axel:34309602-34311602.fasta.blastn
+top_5_Celeg_TT_axel:34311602-34313602.fasta.blastn
+top_5_Celeg_TT_axel:34333602-34335602.fasta.blastn gene_id "HCOI00249500"
+top_5_Celeg_TT_axel:34362926-34364926.fasta.blastn gene_id "HCOI00249500"
+top_5_Celeg_TT_axel:34381602-34383602.fasta.blastn gene_id "HCOI00249500"
+top_5_Celeg_TT_axel:34383602-34385602.fasta.blastn gene_id "HCOI00249500"
+top_5_Celeg_TT_axel:34385602-34387602.fasta.blastn
+top_5_Celeg_TT_axel:34427602-34429602.fasta.blastn gene_id "HCOI00492500"
+top_5_Celeg_TT_axel:34429602-34431602.fasta.blastn
+top_5_Celeg_TT_axel:34596515-34598515.fasta.blastn
+top_5_Celeg_TT_axel:34598515-34600515.fasta.blastn
+top_5_Celeg_TT_axel:34909430-34911430.fasta.blastn gene_id "HCOI01342900"
+top_5_Celeg_TT_axel:3562599-3564599.fasta.blastn
+top_5_Celeg_TT_axel:3564599-3566599.fasta.blastn
+top_5_Celeg_TT_axel:37284515-37286515.fasta.blastn gene_id "HCOI00463000"
+top_5_Celeg_TT_axel:37286515-37288515.fasta.blastn gene_id "HCOI00463000"
+top_5_Celeg_TT_axel:37457110-37459110.fasta.blastn
+top_5_Celeg_TT_axel:37457335-37459335.fasta.blastn gene_id "HCOI00080900"
+top_5_Celeg_TT_axel:37458515-37460515.fasta.blastn gene_id "HCOI00080900"
+top_5_Celeg_TT_axel:37459335-37461335.fasta.blastn gene_id "HCOI00080900"
+top_5_Celeg_TT_axel:37511335-37513335.fasta.blastn gene_id "HCOI00081300"
+top_5_Celeg_TT_axel:37513335-37515335.fasta.blastn gene_id "HCOI00081300"
+top_5_Celeg_TT_axel:3781779-3783779.fasta.blastn
+top_5_Celeg_TT_axel:3783779-3785779.fasta.blastn
+top_5_Celeg_TT_axel:3892561-3894561.fasta.blastn gene_id "HCOI02180600"
+top_5_Celeg_TT_axel:390599-392599.fasta.blastn
+top_5_Celeg_TT_axel:392599-394599.fasta.blastn
+top_5_Celeg_TT_axel:3970599-3972599.fasta.blastn gene_id "HCOI02181300"
+top_5_Celeg_TT_axel:39847778-39849778.fasta.blastn
+top_5_Celeg_TT_axel:39849778-39851778.fasta.blastn
+top_5_Celeg_TT_axel:41271778-41273778.fasta.blastn gene_id "HCOI00600400"
+top_5_Celeg_TT_axel:41273778-41275778.fasta.blastn
+top_5_Celeg_TT_axel:41275778-41277778.fasta.blastn
+top_5_Celeg_TT_axel:41321778-41323778.fasta.blastn
+top_5_Celeg_TT_axel:41322163-41324163.fasta.blastn
+top_5_Celeg_TT_axel:41324163-41326163.fasta.blastn
+top_5_Celeg_TT_axel:41432165-41434165.fasta.blastn
+top_5_Celeg_TT_axel:41433778-41435778.fasta.blastn
+top_5_Celeg_TT_axel:41483778-41485778.fasta.blastn gene_id "HCOI00599400"
+top_5_Celeg_TT_axel:41544103-41546103.fasta.blastn
+top_5_Celeg_TT_axel:42614163-42616163.fasta.blastn gene_id "HCOI00164200"
+top_5_Celeg_TT_axel:42616163-42618163.fasta.blastn gene_id "HCOI00164200"
+top_5_Celeg_TT_axel:42658163-42660163.fasta.blastn gene_id "HCOI00164300"
+top_5_Celeg_TT_axel:42680165-42682165.fasta.blastn
+top_5_Celeg_TT_axel:42682165-42684165.fasta.blastn
+top_5_Celeg_TT_axel:42958163-42960163.fasta.blastn
+top_5_Celeg_TT_axel:43084227-43086227.fasta.blastn
+top_5_Celeg_TT_axel:43086227-43088227.fasta.blastn
+top_5_Celeg_TT_axel:43390099-43392099.fasta.blastn
+top_5_Celeg_TT_axel:43919778-43921778.fasta.blastn
+top_5_Celeg_TT_axel:45248607-45250607.fasta.blastn gene_id "HCOI00761600"
+top_5_Celeg_TT_axel:45764607-45766607.fasta.blastn gene_id "HCOI01986200"
+top_5_Celeg_TT_axel:45765208-45767208.fasta.blastn gene_id "HCOI01986200"
+top_5_Celeg_TT_axel:45766607-45768607.fasta.blastn gene_id "HCOI01986200"
+top_5_Celeg_TT_axel:45793208-45795208.fasta.blastn
+top_5_Celeg_TT_axel:45821476-45823476.fasta.blastn gene_id "HCOI00016700"
+top_5_Celeg_TT_axel:45823476-45825476.fasta.blastn gene_id "HCOI00016700"
+top_5_Celeg_TT_axel:45925460-45927460.fasta.blastn gene_id "HCOI00017000"
+top_5_Celeg_TT_axel:45927460-45929460.fasta.blastn gene_id "HCOI00017000"
+top_5_Celeg_TT_axel:46091188-46093188.fasta.blastn
+top_5_Celeg_TT_axel:46531188-46533188.fasta.blastn gene_id "HCOI00380200"
+top_5_Celeg_TT_axel:46541188-46543188.fasta.blastn
+top_5_Celeg_TT_axel:46615208-46617208.fasta.blastn gene_id "HCOI01468600"
+top_5_Celeg_TT_axel:47095844-47097844.fasta.blastn gene_id "HCOI01857100"
+top_5_Celeg_TT_axel:47201208-47203208.fasta.blastn gene_id "HCOI00233200"
+top_5_Celeg_TT_axel:47203208-47205208.fasta.blastn gene_id "HCOI00233200"
+top_5_Celeg_TT_axel:4822534-4824534.fasta.blastn gene_id "HCOI00530800"
+top_5_Celeg_TT_axel:4824534-4826534.fasta.blastn gene_id "HCOI00530800"
+top_5_Celeg_TT_axel:4862061-4864061.fasta.blastn gene_id "HCOI00447000"
+top_5_Celeg_TT_axel:4889764-4891764.fasta.blastn gene_id "HCOI00447100"
+top_5_Celeg_TT_axel:4982052-4984052.fasta.blastn gene_id "HCOI00447500"
+top_5_Celeg_TT_axel:4994052-4996052.fasta.blastn gene_id "HCOI00447600"
+top_5_Celeg_TT_axel:4996052-4998052.fasta.blastn gene_id "HCOI00447600"
+top_5_Celeg_TT_axel:568599-570599.fasta.blastn gene_id "HCOI01804900"
+top_5_Celeg_TT_axel:6241807-6243807.fasta.blastn gene_id "HCOI00057400"
+top_5_Celeg_TT_axel:6243807-6245807.fasta.blastn gene_id "HCOI00057400"
+top_5_Celeg_TT_axel:6245807-6247807.fasta.blastn gene_id "HCOI00057400"
+top_5_Celeg_TT_axel:6247807-6249807.fasta.blastn gene_id "HCOI00057400"
+top_5_Celeg_TT_axel:6272052-6274052.fasta.blastn
+top_5_Celeg_TT_axel:6280052-6282052.fasta.blastn
+top_5_Celeg_TT_axel:6352052-6354052.fasta.blastn
+top_5_Celeg_TT_axel:6357946-6359946.fasta.blastn
+top_5_Celeg_TT_axel:6358052-6360052.fasta.blastn
+top_5_Celeg_TT_axel:6360052-6362052.fasta.blastn
+top_5_Celeg_TT_axel:6561606-6563606.fasta.blastn
+top_5_Celeg_TT_axel:6563606-6565606.fasta.blastn
+top_5_Celeg_TT_axel:661779-663779.fasta.blastn
+top_5_Celeg_TT_axel:664599-666599.fasta.blastn
+top_5_Celeg_TT_axel:6678052-6680052.fasta.blastn gene_id "HCOI01257200"
+top_5_Celeg_TT_axel:800599-802599.fasta.blastn
+top_5_Celeg_TT_axel:802599-804599.fasta.blastn
+top_5_Celeg_TT_axel:804599-806599.fasta.blastn
+top_5_Celeg_TT_axel:842599-844599.fasta.blastn
+top_5_Celeg_TT_axel:843779-845779.fasta.blastn
+top_5_Celeg_TT_axel:8621882-8623882.fasta.blastn gene_id "HCOI01058000"
+top_5_Celeg_TT_axel:8623882-8625882.fasta.blastn gene_id "HCOI01058000"
+top_5_Celeg_TT_axel:8625882-8627882.fasta.blastn gene_id "HCOI01058000"
+top_5_Celeg_TT_axel:8625925-8627925.fasta.blastn gene_id "HCOI01058000"
+top_5_Celeg_TT_axel:8627882-8629882.fasta.blastn gene_id "HCOI01058000"
+top_5_Celeg_TT_axel:8627925-8629925.fasta.blastn gene_id "HCOI01058000"
+top_5_Celeg_TT_axel:8667801-8669801.fasta.blastn
+top_5_Celeg_TT_axel:8667925-8669925.fasta.blastn
