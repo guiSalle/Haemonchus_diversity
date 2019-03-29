@@ -1,0 +1,272 @@
+GO.ID;Term;Annotated;Significant;Expected;Rank in classicFisher;classicFisher;classicKS;COMP;GO.group
+GO:0004674;protein serine/threonine kinase activity;240;2;0,89;19;0.22;0.00013;AUS.1.AUS.2;MF
+GO:0005326;neurotransmitter transporter activity;42;0;0,16;47;1.00;0.00065;AUS.1.AUS.2;MF
+GO:0016746;transferase activity, transferring acyl groups;154;0;0,57;48;1.00;0.00072;AUS.1.AUS.2;MF
+GO:0003995;acyl-CoA dehydrogenase activity;16;0;0,06;49;1.00;0.00183;AUS.1.AUS.2;MF
+GO:0051539;4 iron, 4 sulfur cluster binding;17;0;0,06;50;1.00;0.00486;AUS.1.AUS.2;MF
+GO:0003887;DNA-directed DNA polymerase activity;21;0;0,08;51;1.00;0.00664;AUS.1.AUS.2;MF
+GO:0004930;G-protein coupled receptor activity;197;0;0,73;52;1.00;0.00720;AUS.1.AUS.2;MF
+GO:0016627;oxidoreductase activity, acting on the CH-CH group of donors;45;0;0,17;53;1.00;0.00772;AUS.1.AUS.2;MF
+GO:0016634;oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor;10;0;0,04;54;1.00;0.00871;AUS.1.AUS.2;MF
+GO:0071949;FAD binding;10;0;0,04;55;1.00;0.00871;AUS.1.AUS.2;MF
+GO:0048029;monosaccharide binding;23;0;0,09;56;1.00;0.00904;AUS.1.AUS.2;MF
+GO:0009898;cytoplasmic side of plasma membrane;20;0;0,04;17;1;0.0054;AUS.1.AUS.2;CC
+GO:0044428;nuclear part;366;0;0,73;18;1;0.0057;AUS.1.AUS.2;CC
+GO:0030119;AP-type membrane coat adaptor complex;19;0;0,04;19;1;0.0082;AUS.1.AUS.2;CC
+GO:0042493;response to drug;91;0;0,29;67;1;5.1e-05;AUS.1.AUS.2;BP
+GO:0006448;regulation of translational elongation;10;0;0,03;68;1;0.00069;AUS.1.AUS.2;BP
+GO:0006950;response to stress;509;1;1,63;69;1;0.00216;AUS.1.AUS.2;BP
+GO:0043051;regulation of pharyngeal pumping;37;0;0,12;70;1;0.00281;AUS.1.AUS.2;BP
+GO:0043412;macromolecule modification;1062;5;3,4;71;1;0.00324;AUS.1.AUS.2;BP
+GO:0060249;anatomical structure homeostasis;41;0;0,13;72;1;0.00366;AUS.1.AUS.2;BP
+GO:0046662;regulation of oviposition;42;0;0,13;73;1;0.00459;AUS.1.AUS.2;BP
+GO:0000226;microtubule cytoskeleton organization;156;0;0,5;74;1;0.00546;AUS.1.AUS.2;BP
+GO:0001714;endodermal cell fate specification;13;0;0,04;75;1;0.00588;AUS.1.AUS.2;BP
+GO:0009306;protein secretion;19;0;0,06;76;1;0.00832;AUS.1.AUS.2;BP
+GO:0002181;cytoplasmic translation;17;0;0,05;77;1;0.00835;AUS.1.AUS.2;BP
+GO:0001505;regulation of neurotransmitter levels;65;0;0,21;78;1;0.00922;AUS.1.AUS.2;BP
+GO:0010628;positive regulation of gene expression;125;0;0,4;79;1;0.00946;AUS.1.AUS.2;BP
+GO:0004674;protein serine/threonine kinase activity;240;0;1,09;47;1;0.00013;KOK.MAR;MF
+GO:0005326;neurotransmitter transporter activity;42;1;0,19;48;1;0.00065;KOK.MAR;MF
+GO:0016746;transferase activity, transferring acyl groups;154;0;0,7;49;1;0.00069;KOK.MAR;MF
+GO:0003995;acyl-CoA dehydrogenase activity;16;0;0,07;50;1;0.00178;KOK.MAR;MF
+GO:0051539;4 iron, 4 sulfur cluster binding;17;0;0,08;51;1;0.00477;KOK.MAR;MF
+GO:0008234;cysteine-type peptidase activity;144;1;0,65;52;1;0.00611;KOK.MAR;MF
+GO:0003887;DNA-directed DNA polymerase activity;21;0;0,1;53;1;0.00643;KOK.MAR;MF
+GO:0004930;G-protein coupled receptor activity;197;0;0,9;54;1;0.00688;KOK.MAR;MF
+GO:0016627;oxidoreductase activity, acting on the CH-CH group of donors;45;0;0,2;55;1;0.00751;KOK.MAR;MF
+GO:0016634;oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor;10;0;0,05;56;1;0.00860;KOK.MAR;MF
+GO:0071949;FAD binding;10;0;0,05;57;1;0.00860;KOK.MAR;MF
+GO:0048029;monosaccharide binding;23;0;0,1;58;1;0.00892;KOK.MAR;MF
+GO:0009898;cytoplasmic side of plasma membrane;20;0;0,07;28;1;0.0053;KOK.MAR;CC
+GO:0044428;nuclear part;366;2;1,27;29;1;0.0055;KOK.MAR;CC
+GO:0030119;AP-type membrane coat adaptor complex;19;1;0,07;30;1;0.0082;KOK.MAR;CC
+GO:0042493;response to drug;91;1;0,32;47;0.28;0.00030;KOK.MAR;BP
+GO:0006448;regulation of translational elongation;10;0;0,04;87;1.00;0.00068;KOK.MAR;BP
+GO:0043051;regulation of pharyngeal pumping;37;0;0,13;88;1.00;0.00277;KOK.MAR;BP
+GO:0043412;macromolecule modification;1062;4;3,79;89;1.00;0.00320;KOK.MAR;BP
+GO:0060249;anatomical structure homeostasis;41;0;0,15;90;1.00;0.00364;KOK.MAR;BP
+GO:0046662;regulation of oviposition;42;0;0,15;91;1.00;0.00452;KOK.MAR;BP
+GO:0000226;microtubule cytoskeleton organization;156;1;0,56;92;1.00;0.00544;KOK.MAR;BP
+GO:0001714;endodermal cell fate specification;13;0;0,05;93;1.00;0.00582;KOK.MAR;BP
+GO:0009306;protein secretion;19;0;0,07;94;1.00;0.00819;KOK.MAR;BP
+GO:0002181;cytoplasmic translation;17;0;0,06;95;1.00;0.00827;KOK.MAR;BP
+GO:0001505;regulation of neurotransmitter levels;65;0;0,23;96;1.00;0.00922;KOK.MAR;BP
+GO:0010628;positive regulation of gene expression;125;0;0,45;97;1.00;0.00938;KOK.MAR;BP
+GO:0004674;protein serine/threonine kinase activity;240;1;1;44;0.638;0.00013;KOK.NAM;MF
+GO:0005326;neurotransmitter transporter activity;42;0;0,18;54;1.000;0.00065;KOK.NAM;MF
+GO:0016746;transferase activity, transferring acyl groups;154;0;0,64;55;1.000;0.00069;KOK.NAM;MF
+GO:0051539;4 iron, 4 sulfur cluster binding;17;0;0,07;56;1.000;0.00477;KOK.NAM;MF
+GO:0008234;cysteine-type peptidase activity;144;1;0,6;57;1.000;0.00611;KOK.NAM;MF
+GO:0003887;DNA-directed DNA polymerase activity;21;0;0,09;58;1.000;0.00638;KOK.NAM;MF
+GO:0004930;G-protein coupled receptor activity;197;0;0,82;59;1.000;0.00688;KOK.NAM;MF
+GO:0016627;oxidoreductase activity, acting on the CH-CH group of donors;45;1;0,19;60;1.000;0.00757;KOK.NAM;MF
+GO:0016634;oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor;10;0;0,04;61;1.000;0.00860;KOK.NAM;MF
+GO:0071949;FAD binding;10;0;0,04;62;1.000;0.00860;KOK.NAM;MF
+GO:0048029;monosaccharide binding;23;0;0,1;63;1.000;0.00893;KOK.NAM;MF
+GO:0003995;acyl-CoA dehydrogenase activity;16;1;0,07;7;0.065;0.00938;KOK.NAM;MF
+GO:0009898;cytoplasmic side of plasma membrane;20;0;0,08;17;1;0.0052;KOK.NAM;CC
+GO:0044428;nuclear part;366;0;1,51;18;1;0.0055;KOK.NAM;CC
+GO:0030119;AP-type membrane coat adaptor complex;19;0;0,08;19;1;0.0082;KOK.NAM;CC
+GO:0043025;neuronal cell body;107;0;0,44;20;1;0.0096;KOK.NAM;CC
+GO:0042493;response to drug;91;2;0,34;20;0.081;0.00029;KOK.NAM;BP
+GO:0006448;regulation of translational elongation;10;0;0,04;83;1.000;0.00068;KOK.NAM;BP
+GO:0006950;response to stress;509;1;1,91;84;1.000;0.00204;KOK.NAM;BP
+GO:0043051;regulation of pharyngeal pumping;37;0;0,14;85;1.000;0.00275;KOK.NAM;BP
+GO:0043412;macromolecule modification;1062;4;3,98;86;1.000;0.00317;KOK.NAM;BP
+GO:0060249;anatomical structure homeostasis;41;0;0,15;87;1.000;0.00363;KOK.NAM;BP
+GO:0046662;regulation of oviposition;42;0;0,16;88;1.000;0.00449;KOK.NAM;BP
+GO:0000226;microtubule cytoskeleton organization;156;1;0,58;89;1.000;0.00542;KOK.NAM;BP
+GO:0001714;endodermal cell fate specification;13;0;0,05;90;1.000;0.00585;KOK.NAM;BP
+GO:0002181;cytoplasmic translation;17;0;0,06;91;1.000;0.00825;KOK.NAM;BP
+GO:0001505;regulation of neurotransmitter levels;65;0;0,24;92;1.000;0.00921;KOK.NAM;BP
+GO:0010628;positive regulation of gene expression;125;0;0,47;93;1.000;0.00923;KOK.NAM;BP
+GO:0004674;protein serine/threonine kinase activity;240;1;0,96;47;0.62;0.00022;KOK.WHR;MF
+GO:0005326;neurotransmitter transporter activity;42;0;0,17;55;1.00;0.00065;KOK.WHR;MF
+GO:0016746;transferase activity, transferring acyl groups;154;0;0,61;56;1.00;0.00072;KOK.WHR;MF
+GO:0003995;acyl-CoA dehydrogenase activity;16;0;0,06;57;1.00;0.00182;KOK.WHR;MF
+GO:0051539;4 iron, 4 sulfur cluster binding;17;0;0,07;58;1.00;0.00479;KOK.WHR;MF
+GO:0003887;DNA-directed DNA polymerase activity;21;0;0,08;59;1.00;0.00652;KOK.WHR;MF
+GO:0004930;G-protein coupled receptor activity;197;0;0,79;60;1.00;0.00704;KOK.WHR;MF
+GO:0016627;oxidoreductase activity, acting on the CH-CH group of donors;45;0;0,18;61;1.00;0.00768;KOK.WHR;MF
+GO:0016634;oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor;10;0;0,04;62;1.00;0.00863;KOK.WHR;MF
+GO:0071949;FAD binding;10;0;0,04;63;1.00;0.00863;KOK.WHR;MF
+GO:0048029;monosaccharide binding;23;0;0,09;64;1.00;0.00903;KOK.WHR;MF
+GO:0009898;cytoplasmic side of plasma membrane;20;0;0,08;34;1;0.0053;KOK.WHR;CC
+GO:0043025;neuronal cell body;107;0;0,44;35;1;0.0099;KOK.WHR;CC
+GO:0042493;response to drug;91;0;0,36;96;1.00;5.1e-05;KOK.WHR;BP
+GO:0006448;regulation of translational elongation;10;0;0,04;97;1.00;0.00068;KOK.WHR;BP
+GO:0043051;regulation of pharyngeal pumping;37;0;0,15;98;1.00;0.00277;KOK.WHR;BP
+GO:0043412;macromolecule modification;1062;7;4,18;99;1.00;0.00322;KOK.WHR;BP
+GO:0060249;anatomical structure homeostasis;41;0;0,16;100;1.00;0.00364;KOK.WHR;BP
+GO:0006950;response to stress;509;5;2;76;0.53;0.00406;KOK.WHR;BP
+GO:0046662;regulation of oviposition;42;0;0,17;101;1.00;0.00452;KOK.WHR;BP
+GO:0000226;microtubule cytoskeleton organization;156;2;0,61;102;1.00;0.00544;KOK.WHR;BP
+GO:0001714;endodermal cell fate specification;13;0;0,05;103;1.00;0.00582;KOK.WHR;BP
+GO:0002181;cytoplasmic translation;17;0;0,07;104;1.00;0.00827;KOK.WHR;BP
+GO:0001505;regulation of neurotransmitter levels;65;0;0,26;105;1.00;0.00923;KOK.WHR;BP
+GO:0010628;positive regulation of gene expression;125;0;0,49;106;1.00;0.00931;KOK.WHR;BP
+GO:0004674;protein serine/threonine kinase activity;240;1;0,69;33;0.5;0.00013;KOK.ZAI;MF
+GO:0005326;neurotransmitter transporter activity;42;0;0,12;44;1.0;0.00065;KOK.ZAI;MF
+GO:0016746;transferase activity, transferring acyl groups;154;0;0,44;45;1.0;0.00071;KOK.ZAI;MF
+GO:0003995;acyl-CoA dehydrogenase activity;16;0;0,05;46;1.0;0.00181;KOK.ZAI;MF
+GO:0051539;4 iron, 4 sulfur cluster binding;17;0;0,05;47;1.0;0.00481;KOK.ZAI;MF
+GO:0003887;DNA-directed DNA polymerase activity;21;0;0,06;48;1.0;0.00666;KOK.ZAI;MF
+GO:0004930;G-protein coupled receptor activity;197;0;0,57;49;1.0;0.00715;KOK.ZAI;MF
+GO:0016627;oxidoreductase activity, acting on the CH-CH group of donors;45;0;0,13;50;1.0;0.00764;KOK.ZAI;MF
+GO:0016634;oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor;10;0;0,03;51;1.0;0.00863;KOK.ZAI;MF
+GO:0071949;FAD binding;10;0;0,03;52;1.0;0.00863;KOK.ZAI;MF
+GO:0048029;monosaccharide binding;23;0;0,07;53;1.0;0.00901;KOK.ZAI;MF
+GO:0009898;cytoplasmic side of plasma membrane;20;0;0,05;24;1;0.0053;KOK.ZAI;CC
+GO:0044428;nuclear part;366;0;0,85;25;1;0.0056;KOK.ZAI;CC
+GO:0030119;AP-type membrane coat adaptor complex;19;0;0,04;26;1;0.0082;KOK.ZAI;CC
+GO:0043025;neuronal cell body;107;0;0,25;27;1;0.0099;KOK.ZAI;CC
+GO:0042493;response to drug;91;1;0,26;79;1.00;5.1e-05;KOK.ZAI;BP
+GO:0006448;regulation of translational elongation;10;0;0,03;80;1.00;0.00069;KOK.ZAI;BP
+GO:0043051;regulation of pharyngeal pumping;37;0;0,1;81;1.00;0.00280;KOK.ZAI;BP
+GO:0043412;macromolecule modification;1062;3;3,01;82;1.00;0.00322;KOK.ZAI;BP
+GO:0060249;anatomical structure homeostasis;41;0;0,12;83;1.00;0.00365;KOK.ZAI;BP
+GO:0006950;response to stress;509;3;1,44;53;0.47;0.00411;KOK.ZAI;BP
+GO:0046662;regulation of oviposition;42;0;0,12;84;1.00;0.00458;KOK.ZAI;BP
+GO:0000226;microtubule cytoskeleton organization;156;1;0,44;85;1.00;0.00546;KOK.ZAI;BP
+GO:0001714;endodermal cell fate specification;13;0;0,04;86;1.00;0.00586;KOK.ZAI;BP
+GO:0009306;protein secretion;19;0;0,05;87;1.00;0.00830;KOK.ZAI;BP
+GO:0002181;cytoplasmic translation;17;0;0,05;88;1.00;0.00831;KOK.ZAI;BP
+GO:0001505;regulation of neurotransmitter levels;65;1;0,18;89;1.00;0.00922;KOK.ZAI;BP
+GO:0010628;positive regulation of gene expression;125;0;0,35;90;1.00;0.00946;KOK.ZAI;BP
+GO:0004674;protein serine/threonine kinase activity;240;0;0,91;49;1.00;0.00012;MAR.NAM;MF
+GO:0005326;neurotransmitter transporter activity;42;0;0,16;50;1.00;0.00064;MAR.NAM;MF
+GO:0003995;acyl-CoA dehydrogenase activity;16;0;0,06;51;1.00;0.00177;MAR.NAM;MF
+GO:0016746;transferase activity, transferring acyl groups;154;1;0,59;31;0.45;0.00196;MAR.NAM;MF
+GO:0051539;4 iron, 4 sulfur cluster binding;17;0;0,06;52;1.00;0.00475;MAR.NAM;MF
+GO:0008234;cysteine-type peptidase activity;144;0;0,55;53;1.00;0.00594;MAR.NAM;MF
+GO:0003887;DNA-directed DNA polymerase activity;21;0;0,08;54;1.00;0.00641;MAR.NAM;MF
+GO:0004930;G-protein coupled receptor activity;197;0;0,75;55;1.00;0.00663;MAR.NAM;MF
+GO:0016627;oxidoreductase activity, acting on the CH-CH group of donors;45;0;0,17;56;1.00;0.00745;MAR.NAM;MF
+GO:0016634;oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor;10;0;0,04;57;1.00;0.00855;MAR.NAM;MF
+GO:0071949;FAD binding;10;0;0,04;58;1.00;0.00855;MAR.NAM;MF
+GO:0048029;monosaccharide binding;23;0;0,09;59;1.00;0.00886;MAR.NAM;MF
+GO:0009898;cytoplasmic side of plasma membrane;20;0;0,06;17;1;0.0052;MAR.NAM;CC
+GO:0044428;nuclear part;366;0;1,15;18;1;0.0055;MAR.NAM;CC
+GO:0030119;AP-type membrane coat adaptor complex;19;0;0,06;19;1;0.0082;MAR.NAM;CC
+GO:0043025;neuronal cell body;107;0;0,34;20;1;0.0095;MAR.NAM;CC
+GO:0042493;response to drug;91;0;0,31;88;1.0;5e-05;MAR.NAM;BP
+GO:0006448;regulation of translational elongation;10;0;0,03;89;1.0;0.00069;MAR.NAM;BP
+GO:0043051;regulation of pharyngeal pumping;37;0;0,13;90;1.0;0.00276;MAR.NAM;BP
+GO:0043412;macromolecule modification;1062;1;3,59;91;1.0;0.00316;MAR.NAM;BP
+GO:0060249;anatomical structure homeostasis;41;1;0,14;92;1.0;0.00363;MAR.NAM;BP
+GO:0006950;response to stress;509;3;1,72;77;0.6;0.00390;MAR.NAM;BP
+GO:0046662;regulation of oviposition;42;0;0,14;93;1.0;0.00450;MAR.NAM;BP
+GO:0000226;microtubule cytoskeleton organization;156;1;0,53;94;1.0;0.00542;MAR.NAM;BP
+GO:0001714;endodermal cell fate specification;13;0;0,04;95;1.0;0.00585;MAR.NAM;BP
+GO:0009306;protein secretion;19;0;0,06;96;1.0;0.00823;MAR.NAM;BP
+GO:0002181;cytoplasmic translation;17;0;0,06;97;1.0;0.00829;MAR.NAM;BP
+GO:0001505;regulation of neurotransmitter levels;65;0;0,22;98;1.0;0.00922;MAR.NAM;BP
+GO:0010628;positive regulation of gene expression;125;0;0,42;99;1.0;0.00931;MAR.NAM;BP
+GO:0004674;protein serine/threonine kinase activity;240;1;1,11;50;0.68;0.00023;MAR.WHR;MF
+GO:0005326;neurotransmitter transporter activity;42;0;0,19;56;1.00;0.00064;MAR.WHR;MF
+GO:0016746;transferase activity, transferring acyl groups;154;0;0,71;57;1.00;0.00068;MAR.WHR;MF
+GO:0003995;acyl-CoA dehydrogenase activity;16;0;0,07;58;1.00;0.00178;MAR.WHR;MF
+GO:0051539;4 iron, 4 sulfur cluster binding;17;0;0,08;59;1.00;0.00480;MAR.WHR;MF
+GO:0008234;cysteine-type peptidase activity;144;0;0,67;60;1.00;0.00594;MAR.WHR;MF
+GO:0003887;DNA-directed DNA polymerase activity;21;0;0,1;61;1.00;0.00635;MAR.WHR;MF
+GO:0004930;G-protein coupled receptor activity;197;0;0,91;62;1.00;0.00663;MAR.WHR;MF
+GO:0016627;oxidoreductase activity, acting on the CH-CH group of donors;45;0;0,21;63;1.00;0.00745;MAR.WHR;MF
+GO:0016634;oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor;10;0;0,05;64;1.00;0.00857;MAR.WHR;MF
+GO:0071949;FAD binding;10;0;0,05;65;1.00;0.00857;MAR.WHR;MF
+GO:0048029;monosaccharide binding;23;0;0,11;66;1.00;0.00886;MAR.WHR;MF
+GO:0009898;cytoplasmic side of plasma membrane;20;0;0,05;19;1;0.0053;MAR.WHR;CC
+GO:0044428;nuclear part;366;0;0,91;20;1;0.0056;MAR.WHR;CC
+GO:0030119;AP-type membrane coat adaptor complex;19;1;0,05;21;1;0.0082;MAR.WHR;CC
+GO:0042493;response to drug;91;0;0,36;72;1;5e-05;MAR.WHR;BP
+GO:0006448;regulation of translational elongation;10;0;0,04;73;1;0.00069;MAR.WHR;BP
+GO:0006950;response to stress;509;2;2;74;1;0.00205;MAR.WHR;BP
+GO:0043051;regulation of pharyngeal pumping;37;0;0,15;75;1;0.00275;MAR.WHR;BP
+GO:0043412;macromolecule modification;1062;5;4,18;76;1;0.00319;MAR.WHR;BP
+GO:0060249;anatomical structure homeostasis;41;0;0,16;77;1;0.00362;MAR.WHR;BP
+GO:0000226;microtubule cytoskeleton organization;156;0;0,61;78;1;0.00541;MAR.WHR;BP
+GO:0001714;endodermal cell fate specification;13;0;0,05;79;1;0.00585;MAR.WHR;BP
+GO:0009306;protein secretion;19;0;0,07;80;1;0.00819;MAR.WHR;BP
+GO:0002181;cytoplasmic translation;17;0;0,07;81;1;0.00821;MAR.WHR;BP
+GO:0001505;regulation of neurotransmitter levels;65;0;0,26;82;1;0.00923;MAR.WHR;BP
+GO:0010628;positive regulation of gene expression;125;1;0,49;83;1;0.00932;MAR.WHR;BP
+GO:0004674;protein serine/threonine kinase activity;240;1;0,96;31;0.62;0.00022;MAR.ZAI;MF
+GO:0005326;neurotransmitter transporter activity;42;0;0,17;41;1.00;0.00065;MAR.ZAI;MF
+GO:0016746;transferase activity, transferring acyl groups;154;0;0,61;42;1.00;0.00069;MAR.ZAI;MF
+GO:0003995;acyl-CoA dehydrogenase activity;16;0;0,06;43;1.00;0.00179;MAR.ZAI;MF
+GO:0051539;4 iron, 4 sulfur cluster binding;17;0;0,07;44;1.00;0.00479;MAR.ZAI;MF
+GO:0008234;cysteine-type peptidase activity;144;0;0,57;45;1.00;0.00608;MAR.ZAI;MF
+GO:0003887;DNA-directed DNA polymerase activity;21;0;0,08;46;1.00;0.00652;MAR.ZAI;MF
+GO:0004930;G-protein coupled receptor activity;197;0;0,79;47;1.00;0.00683;MAR.ZAI;MF
+GO:0016627;oxidoreductase activity, acting on the CH-CH group of donors;45;0;0,18;48;1.00;0.00753;MAR.ZAI;MF
+GO:0016634;oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor;10;0;0,04;49;1.00;0.00863;MAR.ZAI;MF
+GO:0071949;FAD binding;10;0;0,04;50;1.00;0.00863;MAR.ZAI;MF
+GO:0048029;monosaccharide binding;23;0;0,09;51;1.00;0.00890;MAR.ZAI;MF
+GO:0009898;cytoplasmic side of plasma membrane;20;0;0,06;17;1;0.0053;MAR.ZAI;CC
+GO:0044428;nuclear part;366;1;1,09;18;1;0.0056;MAR.ZAI;CC
+GO:0030119;AP-type membrane coat adaptor complex;19;0;0,06;19;1;0.0082;MAR.ZAI;CC
+GO:0042493;response to drug;91;0;0,33;57;1.00;5e-05;MAR.ZAI;BP
+GO:0006448;regulation of translational elongation;10;0;0,04;58;1.00;0.00068;MAR.ZAI;BP
+GO:0043051;regulation of pharyngeal pumping;37;0;0,14;59;1.00;0.00275;MAR.ZAI;BP
+GO:0043412;macromolecule modification;1062;4;3,88;60;1.00;0.00317;MAR.ZAI;BP
+GO:0060249;anatomical structure homeostasis;41;0;0,15;61;1.00;0.00361;MAR.ZAI;BP
+GO:0006950;response to stress;509;2;1,86;42;0.56;0.00390;MAR.ZAI;BP
+GO:0046662;regulation of oviposition;42;0;0,15;62;1.00;0.00450;MAR.ZAI;BP
+GO:0000226;microtubule cytoskeleton organization;156;1;0,57;63;1.00;0.00541;MAR.ZAI;BP
+GO:0001714;endodermal cell fate specification;13;0;0,05;64;1.00;0.00582;MAR.ZAI;BP
+GO:0009306;protein secretion;19;0;0,07;65;1.00;0.00823;MAR.ZAI;BP
+GO:0002181;cytoplasmic translation;17;0;0,06;66;1.00;0.00827;MAR.ZAI;BP
+GO:0001505;regulation of neurotransmitter levels;65;0;0,24;67;1.00;0.00921;MAR.ZAI;BP
+GO:0010628;positive regulation of gene expression;125;0;0,46;68;1.00;0.00931;MAR.ZAI;BP
+GO:0004674;protein serine/threonine kinase activity;240;0;0,85;43;1;0.00013;NAM.WHR;MF
+GO:0005326;neurotransmitter transporter activity;42;0;0,15;44;1;0.00065;NAM.WHR;MF
+GO:0016746;transferase activity, transferring acyl groups;154;0;0,54;45;1;0.00072;NAM.WHR;MF
+GO:0003995;acyl-CoA dehydrogenase activity;16;0;0,06;46;1;0.00182;NAM.WHR;MF
+GO:0051539;4 iron, 4 sulfur cluster binding;17;0;0,06;47;1;0.00482;NAM.WHR;MF
+GO:0003887;DNA-directed DNA polymerase activity;21;0;0,07;48;1;0.00656;NAM.WHR;MF
+GO:0004930;G-protein coupled receptor activity;197;0;0,69;49;1;0.00709;NAM.WHR;MF
+GO:0016627;oxidoreductase activity, acting on the CH-CH group of donors;45;0;0,16;50;1;0.00768;NAM.WHR;MF
+GO:0016634;oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor;10;0;0,04;51;1;0.00865;NAM.WHR;MF
+GO:0071949;FAD binding;10;0;0,04;52;1;0.00865;NAM.WHR;MF
+GO:0048029;monosaccharide binding;23;0;0,08;53;1;0.00899;NAM.WHR;MF
+GO:0009898;cytoplasmic side of plasma membrane;20;0;0,08;23;1;0.0053;NAM.WHR;CC
+GO:0044428;nuclear part;366;0;1,39;24;1;0.0055;NAM.WHR;CC
+GO:0042493;response to drug;91;0;0,32;74;1;5.1e-05;NAM.WHR;BP
+GO:0006448;regulation of translational elongation;10;0;0,03;75;1;0.00068;NAM.WHR;BP
+GO:0006950;response to stress;509;2;1,77;76;1;0.00207;NAM.WHR;BP
+GO:0043051;regulation of pharyngeal pumping;37;0;0,13;77;1;0.00274;NAM.WHR;BP
+GO:0043412;macromolecule modification;1062;0;3,69;78;1;0.00317;NAM.WHR;BP
+GO:0060249;anatomical structure homeostasis;41;0;0,14;79;1;0.00362;NAM.WHR;BP
+GO:0046662;regulation of oviposition;42;0;0,15;80;1;0.00447;NAM.WHR;BP
+GO:0000226;microtubule cytoskeleton organization;156;0;0,54;81;1;0.00541;NAM.WHR;BP
+GO:0001714;endodermal cell fate specification;13;0;0,05;82;1;0.00586;NAM.WHR;BP
+GO:0009306;protein secretion;19;0;0,07;83;1;0.00819;NAM.WHR;BP
+GO:0002181;cytoplasmic translation;17;0;0,06;84;1;0.00823;NAM.WHR;BP
+GO:0001505;regulation of neurotransmitter levels;65;0;0,23;85;1;0.00922;NAM.WHR;BP
+GO:0010628;positive regulation of gene expression;125;0;0,43;86;1;0.00931;NAM.WHR;BP
+GO:0004674;protein serine/threonine kinase activity;240;1;1,09;49;0.67;0.00013;NAM.ZAI;MF
+GO:0005326;neurotransmitter transporter activity;42;0;0,19;57;1.00;0.00065;NAM.ZAI;MF
+GO:0016746;transferase activity, transferring acyl groups;154;0;0,7;58;1.00;0.00071;NAM.ZAI;MF
+GO:0003995;acyl-CoA dehydrogenase activity;16;0;0,07;59;1.00;0.00181;NAM.ZAI;MF
+GO:0051539;4 iron, 4 sulfur cluster binding;17;0;0,08;60;1.00;0.00485;NAM.ZAI;MF
+GO:0003887;DNA-directed DNA polymerase activity;21;0;0,1;61;1.00;0.00648;NAM.ZAI;MF
+GO:0016627;oxidoreductase activity, acting on the CH-CH group of donors;45;0;0,2;62;1.00;0.00762;NAM.ZAI;MF
+GO:0016634;oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor;10;0;0,05;63;1.00;0.00868;NAM.ZAI;MF
+GO:0071949;FAD binding;10;0;0,05;64;1.00;0.00868;NAM.ZAI;MF
+GO:0048029;monosaccharide binding;23;0;0,1;65;1.00;0.00896;NAM.ZAI;MF
+GO:0009898;cytoplasmic side of plasma membrane;20;0;0,07;14;1;0.0054;NAM.ZAI;CC
+GO:0044428;nuclear part;366;0;1,21;15;1;0.0056;NAM.ZAI;CC
+GO:0030119;AP-type membrane coat adaptor complex;19;0;0,06;16;1;0.0082;NAM.ZAI;CC
+GO:0042493;response to drug;91;0;0,39;69;1;5e-05;NAM.ZAI;BP
+GO:0006448;regulation of translational elongation;10;0;0,04;70;1;0.00069;NAM.ZAI;BP
+GO:0006950;response to stress;509;3;2,19;71;1;0.00204;NAM.ZAI;BP
+GO:0043051;regulation of pharyngeal pumping;37;0;0,16;72;1;0.00279;NAM.ZAI;BP
+GO:0043412;macromolecule modification;1062;3;4,56;73;1;0.00316;NAM.ZAI;BP
+GO:0060249;anatomical structure homeostasis;41;0;0,18;74;1;0.00365;NAM.ZAI;BP
+GO:0046662;regulation of oviposition;42;0;0,18;75;1;0.00458;NAM.ZAI;BP
+GO:0000226;microtubule cytoskeleton organization;156;0;0,67;76;1;0.00543;NAM.ZAI;BP
+GO:0001714;endodermal cell fate specification;13;0;0,06;77;1;0.00587;NAM.ZAI;BP
+GO:0009306;protein secretion;19;0;0,08;78;1;0.00830;NAM.ZAI;BP
+GO:0002181;cytoplasmic translation;17;0;0,07;79;1;0.00831;NAM.ZAI;BP
+GO:0001505;regulation of neurotransmitter levels;65;0;0,28;80;1;0.00923;NAM.ZAI;BP
+GO:0010628;positive regulation of gene expression;125;1;0,54;81;1;0.00929;NAM.ZAI;BP
