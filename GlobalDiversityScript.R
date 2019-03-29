@@ -34,8 +34,8 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
     }
   }
 }
+### Libraries needed
 require(Hmisc)
-#require(patchwork)
 require(ggplot2)
 theme_set(theme_bw())
 require(reshape2)
@@ -67,11 +67,12 @@ tbb2 = c(13433925,13436504)
 
 draft='./data/'
 setwd(draft)
-draft2='./data/outputdir/' ## Directory where figures will be plotted
+draft2='./data/outputdir/' ## Directory where figures will be plotted; to be created
 
 climate <- getData('worldclim', var='bio', res=2.5)
 
-## Color list copied from by S. Martin twisst plotting script
+## Color list copied from by S. Martin twisst plotting script 
+# (https://github.com/simonhmartin/twisst/blob/master/plot_twisst.R)
 cols = c(
   "#F0A3FF", #Amethyst
   "#0075DC", #Blue
@@ -266,6 +267,7 @@ rm(tree,tree0)
 
 #####====== Twisst topology plot - Figure 3b ====########
 ## Twisst plotting function from Martin et al. 2016
+##https://github.com/simonhmartin/twisst/blob/master/plot_twisst.R                    
 setwd("./data/NUC/TW/")
 
 simple.loess.predict <- function(x, y, span, weights = NULL, max = NULL, min = NULL){
