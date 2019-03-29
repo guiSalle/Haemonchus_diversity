@@ -1,0 +1,3 @@
+((NAM,GUA),FRA,MOR);
+((NAM,FRA),GUA,MOR);
+((NAM,MOR),GUA,FRA);
