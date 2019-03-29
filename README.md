@@ -5,7 +5,7 @@ These scripts are distributed in the hope that they will be useful,
 but WITHOUT ANY WARRANTY.
 
 # Main script
-GlobalDiversityScript.R : R script used to analyse the data and produce figures and supplementary figures.
+```GlobalDiversityScript.R``` : R script used to analyse the data and produce figures and supplementary figures.
 
 # Helper scripts
 These are a few tools used to create intermediate files needed in GlobalDiversityScript.R.
