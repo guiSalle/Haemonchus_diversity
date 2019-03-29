@@ -1,0 +1,1 @@
+#FST for chrom IV
