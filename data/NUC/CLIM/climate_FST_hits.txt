@@ -1,0 +1,77 @@
+1_Celeg_TT	6755000	HCOI01040200	eipr-1
+1_Celeg_TT	6765000	HCOI01040500	rpoa-49
+1_Celeg_TT	6775000	HCOI01040600	ZK484.4
+1_Celeg_TT	6785000	HCOI01040800	No C.elegans orthologs
+1_Celeg_TT	6795000	HCOI01040900	amx-2
+1_Celeg_TT	6845000	No gene	No C.elegans orthologs
+1_Celeg_TT	6855000	HCOI00680400	No C.elegans orthologs
+1_Celeg_TT	6865000	No gene	No C.elegans orthologs
+1_Celeg_TT	6875000	HCOI00680600	sur-6
+1_Celeg_TT	6915000	HCOI00107500	riok-2
+1_Celeg_TT	6925000	HCOI00107400	hprt-1
+1_Celeg_TT	6935000	No gene	No C.elegans orthologs
+1_Celeg_TT	6945000	No gene	No C.elegans orthologs
+1_Celeg_TT	6955000	No gene	No C.elegans orthologs
+1_Celeg_TT	6965000	HCOI00107200	cpb-1
+1_Celeg_TT	6975000	HCOI00456600	cpb-1
+1_Celeg_TT	6985000	HCOI00456400	B0205.4
+1_Celeg_TT	6995000	HCOI00456400	B0205.4
+1_Celeg_TT	7005000	HCOI00456200	No C.elegans orthologs
+1_Celeg_TT	7015000	HCOI00456000	No C.elegans orthologs
+1_Celeg_TT	7025000	HCOI01967600	tbb-1
+1_Celeg_TT	7035000	HCOI01967500	No C.elegans orthologs
+1_Celeg_TT	7045000	HCOI01967400	Y95B8A.6
+1_Celeg_TT	7075000	HCOI01967300	No C.elegans orthologs
+1_Celeg_TT	7085000	HCOI01967300	No C.elegans orthologs
+1_Celeg_TT	7145000	No gene	No C.elegans orthologs
+1_Celeg_TT	7165000	HCOI01607300	No C.elegans orthologs
+1_Celeg_TT	7175000	HCOI01607200	No C.elegans orthologs
+1_Celeg_TT	7185000	No gene	No C.elegans orthologs
+1_Celeg_TT	7195000	HCOI01607100	No C.elegans orthologs
+1_Celeg_TT	7205000	HCOI01607000	No C.elegans orthologs
+1_Celeg_TT	7215000	HCOI01606900	No C.elegans orthologs
+1_Celeg_TT	7395000	HCOI01112700	No C.elegans orthologs
+1_Celeg_TT	7405000	HCOI01112800	No C.elegans orthologs
+1_Celeg_TT	7415000	HCOI01113000	No C.elegans orthologs
+1_Celeg_TT	7715000	HCOI01144000	No C.elegans orthologs
+1_Celeg_TT	7725000	HCOI01143800	No C.elegans orthologs
+1_Celeg_TT	7735000	HCOI01143800	No C.elegans orthologs
+1_Celeg_TT	7745000	HCOI01143700	No C.elegans orthologs
+1_Celeg_TT	7755000	HCOI01143600	No C.elegans orthologs
+1_Celeg_TT	7765000	HCOI01143500	No C.elegans orthologs
+1_Celeg_TT	7775000	HCOI01143300	No C.elegans orthologs
+1_Celeg_TT	7785000	HCOI01143200	No C.elegans orthologs
+1_Celeg_TT	7795000	HCOI01143100	No C.elegans orthologs
+1_Celeg_TT	7805000	HCOI01736800	No C.elegans orthologs
+1_Celeg_TT	7935000	No gene	No C.elegans orthologs
+1_Celeg_TT	7945000	HCOI00658500	No C.elegans orthologs
+1_Celeg_TT	7955000	HCOI00658600	No C.elegans orthologs
+1_Celeg_TT	7965000	No gene	No C.elegans orthologs
+1_Celeg_TT	8165000	HCOI00524200	No C.elegans orthologs
+1_Celeg_TT	8175000	HCOI00524200	No C.elegans orthologs
+1_Celeg_TT	8185000	HCOI00524300	No C.elegans orthologs
+1_Celeg_TT	8195000	No gene	No C.elegans orthologs
+1_Celeg_TT	8205000	HCOI01431800	No C.elegans orthologs
+3_Celeg_TT	10735000	HCOI00644200	No C.elegans orthologs
+3_Celeg_TT	10825000	No gene	No C.elegans orthologs
+3_Celeg_TT	31155000	No gene	No C.elegans orthologs
+3_Celeg_TT	31165000	No gene	No C.elegans orthologs
+3_Celeg_TT	31175000	HCOI01540400	No C.elegans orthologs
+3_Celeg_TT	31185000	HCOI01540400	No C.elegans orthologs
+3_Celeg_TT	31345000	No gene	No C.elegans orthologs
+3_Celeg_TT	31375000	HCOI00923400	No C.elegans orthologs
+3_Celeg_TT	31385000	HCOI00923400	No C.elegans orthologs
+3_Celeg_TT	31395000	HCOI00923400	No C.elegans orthologs
+3_Celeg_TT	31405000	No gene	No C.elegans orthologs
+3_Celeg_TT	31415000	HCOI01577900	No C.elegans orthologs
+4_Celeg_TT	16495000	No gene	No C.elegans orthologs
+4_Celeg_TT	16505000	No gene	No C.elegans orthologs
+4_Celeg_TT	16515000	No gene	No C.elegans orthologs
+4_Celeg_TT	39595000	HCOI00839800	No C.elegans orthologs
+4_Celeg_TT	39605000	No gene	No C.elegans orthologs
+4_Celeg_TT	39615000	No gene	No C.elegans orthologs
+5_Celeg_TT_axel	35855000	HCOI01624400	No C.elegans orthologs
+5_Celeg_TT_axel	35865000	No gene	No C.elegans orthologs
+5_Celeg_TT_axel	35875000	No gene	No C.elegans orthologs
+5_Celeg_TT_axel	7345000	HCOI00687700	F54D5.3
+5_Celeg_TT_axel	7355000	HCOI00687500	No C.elegans orthologs
