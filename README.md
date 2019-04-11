@@ -16,4 +16,7 @@ A shell script needed to convert v3 assembly coordinates into v0 assembly gene i
 * ``` create_GradientForest_input_ANGSD.py ``` :
 A python script to combine minor allele frequency estimates from ANGSD with environmental data into an input file needed for gradientForest analysis. 
 
+* ``` bootstrap.py ``` :
+A python script to estimate parameter uncertainty using a Godambe Information Matrix with dadi (inspired from Peter Beerli's code: http://www.peterbeerli.com/classes/index.php?title=DadiTutorial). 
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
