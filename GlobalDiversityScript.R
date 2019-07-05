@@ -635,6 +635,60 @@ mtest1
 # Permutation: free
 # Number of permutations: 999
 
+#####====== Pop CLUSTERING using mitochondrial information ====########
+setwd('./MITO/')
+#ped.fn<-"MITO.MAF5.ped"
+#map.fn<-"MITO.MAF5.map"
+#snpgdsPED2GDS(ped.fn, map.fn,"MITO.MAF5.gds",
+#              family=TRUE, snpfirstdim=FALSE,
+#              compress.annotation="ZIP_RA.max", compress.geno="", verbose=TRUE)
+genofile<-snpgdsOpen('MITO.MAF5.gds')
+mafq=0.05
+callrate=0.1
+ccm_pca<-snpgdsPCA(genofile,autosome.only=FALSE,
+                   maf = mafq, missing.rate = callrate,
+                   num.thread=2)
+
+isolate=df$iso[match(ccm_pca$sample.id,df$sample)]
+isolate[substr(isolate,1,3)=='FRA']=""
+isolate[isolate=='FRG']="GUA"
+Origin=df$geo[match(ccm_pca$sample.id,df$sample)]
+npop=length(unique(isolate))
+pc.percent <- 100 * ccm_pca$eigenval/sum(ccm_pca$eigenval,na.rm=T)
+pc.percent
+
+pdf(file=paste0(draft2,'supplementary_Figure3.pdf'),width=14, height=8)
+p1=ggplot(data.frame(ccm_pca$eigenvect),
+          aes(x=ccm_pca$eigenvect[,1],
+              y=ccm_pca$eigenvect[,2],
+              label=ccm_pca$sample.id,
+              color=Origin)) +
+  geom_point(size=3) + 
+  geom_text_repel(segment.alpha = 0.2,size=3,aes(x=ccm_pca$eigenvect[,1],y=ccm_pca$eigenvect[,2],col=Origin,label=isolate)) +
+  theme(legend.position='none') + 
+  scale_color_manual(values=clcol) +
+  labs(x = paste("PC1 -",round(pc.percent[1],2),' %',sep='')) +
+  labs(y = paste("PC2 -",round(pc.percent[2],2),' %',sep='')) +
+  theme(text=element_text(size=16))
+
+p2=ggplot(data.frame(ccm_pca$eigenvect),
+          aes(x=ccm_pca$eigenvect[,3],
+              y=ccm_pca$eigenvect[,2],
+              label=ccm_pca$sample.id,
+              color=Origin)) +
+  geom_point(size=3) + 
+  geom_text_repel(segment.alpha = 0.2,size=3,
+                  aes(x=ccm_pca$eigenvect[,3],y=ccm_pca$eigenvect[,2],
+                      col=Origin,label=isolate)) +
+  theme(legend.position=c(.8,.9)) + scale_color_manual(values=clcol) +
+  labs(x = paste("PC3 -",round(pc.percent[3],2),' %',sep='')) +
+  labs(y = paste("PC2 -",round(pc.percent[2],2),' %',sep='')) +
+  theme(text=element_text(size=16))
+multiplot(p1,p2,cols=2)
+dev.off()
+
+closefn.gds(genofile)
+
 
 #####====== ADMIXTURE USING ANGSD - ALL samples ====########
 ##-- Analysis run with ANGSD (ANGSD_223.sh)
@@ -747,7 +801,7 @@ for(K in k){
   cv2[K-1] = var(c(admix.GW.CV1,admix.GW.CV2,admix.GW.CV3,admix.GW.CV4,admix.GW.CV5))
   rm(admix.GW.CV1,admix.GW.CV2,admix.GW.CV3,admix.GW.CV4,admix.GW.CV5)
 }
-pdf(file=paste0(draft2,'Supplementary_Figure6.pdf'))
+pdf(file=paste0(draft2,'Supplementary_Figure5.pdf'))
 plot(k,log10(cv1),pch=19,type='b',ylab='Median absolute deviation')
 dev.off()
 
@@ -1346,20 +1400,55 @@ fra = merge(fra,fecrt,by='farm')
 ###----- Study of diversity based on haplotypes (from phased genotypes)
 setwd('./data/NUC/')
 
-ghpp = read.csv(file='./data/NUC/haplo_aldiffcount_matrix.tsv',header=T,sep="\t")
-ghppm = as.matrix(ghpp[,-1])
-ghpp = as.matrix(ghpp[,-1])
-colnames(ghppm)=df$iso[match(colnames(ghppm),df$sample)]
-rownames(ghppm)=df$iso[match(colnames(ghppm),df$sample)]
-# pheatmap::pheatmap(ghppm,fontsize = 8)
+# ghpp = read.csv(file='./data/NUC/haplo_aldiffcount_matrix.tsv',header=T,sep="\t")
+# ghppm = as.matrix(ghpp[,-1])
+# ghpp = as.matrix(ghpp[,-1])
+# colnames(ghppm)=df$iso[match(colnames(ghppm),df$sample)]
+# rownames(ghppm)=df$iso[match(colnames(ghppm),df$sample)]
+# # pheatmap::pheatmap(ghppm,fontsize = 8)
+# 
+# pdf(file=paste0(draft2,'Supplementary_Figure10.pdf'),width=14,height=14)
+# heatmap.2(ghppm,na.rm = T,dendrogram ="col",trace = "none", Colv = "Rowv",scale = "none",
+#           offsetRow = 0, offsetCol = 0, #colsep = sort(idxc)-1,rowsep=sort(idxr)-1, key=F,
+#           col = rev(brewer.pal(9,"PuOr")),cexCol = .8,cexRow = .8, key.title = 'Dxy',
+#           keysize = 1.,
+#           xlab = "Sample", lhei = c(0.18,0.95),lwid = c(0.18,0.95))
+# invisible(dev.off())
 
-pdf(file=paste0(draft2,'Supplementary_Figure10.pdf'),width=14,height=14)
-heatmap.2(ghppm,na.rm = T,dendrogram ="col",trace = "none", Colv = "Rowv",scale = "none",
-          offsetRow = 0, offsetCol = 0, #colsep = sort(idxc)-1,rowsep=sort(idxr)-1, key=F,
-          col = rev(brewer.pal(9,"PuOr")),cexCol = .8,cexRow = .8, key.title = 'Dxy',
-          keysize = 1.,
-          xlab = "Sample", lhei = c(0.18,0.95),lwid = c(0.18,0.95))
-invisible(dev.off())
+## Absolute divergence computed with Count_Geno_diff.ipynb 
+ghpp = read.csv(file='./data/haplo_aldiffcount_matrix.tsv',header=T,sep="\t")
+ghppm = as.matrix(ghpp[,-1])
+colnames(ghppm) = df$iso[match(colnames(ghppm),df$sample)]
+rownames(ghppm) = colnames(ghppm)
+
+# ## Heatmap supplementary Figure 10
+# pdf(file=paste0(draft2,'Supplementary_Figure10.pdf'),width=14,height=14)
+# heatmap.2(ghppm,na.rm = T,dendrogram ="col",trace = "none", Colv = "Rowv",scale = "none",
+#           offsetRow = 0, offsetCol = 0, #colsep = sort(idxc)-1,rowsep=sort(idxr)-1, key=F,
+#           col = rev(brewer.pal(9,"PuOr")),cexCol = .8,cexRow = .8, key.title = 'Dxy',
+#           keysize = 1.,
+#           xlab = "Sample", lhei = c(0.18,0.95),lwid = c(0.18,0.95))
+# invisible(dev.off())
+
+## output nexus file for network inference with splitstree
+ghpp = as.matrix(ghpp[,-1])
+d = as.dist(ghpp, diag = TRUE)
+phangorn::write.nexus.dist(d, file = "./haplo_btub_dist.nex", append = FALSE, upper = FALSE,
+                           diag = TRUE, digits = getOption("digits"), taxa = TRUE)
+
+## Plot corresponding network after splitstree
+Nnet <- phangorn::read.nexus.networx(file.path("./haplo_btub_dist.nex"))
+vecol = clcol[match(df$geo[match(Nnet$tip.label,df$sample)],levels(factor(df$geo)))]
+Nnet$tip.label = df$iso[match(Nnet$tip.label,df$sample)]
+
+pdf(paste0(draft2,'supplementary_Figure10.pdf'),width=14,height=14)
+plot(Nnet,"2D", use.edge.length = TRUE,
+     show.tip.label = TRUE, show.edge.label = FALSE, edge.label = NULL,
+     show.node.label = FALSE, node.label = NULL, show.nodes = FALSE,
+     tip.color = vecol, edge.color = 'black', edge.width = 1,
+     edge.lty = 1, split.color = NULL, split.width = NULL,
+     split.lty = NULL, font = 1.2, cex = .6)
+dev.off()
 
 #####====== Pair-wise FST between populations ANGSD ALL ====########
 rep="./data/NUC/FST/"
@@ -3356,25 +3445,15 @@ fstpc$FST[fstpc$FST<0] = 0
 fstpc$COMP= factor(gsub('FRG','GUA',fstpc$COMP))
 colpc = c('#0c2c84','#41ab5d','#ec7014')
 options(digits = 3)
-fpc=ggplot(fstpc,aes(x=midPos/1000,y=FST,col=COMP)) +
-  scale_color_manual(values = colpc) + 
-  geom_point(size=fstpc$FST*5,alpha=fstpc$FST*0.9) +
-  scale_x_continuous(breaks = seq(31179783/1000,31193847/1000,2), limits=c(31179783/1000,31193847/1000)) +
-  scale_y_continuous(limits=c(0,1),breaks=seq(0,1,0.2)) +
-  xlab('Position (Kbp)') + ylab('FST') +
-  guides(colour = guide_legend(override.aes = list(size=3))) +
-  theme(text=element_text(size=20),legend.position ='top',legend.title=element_blank())
 
-fpc
-## Draw gene model
-require(Sushi)
+## Import gene model
 
 ## Previous coordinates in V3
 # 31179782-31193850
 # New coord in latest reference: 31179347-31194248
 
 # load the gtf file for genome V4
-gtf.gr <- rtracklayer::import(con ="./data/haemonchus_contortus.PRJEB506.WBPS13.annotations.gtf.gz", format = "gtf" )
+gtf.gr <- rtracklayer::import(con ="~/Documents/REF_FILES/haemonchus_contortus.PRJEB506.WBPS13.annotations.gtf.gz", format = "gtf" )
 gtf.gr <- sortSeqlevels(gtf.gr) # make sure it is sorted
 gtf.gr <- sort(gtf.gr)
 gtf.gr = data.frame(gtf.gr)
@@ -3386,13 +3465,17 @@ chromstart =31179000
 chromend =31195500
 chrom='hcontortus_chr3_Celeg_TT_arrow_pilon'
 
-pdf(file=paste0(draft2,'Figure4b_bottom.pdf'),width=14,height=8)
-pg=plotGenes(pc.gene,chrom,chromstart,chromend ,
-               types=pc.gene$type,maxrows=1,bheight=0.1,plotgenetype="box",
-               bentline=F,labeloffset=.3,fontsize=1.2,arrowlength = 0.01,labeltext=F)
-chrom='Chrom. III'
-labelgenome( chrom, chromstart,chromend,n=8,scale="Mb",cex=1.4)
-dev.off()
+fpc = ggplot() + 
+  geom_rect(data = pc.gene, aes(xmin = start/1000, xmax = stop/1000, ymin = 0.97, ymax = 1.1),
+            fill = "black", alpha = 0.5)+
+  geom_point(data=fstpc,aes(x=midPos/1000,y=FST,col=COMP),size=fstpc$FST*5,alpha=fstpc$FST*0.9) +
+  scale_color_manual(values = colpc) + 
+  scale_x_continuous(breaks = seq(31179347/1000,31194248/1000,2), 
+                     limits=c(31179347/1000,31194248/1000)) +
+  scale_y_continuous(limits=c(0,1.1),breaks=seq(0,1.1,0.2)) +
+  xlab('Position (Kbp)') + ylab('FST') +
+  guides(colour = guide_legend(override.aes = list(size=3))) +
+  theme(text=element_text(size=20),legend.position ='top',legend.title=element_blank())
 
 pdf(file=paste0(draft2,'Figure4b_top.pdf'),width=14,height=8)
 multiplot(pipc,fpc,cols=1)
@@ -3461,6 +3544,96 @@ GOdata <- new("topGOdata", ontology = 'BP', allGenes = geneList,
 htr = unlist(genesInTerm(GOdata,"GO:0006417")) ##- transport
 myInterestingGenes$V1[which(myInterestingGenes$V1 %in% htr)]
 #[1] HCOI00107200 HCOI00456600
+
+####======= Climate differentiation study with additional pops
+
+## Available pop for comparison // AUS.1, STA.1, STA.3 are ivm-resistant
+table(df$iso)[table(df$iso)>5]
+# AUS.1 AUS.2   CAP FRA.1 FRA.2 FRA.3   FRG   IND   MOR   NAM STA.1 STA.2 STA.3   STO   ZAI 
+#    15    10     7    35    12     6    23     6    13    15    14    14    13     9    15
+
+## Sufficient coverage
+aggregate(mcov ~ iso,df,FUN=mean)[,1][aggregate(mcov ~ iso,df,FUN=mean)[,2]>2]
+# "BRA"   "FRA.1" "FRG"   "IND"   "MOR"   "NAM"   "STA.1"
+
+## NAM is the sole population from B-type climate we can use (not enough coverage with CAP)
+## IND, STO, ZAI for A
+## AUS.2 for C type
+
+# A vs. B: IND.NAM, STO.NAM, ZAI.NAM
+# A vs. C: AUS.2.IND AUS.2.STO AUS.2.ZAI 
+# B vs. C: AUS.2.NAM
+
+complist = c('IND.NAM', 'NAM.STO', 'NAM.ZAI',
+             'AUS.2.IND', 'AUS.2.STO', 'AUS.2.ZAI',
+             'AUS.2.NAM') 
+fsttot = matrix(0,1,8)
+colnames(fsttot)= c('chr','midPos','Nsites','FST','bin','POS','COMP','cuto')
+fsttot = data.frame(fsttot)
+topIvmTot = fsttot
+cu = array(0,length(complist))
+n=0
+
+for(comp in complist){
+  n=n+1
+  ch = '1_Celeg_TT'
+  
+  fstclim = read.table(file=paste0('./',ch,'/',comp,'.fst.txt.gz'))
+  colnames(fstclim) = c('chr','midPos','Nsites','FST')
+  fstclim = fstclim[which(fstclim$Nsites>=500),]
+  
+  for(ch in chromlist[-1]){
+    tmp = read.table(file=paste0('./',ch,'/',comp,'.fst.txt.gz'))
+    colnames(tmp) = c('chr','midPos','Nsites','FST')
+    tmp = tmp[which(tmp$Nsites>=500),]
+    fstclim = rbind(fstclim,tmp)
+    rm(tmp)
+  }
+  fstclim$bin=seq(1:dim(fstclim)[1])
+  fstclim = na.omit(fstclim)
+  fstclim$FST[fstclim$FST<0]=0
+  fstclim$POS=0
+  chrom_end=array(0,6)
+  for(c in seq(1:5)){chrom_end[c+1] = chrom_end[c] + max(fstclim$midPos[fstclim$chr==chromlist[c]])}
+  for(c in seq(1:5)){
+    fstclim$POS[fstclim$chr==chromlist[c]] = fstclim$midPos[fstclim$chr==chromlist[c]] + chrom_end[c]
+  }
+  fstclim = fstclim[(fstclim$POS > chrom_end[1]+0.1e6 & fstclim$POS < chrom_end[2]-0.1e6)|
+                      (fstclim$POS > chrom_end[2]+0.1e6 & fstclim$POS < chrom_end[3]-0.1e6)|
+                      (fstclim$POS > chrom_end[3]+0.1e6 & fstclim$POS < chrom_end[4]-0.1e6)|
+                      (fstclim$POS > chrom_end[4]+0.1e6 & fstclim$POS < chrom_end[5]-0.1e6)|
+                      (fstclim$POS > chrom_end[5]+0.1e6 & fstclim$POS < chrom_end[6]-0.1e6),]
+  fstclim$COMP = comp
+  fstclim$cuto = quantile(fstclim$FST,0.995) #mean(fstclim$FST) + 5*sd(fstclim$FST) 
+  cu[n] = quantile(fstclim$FST,0.995)
+  topIvm = fstclim[fstclim$FST>fstclim$cuto,]
+  topIvm$COMP = comp
+  fsttot = rbind(fsttot,fstclim)
+  topIvmTot = rbind(topIvmTot,topIvm)
+  rm(fstclim,topIvm)
+}
+fsttot = fsttot[-1,]
+fsttot = fsttot[fsttot$Nsites>=500 & fsttot$Nsites<30000,]
+fsttot$COMP = factor(fsttot$COMP)
+levels(fsttot$COMP) = c("Arid vs. Tropical (NAM vs. IND)",
+                        "Arid vs. Tropical (NAM vs. STO)",
+                        "Arid vs. Tropical (NAM vs. ZAI)",
+                        "Temperate vs. Tropical (AUS.2 vs. IND)",
+                        "Temperate vs. Tropical (AUS.2 vs. STO)",
+                        "Temperate vs. Tropical (AUS.2 vs. ZAI)",
+                        "Temperate vs. Arid (AUS.2 vs. NAM)")
+
+pdf(file=paste0(draft2,'supplementary_Figure15.pdf'),width=14,height=8)
+ggplot(fsttot[fsttot$chr=='3_Celeg_TT',],aes(x=midPos/1e6,y=FST,col=chr)) +
+  facet_wrap(~ COMP,ncol=1) +
+  geom_hline(data=fsttot,aes(yintercept = cuto), lty=2,lwd=.3) +
+  geom_vline(xintercept = 31179783/1e6) +
+  scale_color_manual(values=chrom.colors[3]) + geom_point(size=.4) +
+  scale_y_continuous(limits=c(0,1),breaks = seq(0,1,.2)) +
+  scale_x_continuous(limits=c(0,45),breaks = seq(0,45,10)) +
+  xlab('Position (Mbp)')+ theme(text=element_text(size=16),legend.position ='none') +
+  ggtitle('')
+dev.off()
 
 #####====== GRADIENT FOREST ANALYSIS = which variable best explain variation ? ====######## 
 library(gradientForest)
@@ -3563,11 +3736,11 @@ supplENVB = fviz_pca_var(pc, axes = c(1, 2), geom = c("arrow", "text"),
                          select.var = list(name =NULL, cos2 = NULL, contrib = NULL)) + 
   ggtitle('') + theme(legend.position = 'none',text = element_text(size=16))
 
-pdf(file=paste0(draft2,'Supplementary_Figure15a.pdf'),width=14,height=14)
+pdf(file=paste0(draft2,'Supplementary_Figure16a.pdf'),width=14,height=14)
 print(supplENVA)
 dev.off()
 
-pdf(file=paste0(draft2,'Supplementary_Figure15b.pdf'),width=8,height=8)
+pdf(file=paste0(draft2,'Supplementary_Figure16b.pdf'),width=8,height=8)
 supplENVB
 dev.off()
 
@@ -3614,6 +3787,59 @@ gfRef1 <- gradientForest(cbind(envGFred2, SNPs_ref), predictor.vars=colnames(env
 importance(gfRef1)
 # bio13       bio7       bio2       bio5      bio17       bio4      bio10      bio15       bio9 
 # 0.02780351 0.02724519 0.02418622 0.02066921 0.02059540 0.02014249 0.01936418 0.01576466 0.01033919 names(importance(gfRef10))
+
+##--- Importance computation after hierarchical mean linkage clustering following PCA
+uncorbio = c(4,7,2,15,9,5,10,19,12)
+uncorbion = length(uncorbio)
+envGF2 = envGF[colnames(envGF) %in% paste0('bio',uncorbio)]
+clust_avg = hclust(dist(t(envGF2)),method = 'average')
+clust_cen = hclust(dist(t(envGF2)),method = 'centroid')
+plot(clust_avg)
+plot(clust_cen)
+
+## 5 main clusters in both cases
+cutree(clust_avg,5)
+# bio2  bio4  bio5  bio7  bio9 bio10 bio12 bio15 bio19 
+#    1     2     3     3     3     3     4     1     5 
+
+## Retain bio2 (cluster 1) / bio4 (c2) / bio7 (c3) / bio12 (c4) / bio19 (c5)
+uncorbio2 = c(2,4,7,12,19)
+uncorbion = length(uncorbio2)
+for(i in 1:length(uncorbio2)){uncorbion[i]=paste0("bio",uncorbio2[i])}
+envGFred2 = envGF[,uncorbion]
+n = 500
+gfRef1 <- gradientForest(cbind(envGFred2, SNPs_ref), predictor.vars=colnames(envGFred2),
+                         response.vars=colnames(SNPs_ref), ntree = n,
+                         maxLevel = maxLevel, trace=T, corr.threshold = 0.5)
+importance(gfRef1)
+#       bio12        bio7        bio2        bio4       bio19 
+# 0.055625649 0.055424343 0.042276597 0.035712905 0.008045986 
+
+## Retain bio15 instead of bio2 (cluster 1) / bio4 (c2) / bio7 (c3) / bio12 (c4) / bio19 (c5)
+uncorbio2 = c(2,4,7,12,19)
+uncorbion = length(uncorbio2)
+for(i in 1:length(uncorbio2)){uncorbion[i]=paste0("bio",uncorbio2[i])}
+envGFred2 = envGF[,uncorbion]
+n = 500
+gfRef1 <- gradientForest(cbind(envGFred2, SNPs_ref), predictor.vars=colnames(envGFred2),
+                         response.vars=colnames(SNPs_ref), ntree = n,
+                         maxLevel = maxLevel, trace=T, corr.threshold = 0.5)
+importance(gfRef1)
+#      bio12       bio7       bio4      bio15      bio19 
+# 0.04453342 0.03778640 0.03582151 0.02088184 0.01502017 
+
+## Retain only 3 main clusters
+uncorbio2 = c(4,7,12)
+uncorbion = length(uncorbio2)
+for(i in 1:length(uncorbio2)){uncorbion[i]=paste0("bio",uncorbio2[i])}
+envGFred2 = envGF[,uncorbion]
+n = 500
+gfRef1 <- gradientForest(cbind(envGFred2, SNPs_ref), predictor.vars=colnames(envGFred2),
+                         response.vars=colnames(SNPs_ref), ntree = n,
+                         maxLevel = maxLevel, trace=T, corr.threshold = 0.5)
+importance(gfRef1)
+#      bio12       bio7       bio4 
+# 0.07807472 0.06935230 0.06144405 
 
 #####====== LFMM ANALYSIS ====########
 setwd('./data/NUC/LFMM/')
