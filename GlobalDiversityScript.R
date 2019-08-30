@@ -61,6 +61,7 @@ require(rasterVis)
 require(rgdal)
 library(methods)
 require(maptools)
+require(viridis)
 
 tbb1 = c(7027135,7029293)
 tbb2 = c(13433925,13436504)
@@ -156,7 +157,7 @@ write.csv(suptab1,file=paste0(draft,"supplementary_table1.csv"))
 clcol = c('#5ab4ac','#ca0020','#d8b365','#252525','#8c510a')
 clcol2 = c('#01665e','#ca0020','#d8b365','#252525','#8c510a')
 
-chrom.colors = c(cols[1],cols[12],cols[2],cols[3],cols[20])
+chrom.colors = c('#440154FF','#3B528BFF','#21908CFF','#5DC863FF','#FDE725FF') #c(cols[1],cols[12],cols[2],cols[3],cols[20])
 chromlist = c('1_Celeg_TT','2_Celeg_TT','3_Celeg_TT','4_Celeg_TT','5_Celeg_TT_axel')
 
 ##-- genome size
@@ -181,13 +182,13 @@ h2$Resistance = factor(h2$Resistance,labels=levels(h2$res))
 
 h2$iso[h2$iso=='FRG'] = 'GUA'
 
-pdf(file=paste0(draft2,'Figure1A.pdf'),width=14,height=8)
+pdf(file=paste0(draft2,'Figure1a.pdf'),width=14,height=8)
 #Using GGPLOT, plot the Base World Map
 mp <- NULL
 mapWorld <- borders("world", colour="gray50", fill="white") # create a layer of borders
 mp <- ggplot() +   mapWorld
 #Now Layer the cities on top
-mp <- mp+ geom_point(data=h2,aes(x=lon, y=lat ,color=Cluster,shape=Resistance), size=3) +
+mp <- mp + geom_point(data=h2,aes(x=lon, y=lat ,color=Cluster,shape=Resistance), size=3) +
   xlab("Longitude") + ylab("Latitude") +
   geom_label_repel(data=h2,segment.alpha = 0.8,size=4,
                    aes(x=lon, y=lat, col=Cluster,label=iso),show.legend = FALSE) +
@@ -806,6 +807,62 @@ plot(k,log10(cv1),pch=19,type='b',ylab='Median absolute deviation')
 dev.off()
 
 #####====== Diversity and divergence between populations  ====########
+
+rep = './data/MITO/'
+
+####----- Downsampling to 5 individuals // this excludes ACO and BRA
+f=table(df$iso[match(covqc$sample_id,df$sample)])
+pop=names(f)[which(f[]>=5)]
+
+tot5=c(0,0,0,0)
+for(i in 1:length(pop)){
+  pi=read.table(paste(rep,'PI5.',pop[i],'.windowed.pi',sep=""),header=T)
+  pi$midpos=pi$BIN_END+(pi$BIN_END-pi$BIN_START)/2
+  pi=pi[,c('midpos','PI','N_VARIANTS')]
+  pi$po=pop[i]
+  tot5=rbind(tot5,pi)
+}
+tot5=tot5[tot5$po!=0,]
+tot5$geo=df$geo[match(tot5$po,df$iso)]
+
+ggplot(tot5,aes(x=midpos,y=PI,col=geo)) +
+  facet_wrap(~ po) + scale_color_manual(values=clcol)+
+  geom_point() 
+
+aggregate(PI ~ po,FUN=mean,data=tot5)
+
+a=aggregate(PI ~ geo,FUN=mean,data=tot5)
+a$std=aggregate(PI ~ geo,FUN=sd,data=tot5)[,2]
+a
+#                   geo          PI         std
+# 1  Mediterranean.Area 0.006270674 0.003692800
+# 2             Oceania 0.005781422 0.003107405
+# 3       South.America 0.006647628 0.003243145
+# 4 Sub.Tropical.Africa 0.006021775 0.003461205
+# 5      Western.Africa 0.007149930 0.004468009
+
+###--- Test
+summary(lm(PI ~ geo,data=tot5)) 
+# Residuals:
+#   Min        1Q    Median        3Q       Max 
+# -0.005240 -0.002388 -0.001247  0.001227  0.023193 
+# 
+# Coefficients:
+#                         Estimate Std. Error t value Pr(>|t|)    
+# (Intercept)            5.884e-03  1.950e-04  30.171  < 2e-16 ***
+# geoOceania             2.293e-04  3.145e-04   0.729 0.466036    
+# geoSouth.America       6.971e-04  4.323e-04   1.613 0.107065    
+# geoSub.Tropical.Africa 5.967e-05  2.880e-04   0.207 0.835873    
+# geoWestern.Africa      1.146e-03  3.046e-04   3.761 0.000178 ***
+#   ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# Residual standard error: 0.0037 on 1227 degrees of freedom
+# Multiple R-squared:  0.01422,	Adjusted R-squared:  0.01101 
+# F-statistic: 4.425 on 4 and 1227 DF,  p-value: 0.001487
+
+0.0008793/0.0062707*100
+#[1] 14.02236
 
 ###--------- Nucleotide diversity using ANGSD 
 rep="./data/NUC/TAJHI"
@@ -1581,12 +1638,12 @@ tm$cov1 = df$mcov[match(tm$iso1,df$iso)]
 tm$cov2 = df$mcov[match(tm$iso2,df$iso)]
 tm$crosscov = tm$cov1*tm$cov2
 
-###-- Supplementary Figure 19
+###-- Supplementary Figure 21
 pSupplFSTB = ggplot(tm,aes(x=crosscov,y=MEAN_FST)) + ggtitle('b') + scale_x_log10() +
   xlab('Cross-coverage') + ylab('FST') + scale_y_continuous(limits=c(0,0.65)) +
   geom_smooth(method='lm') + geom_point() + theme(text=element_text(size=16),legend.position='bottom')
 
-pdf(file=paste0(draft2,'Supplementary_Figure19.pdf'),width=14,height=8)
+pdf(file=paste0(draft2,'Supplementary_Figure21.pdf'),width=14,height=8)
 multiplot(pSupplFSTANGSD,pSupplFSTB,cols=2)
 dev.off()
 
@@ -1747,7 +1804,7 @@ p1=ggplot(md[md$c1<2.5 & md$c2<2.5,],aes(x=crosscov,y=value)) +
   geom_point(size=.5)+xlab('Cross coverage')+ylab('1-IBS') + scale_x_log10() +
   geom_smooth(method='lm') + ggtitle('a')
 
-pdf(file=paste0(draft2,'Supplementary_Figure20.pdf'))
+pdf(file=paste0(draft2,'Supplementary_Figure22.pdf'))
 multiplot(p1,p2,cols=1)
 dev.off()
 
@@ -2136,7 +2193,6 @@ options(digits = 3)
 require(ggtree)
 x = read.beast("./data/MITO/HKY_equalrate_nopart_strict_Cele50M_muscle.MCC")
 
-clcol = c('#5ab4ac','#ca0020','#d8b365','#252525','#8c510a')
 cols <- ggtree::scale_color(x, by="height")
 pop = sapply(str_split(sapply(str_split(fortify(x)$label,"-"), function(x) x[2]),"_"),function(x) x[1])
 pop[pop=='ITA']='AUS' ## Rename Australian isolate from Italian lab
@@ -3115,6 +3171,10 @@ chr1[chr1$midPos>tbb1[1]-5000 & chr1$midPos<tbb1[1]+5000,]
 
 ###--- Pair-Wise FST using ANGSD / Polycomb
 setwd("./data/NUC/CLIM/")
+
+## Data from Chen, D. & Chen, H. W. 
+#Using the Köppen classification to quantify climate variation and change: An example for 1901–2010. 
+#Environmental Development 6, 69-79 (2013).
 
 clim=read.table(file='./data/koppen_1901-2010.tsv',header=T)
 colnames(clim)=c("lon","lat","kop")
